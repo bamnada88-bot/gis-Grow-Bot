@@ -1,0 +1,27 @@
+APPLIED: 21
+NOT APPLIED (19):
+  - Green_Grow_Bot_Canonical_Spec.md :: ④ اعتماد قوائم والفريق
+  - Green_Grow_Bot_Master_Strategy.md :: الزيارات القادمة ونتائجها
+  - Green_Grow_Bot_Educational_Model.md :: عدم توصيل μC Villain زاвет
+  - Green_Grow_Bot_Educational_Model.md :: عدم توصيل μC Villain завет
+  - Green_Grow_Bot_Educational_Model.md :: إدارةالمشروع، عرض وت defenses
+  - Green_Grow_Bot_Educational_Model.md :: إدارة 项目، عرض وت defenses
+  - Green_Grow_Bot_Educational_Model.md :: إدارة المشروع، عرض وتوثيق
+  - Green_Grow_Bot_Educational_Model.md :: إدارة  السلامة للمعرض
+  - Green_Grow_Bot_Educational_Model.md :: مبرر صريح يخاطب discard المبدأ
+  - Green_Grow_Bot_Educational_Model.md :: ومعمل الأ cience
+  - Green_Grow_Bot_Educational_Model.md :: Initiative يُقاس ويُنشر
+  - Green_Grow_Bot_Educational_Model.md :: ت twitching
+  - Green_Grow_Bot_Event_Runbook.md :: > من ∂Mismatch يقرأ ما تعلّمه طالب — على بعد √من الواحد والستي
+  - Green_Grow_Bot_PR_and_Media.md :: ### 6.1 القمع وم-map التحول
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: موعد 도착 للوصول موصى به
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: تصويري أنا خلالalisia proceedings
+  - Green_Grow_Bot_Speaker_Script.md :: > وهذه المساء، كثير Streambadges —
+  - Green_Grow_Bot_Speaker_Script.md :: خطوة أولى في  ودعم تطبيقي؛ من reclamation ارس — تبادل الخبرة.
+  - Green_Grow_Bot_Speaker_Script.md :: الاستخدام covered من موارد المدرسة
+
+SCRIPT-STRIP CHANGED LINES (4):
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: ☐ أوافق على تصويري أنا خلال 행사를 يوم 15 نوفمبر 2026  ==>  ☐ أوافق على تصويري أنا خلال  يوم 15 نوفمبر 2026
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: فإننا نتشرف بدعوتكم للمشاركة في جلسة حوار حول 다음 المحاور:  ==>  فإننا نتشرف بدعوتكم للمشاركة في جلسة حوار حول  المحاور:
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: [اختر واحدًا: ① 방문 مختبر المدرسة للاطلاع على المرحلة التجريبية · ② توفير  ==>  [اختر واحدًا: ①  مختبر المدرسة للاطلاع على المرحلة التجريبية · ② توفير
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: نأمل إفادتنا بجدولكم회의 قبل [تاريخ] لتخصيص جلسة تعرّف قصيرة عبر الإنترنت  ==>  نأمل إفادتنا بجدولكم قبل [تاريخ] لتخصيص جلسة تعرّف قصيرة عبر الإنترنت

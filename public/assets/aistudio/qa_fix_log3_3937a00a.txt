@@ -1,0 +1,27 @@
+APPLIED: 13
+NOT APPLIED (5):
+  - Green_Grow_Bot_Educational_Model.md :: مبرر صريح يخاطب\s+discard\s+المبدأ
+  - Green_Grow_Bot_Educational_Model.md :: ومعمل\s*الأ\s*-science
+  - Green_Grow_Bot_Event_Runbook.md :: > من ∂Mismatch يقرأ[^\n]*?\*\*f_team، نلتقي في الصف\.\*\*
+  - Green_Grow_Bot_PR_and_Media.md :: ### 6\.1 القلع[^\n]*التحول
+  - Green_Grow_Bot_Speaker_Script.md :: الاستخدام\s+covered\s+من موارد المدرسة
+
+RESIDUAL STRAY SCRIPTS STRIPPED: 18
+  - Green_Grow_Bot_Educational_Model.md :: '있'
+  - Green_Grow_Bot_Educational_Model.md :: '지'
+  - Green_Grow_Bot_Educational_Model.md :: '만'
+  - Green_Grow_Bot_Educational_Model.md :: '결'
+  - Green_Grow_Bot_Educational_Model.md :: '과'
+  - Green_Grow_Bot_Event_Runbook.md :: '학'
+  - Green_Grow_Bot_Event_Runbook.md :: '생'
+  - Green_Grow_Bot_Event_Runbook.md :: '센'
+  - Green_Grow_Bot_Master_Strategy.md :: '문'
+  - Green_Grow_Bot_Master_Strategy.md :: '제'
+  - Green_Grow_Bot_Master_Strategy.md :: '는'
+  - Green_Grow_Bot_Master_Strategy.md :: '제'
+  - Green_Grow_Bot_Master_Strategy.md :: '시'
+  - Green_Grow_Bot_PR_and_Media.md :: '범'
+  - Green_Grow_Bot_PR_and_Media.md :: '관'
+  - Green_Grow_Bot_PR_and_Media.md :: '심'
+  - Green_Grow_Bot_Speaker_Script.md :: '국'
+  - Green_Grow_Bot_Speaker_Script.md :: '립'

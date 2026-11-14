@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>دعوة رسمية - Green Grow Bot</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Tajawal', sans-serif;
+            background-color: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .invitation-card {
+            width: 148mm; /* A5 Width */
+            height: 210mm; /* A5 Height */
+            background-color: #0B1B3D; /* Deep Navy */
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            padding: 40px 30px;
+            box-sizing: border-box;
+            background-image: 
+                radial-gradient(circle at 100% 0%, rgba(212, 175, 55, 0.1) 0%, transparent 40%),
+                radial-gradient(circle at 0% 100%, rgba(212, 175, 55, 0.05) 0%, transparent 40%);
+        }
+        .gold-border {
+            position: absolute;
+            top: 15px; left: 15px; right: 15px; bottom: 15px;
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            pointer-events: none;
+            z-index: 1;
+        }
+        .text-gold { color: #D4AF37; } /* Elegant Gold */
+        .logos-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            z-index: 10;
+        }
+        .logo-placeholder {
+            width: 90px;
+            height: 90px;
+            border: 1px dashed rgba(255,255,255,0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+            text-align: center;
+            border-radius: 8px;
+            background: rgba(255,255,255,0.05);
+        }
+        .content { z-index: 10; text-align: center; margin-top: 20px;}
+        .circuit-bg {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80%; opacity: 0.03;
+            z-index: 0;
+            pointer-events: none;
+        }
+        /* Print Styles */
+        @media print {
+            body { background: none; }
+            .invitation-card { box-shadow: none; width: 148mm; height: 210mm; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="invitation-card">
+        <div class="gold-border"></div>
+        
+        <!-- Abstract Circuit Background (SVG Placeholder) -->
+        <svg class="circuit-bg" viewBox="0 0 100 100" fill="none" stroke="#D4AF37" stroke-width="0.5">
+            <path d="M10,50 h20 l10,-10 h20 l10,10 h20" />
+            <circle cx="30" cy="50" r="2" fill="#D4AF37"/>
+            <circle cx="60" cy="40" r="2" fill="#D4AF37"/>
+        </svg>
+
+        <div class="logos-container">
+            <div class="logo-placeholder">
+                [شعار Green<br>International<br>Schools]
+            </div>
+            <div class="logo-placeholder">
+                [شعار AXMIND<br>في حال<br>الاعتماد]
+            </div>
+        </div>
+
+        <div class="content">
+            <h3 class="text-sm font-light tracking-wider mb-2 text-gold">دعوة رسمية</h3>
+            <h1 class="text-3xl font-bold mb-1">حفل إطلاق مبادرة</h1>
+            <h2 class="text-4xl font-extrabold mb-4 text-gold tracking-wider" style="font-family: Arial, Helvetica, sans-serif;">GREEN GROW BOT</h2>
+            
+            <div class="w-16 h-px bg-gold mx-auto mb-4" style="background-color: #D4AF37;"></div>
+            
+            <p class="text-lg font-medium mb-6 text-gray-200">
+                «من التعليم إلى الابتكار، نبني مهارات المستقبل اليوم»
+            </p>
+
+            <p class="text-sm font-light leading-relaxed mb-8 px-4 text-gray-300">
+                تتشرف مدارس جرين إنترناشونال بدعوة سيادتكم لحضور إطلاق مبادرة تعليمية تطبيقية تهدف إلى ربط التعلم الأكاديمي بالممارسة العملية، وتنمية مهارات التصميم والابتكار وحل المشكلات لدى الطلاب، دعماً لجهود تطوير التعليم والاستعداد لاحتياجات سوق العمل المستقبلي.
+            </p>
+        </div>
+
+        <div class="content w-full">
+            <div class="flex flex-col items-center gap-3 text-sm text-gray-200">
+                <div class="flex items-center gap-2">
+                    <span class="text-gold font-bold">الداعي:</span>
+                    <span>الأستاذ أحمد جبر</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="text-gold font-bold">التاريخ:</span>
+                    <span>الأحد 15 نوفمبر 2026</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="text-gold font-bold">المكان:</span>
+                    <span>فندق JW Marriott، القاهرة</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="text-gold font-bold">موعد الحضور:</span>
+                    <span>[يحدد بعد اعتماد البرنامج]</span>
+                </div>
+            </div>
+
+            <div class="mt-8 p-3 border border-gold rounded text-xs text-gray-300 inline-block" style="border-color: rgba(212, 175, 55, 0.4);">
+                <p class="mb-1 text-gold">لتأكيد الحضور (RSVP):</p>
+                <p>[رقم الهاتف] | [البريد الإلكتروني]</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

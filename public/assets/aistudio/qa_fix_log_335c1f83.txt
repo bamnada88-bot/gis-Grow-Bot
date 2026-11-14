@@ -1,0 +1,100 @@
+APPLIED: 223
+NOT APPLIED (41):
+  - Green_Grow_Bot_90_Day_Roadmap.md :: لا إلى continuity النشر الإعلامي
+  - Green_Grow_Bot_Canonical_Spec.md :: | .provider + مستثمر |
+  - Green_Grow_Bot_Canonical_Spec.md :: ③ تجرب العرض كاملة
+  - Green_Grow_Bot_Educational_Model.md :: Subidiary three — لا لأنInitiative تستبدل المنهج
+  - Green_Grow_Bot_Educational_Model.md :: يوثّق ما فعله فيtabدالصف الثاني عشر
+  - Green_Grow_Bot_Educational_Model.md :: لا يُفكّ تحت присدل
+  - Green_Grow_Bot_Educational_Model.md :: ): 的铁 نظارة و Etsy نهوية، شفط،
+  - Green_Grow_Bot_Educational_Model.md :: لا لحام بالطلاب لوحدهم
+  - Green_Grow_Bot_Educational_Model.md :: يبني موقفًا تعلّمًا من和能力 الطالب
+  - Green_Grow_Bot_Educational_Model.md :: ومعمل الأscience
+  - Green_Grow_Bot_Educational_Model.md :: قياس أثر nasخ ADU-01/EDU-02
+  - Green_Grow_Bot_Educational_Model.md :: نتيجة Initiative يُقاس ويُنشر
+  - Green_Grow_Bot_Event_Runbook.md :: وال和能力这段时间 الطويلة تُهدر المورد الأدق
+  - Green_Grow_Bot_Event_Runbook.md :: ☐ قاعة وخدمات mConfira
+  - Green_Grow_Bot_Master_Strategy.md :: في التقييم التعليمي؛致命的 مشكلة
+  - Green_Grow_Bot_Master_Strategy.md :: الزيارات Motorola Coming|result
+  - Green_Grow_Bot_PR_and_Media.md :: «الملف个人»/«ملف الإنجاز
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: | **B** | نواب/شيوخ + مستثمرون + جهات现金 |
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: «الولا不看Assembler صوته»
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: Cairo Marriott (١٣٦م²/قاعات)
+  - Green_Grow_Bot_Speaker_Script.md :: في الصف الثالث يُضاف مؤشر ضوئي:if أضاف دارة بسيطة. وفي الصف السادس يضي
+  - Green_Grow_Bot_Speaker_Script.md :: > وهذه المساء،项目和 viele Streambadges —
+  - Green_Grow_Bot_Speaker_Script.md :: خطوة أولى في器材 ودعم تطبيقي؛ من reclamation مدارس — تبادل الخبرة.
+  - Green_Grow_Bot_Canonical_Spec.md :: REGEX ③ تجرب[\ufffd]* العرض كاملة
+  - Green_Grow_Bot_Canonical_Spec.md :: REGEX في\.?时刻 الفعلية
+  - Green_Grow_Bot_Master_Strategy.md :: REGEX في\.?时刻 الفعلية
+  - Green_Grow_Bot_Master_Strategy.md :: REGEX الزيارات [A-Za-z]+ Coming\s*\|\s*[^|\n]*
+  - Green_Grow_Bot_Educational_Model.md :: REGEX \|\s*[^|\n]*الطالب[^|\n]*\|\s*—\s*\|\s*$
+  - Green_Grow_Bot_Educational_Model.md :: REGEX من\S{0,3}能力和\S{0,3}الطالب
+  - Green_Grow_Bot_Educational_Model.md :: REGEX \|[^|\n]*وجود[^|\n]*: بنى شيئًا
+  - Green_Grow_Bot_Educational_Model.md :: REGEX الحركة causale
+  - Green_Grow_Bot_PR_and_Media.md :: REGEX (?m)^grown-up multiplexer[^\n]*\n[^\n]*\n-[ \t]*[^\n]*\n
+  - Green_Grow_Bot_PR_and_Media.md :: REGEX Parental\s*التزمت\s*INCLUDE\s*التي:
+  - Green_Grow_Bot_PR_and_Media.md :: REGEX \bstudents\s*偏\s*specialty؟»
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: REGEX الرسالة\S{0,3}電子踏 ترقيمها
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: REGEX وتطوير\.\s*distanceJAVA\s*التعليمي؛ ف\S{0,3}意见كم يصنع الفارق
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: REGEX لا 我们 نعد بنتائج لم occurring بعد
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: REGEX مادة\S{0,3}工程项目\S{0,3}限\S{0,3}的
+  - Green_Grow_Bot_Speaker_Script.md :: REGEX في\.?\s*待\s*الصف الثامن
+  - Green_Grow_Bot_Speaker_Script.md :: REGEX في器材 ودعم تطبيقي؛ من reclamation مدارس — تبادل الخبرة
+  - Green_Grow_Bot_Speaker_Script.md :: REGEX ولأن Chargephemerality
+
+CJK STRIPPED BY GENERIC PASS (55):
+  - Green_Grow_Bot_Canonical_Spec.md :: 飲
+  - Green_Grow_Bot_Canonical_Spec.md :: 食
+  - Green_Grow_Bot_Educational_Model.md :: タ
+  - Green_Grow_Bot_Educational_Model.md :: ブ
+  - Green_Grow_Bot_Educational_Model.md :: 的
+  - Green_Grow_Bot_Educational_Model.md :: 铁
+  - Green_Grow_Bot_Educational_Model.md :: 让
+  - Green_Grow_Bot_Educational_Model.md :: 学
+  - Green_Grow_Bot_Educational_Model.md :: 生
+  - Green_Grow_Bot_Educational_Model.md :: 安
+  - Green_Grow_Bot_Educational_Model.md :: 全
+  - Green_Grow_Bot_Educational_Model.md :: 管
+  - Green_Grow_Bot_Educational_Model.md :: 理
+  - Green_Grow_Bot_Educational_Model.md :: 能
+  - Green_Grow_Bot_Educational_Model.md :: 力
+  - Green_Grow_Bot_Educational_Model.md :: 和
+  - Green_Grow_Bot_Educational_Model.md :: 的
+  - Green_Grow_Bot_Educational_Model.md :: 依
+  - Green_Grow_Bot_Educational_Model.md :: 据
+  - Green_Grow_Bot_Event_Runbook.md :: 和
+  - Green_Grow_Bot_Event_Runbook.md :: 能
+  - Green_Grow_Bot_Event_Runbook.md :: 力
+  - Green_Grow_Bot_Event_Runbook.md :: 这
+  - Green_Grow_Bot_Event_Runbook.md :: 段
+  - Green_Grow_Bot_Event_Runbook.md :: 时
+  - Green_Grow_Bot_Event_Runbook.md :: 间
+  - Green_Grow_Bot_Master_Strategy.md :: 致
+  - Green_Grow_Bot_Master_Strategy.md :: 命
+  - Green_Grow_Bot_Master_Strategy.md :: 的
+  - Green_Grow_Bot_Master_Strategy.md :: 、
+  - Green_Grow_Bot_Master_Strategy.md :: 結
+  - Green_Grow_Bot_Master_Strategy.md :: 果
+  - Green_Grow_Bot_PR_and_Media.md :: ，
+  - Green_Grow_Bot_PR_and_Media.md :: 而
+  - Green_Grow_Bot_PR_and_Media.md :: 不
+  - Green_Grow_Bot_PR_and_Media.md :: 个
+  - Green_Grow_Bot_PR_and_Media.md :: 人
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 現
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 金
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 有
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 限
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 的
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 工
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 程
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 项
+  - Green_Grow_Bot_Protocol_and_Invitations.md :: 目
+  - Green_Grow_Bot_Speaker_Script.md :: 。
+  - Green_Grow_Bot_Speaker_Script.md :: 待
+  - Green_Grow_Bot_Speaker_Script.md :: 项
+  - Green_Grow_Bot_Speaker_Script.md :: 目
+  - Green_Grow_Bot_Speaker_Script.md :: 和
+  - Green_Grow_Bot_Speaker_Script.md :: 器
+  - Green_Grow_Bot_Speaker_Script.md :: 材
+  - Green_Grow_Bot_Speaker_Script.md :: 了
+  - Green_Grow_Bot_Speaker_Script.md :: 这

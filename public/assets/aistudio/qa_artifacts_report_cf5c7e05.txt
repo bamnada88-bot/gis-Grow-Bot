@@ -1,0 +1,1083 @@
+==============================================================================================================
+Green_Grow_Bot_90_Day_Roadmap.md
+  L5      LATword:initiative             **الجهة المالكة:** مدارس جرين إنترناشونال — initiative Green Grow Bot
+  L10     LATword:continuidad            > **مبدأ الحاكم لهذه الخطة:** الخطة تنتهي إلى **تجربة تعليمية قابلة للتقييم** — لا إلى continuidad النشر الإعلامي. النشر جزء من الأدوات، وليس الغاية.
+  L17     LATword:COM-                   1. **لا تُنسب أي زيادة في قيمة المدرسة إلى الحفل.** ما يُقاس هو مسار التحويل فقط (COM-01 إلى COM-04).
+  L22     LAT|AR:ecu                     6. **محتوى معecu بدون إنجاز فعلي لا يُنشر** — كل منشور يشير إلى وثيقة أو رقم أو صورة موثّقة.
+  L30     LAT|AR:documentation           | **1** | 1–7 | 16–22 نوفمبر 2026 | **الاستdocumentation والتشغيل الأول** | تحويل الحفل إلى حالة تشغيل، وقياس خط الأساس | خط أساس موثّق + أول استفسارات مُتابَعة + تجربة صفية واحدة موثّقة | 4
+  L31     LATword:EDU-                   | **2** | 8–30 | 23 نوفمبر – 15 ديسمبر 2026 | **التجربة المراقَبة** | تشغيل تجريبي منظّم في صفوف مختارة + أول قياس | أول تقرير نتائج أولية (EDU-01/02/04) + 4 جلسات معلمين | 180,000–420,000 ج
+  L35     LATword:floor                  > **الإجمالي التقديري (floor) ≈ 465,000 ج.م — السقف ≈ 1,105,000 ج.م.**
+  L36     LATword:Budget , LATword:KPIs , LATword:and , LATword:electronicsegypt , LATword:xlsx > هذه تقديرات تخطيط مبنية على أسعار السوق المُتحقق منها (مصدرها: electronicsegypt.com، أسعار محدّثة 28 أكتوبر 2026) وعلى أسعار الموردين غير المسعّرة الموضّحة في `Green_Grow_Bot_Budget_and_KP
+  L45     LATword:EVT-                   | 1.1 | إغلاق الحلقة التشغيلية للحفل: حصر الحضور الفعلي لا التقديري | EVT-03 |
+  L46     LATword:COM-                   | 1.2 | تحويل كل استفسار وارد إلى بيانات قابلة للقياس (رمز مصدر إلزامي) | COM-01 |
+  L47     LATword:EDU-                   | 1.3 | تثبيت خط الأساس لكل مؤشر قبل أي قياس «بعد» | EDU-01..04 |
+  L49     CJK[管,道] , LATword:COM-        | 1.5 | إطلاق متابعة管道 التحويل خلال 24–48 ساعة | COM-02 |
+  L54     LATword:EVT- , LATword:vs      | 1 | قسمة البوابة وتحليل قائمة الحضور → حصر الفعلي vs المؤكد vs المرفوض | CRM + PRO | 16 نوفمبر | تقرير حضور | EVT-03 / EVT-04 |
+  L55     LATword:EVT- , LATword:PR      | 2 | عدّ التغطية الإعلامية (تحريري / رقمي / مدفوع) وفصلها | PR | 16 نوفمبر | سجل تغطية v1 | EVT-07 |
+  L56     LATword:PR                     | 3 | إصدار بيان النتائج بالأرقام المتوفرة فقط (لا تقديرات) | PR | 17 نوفمبر | بيان منشور | — |
+  L57     LATword:COM- , LATword:leads   | 4 | بدء الاستفسارات: تحميل كل leads في CRM مع رمز مصدر | CRM | 17 نوفمبر | سجل CRM | COM-01 |
+  L60     LATword:COM-                   | 7 | تقاطع خط الأساس: استخراج متوسط الاستفسارات/الزيارات/التسجيلات لـ 3 أشهر سابقة | CRM + القبول | 19 نوفمبر | جدول خط الأساس | COM-01..04 |
+  L61     LATword:EDU-                   | 8 | توثيق خط الأساس التعليمي: رضا محايد (قبل التطبيق) لـ 15–20 طالبًا + 5–8 معلمين | CT | 20 نوفمبر | خط أساس EDU-01/02/03 | EDU-01..03 |
+  L62     LATword:EDU- , LATword:KG      | 9 | **تجربة صفية واحدة موثّقة** في صف واحد (المرحلة KG أو G1) — تحضير + تنفيذ + توثيق بالصور | CT + معلم | 21 نوفمبر | درس موثّق + Rubric مطبّق | EDU-02 |
+  L63     LATword:EDU-                   | 10 | إعداد أداة القياس: Rubric الرباعي + نموذج الطالب + نموذج المعلم | CT | 20 نوفمبر | أدوات جاهزة | EDU-02 |
+  L64     LATword:EVT-                   | 11 | تجميد قائمة الفرص الواردة من الحفل | CT | 20 نوفمبر | سجل فرص v1 | EVT-06 |
+  L66     LATword:COM-                   | 13 | ترتيب أول مواعيد زيارات المختبر | CRM | 22 نوفمبر | 4 مواعيد | COM-02 |
+  L81     LATword:EVT-                   | EVT-03 | يُستخرج | — | تقرير البوابة |
+  L82     LATword:COM-                   | COM-01 | متوسط 3 أشهر | ≥ 20 استفسارًا | سجل CRM |
+  L83     LATword:COM-                   | COM-02 | — | ≥ 4 زيارات | جدول المواعيد |
+  L84     LATword:EVT-                   | EVT-06 | 0 | ≥ 3 فرص مؤهلة | سجل الفرص |
+  L85     LATword:EDU-                   | EDU-01 | يُقاس (قبل) | — | استبيان محايد |
+  L86     LATword:EDU-                   | EDU-02 | 0 | ≥ 60% في التجربة الأولى | Rubric |
+  L113    LATword:EDU-                   | 2.1 | تشغيل تجريبي منظّم في عدد محدود من الفصول والمعلمين | EDU-02 |
+  L114    LATword:EDU-                   | 2.2 | قياس رضا المقيمين (L1) وإتقان المهارات (L2) وإثبات أول بيانات «بعد» | EDU-01 / EDU-02 |
+  L115    LATword:EDU-                   | 2.3 | رفع نسبة المعلمين الذين يطبّقون المشروع فعليًا (L3 — تُقاس عند 90 يومًا) | EDU-03 |
+  L116    LATword:COM-                   | 2.4 | تحويل الاستفسارات إلى زيارات وتطبيقات | COM-02 / COM-03 |
+  L124    CJK[长,青]                       | 2 | تجهيز长青 المجهّز للمرحلة الأولى (شراء + اختبار) | DEMO + FIN | 25 نوفمبر | معدة جاهزة | — |
+  L125    LATword:EDU- , LATword:TOT     | 3 | **TOT #1**: تدريب معلمي المرحلة الأولى (يوم كامل) | CT | 26 نوفمبر | 10–15 معلمًا مدرَّبًا | EDU-03 (خط أساس) |
+  L126    LATword:TOT , LAT|AR:Naharir   | 4 | **TOT #2**: تدريب معلمي المرحلة الثانية + تأهيل المNaharir | CT | 29 نوفمبر | 10–15 معلمًا مدرَّبًا | — |
+  L127    LATword:EDU-                   | 5 | بدء التطبيق الفعلي في الفصول المختارة | CT + معلمون | 30 نوفمبر | حصص جارية | EDU-02 |
+  L128    LATword:EDU-                   | 6 | استبيان الرضا (L1) بعد أول أسبوعين من التطبيق | CT | 7 ديسمبر | بيانات رضا | EDU-01 |
+  L129    LATword:EDU-                   | 7 | تقييم Rubric لأعمال الطلاب (L2) — دورة أولى | CT | 10 ديسمبر | بيانات إتقان | EDU-02 |
+  L130    LATword:COM-                   | 8 | **جلسة تعريف للمعلمين** (أولياء الأمور) | CRM | 9 ديسمبر | حضور + أسئلة | COM-02 |
+  L131    LATword:COM-                   | 9 | تحويل الاستفسارات: تأكيد مواعيد الزيارات | CRM | أسبوعيًا | ≥ 8 زيارات | COM-02 |
+  L133    LATword:EVT-                   | 11 | أول جلسة شراكة مع جهة (TIEC / جامعة / شركة) | CT + PM | 5 ديسمبر | محضر + الخطوة التالية | EVT-05 |
+  L134    LATword:EVT- , LATword:PR      | 12 | التصوير داخل الفصول (بموافقة) — بناء مكتبة محتوى | PR + CT | 5–12 ديسمبر | 30 صورة + 3 مقاطع | EVT-07 |
+  L135    LATword:EDU- , LATword:PR      | 13 | **أول تقرير نتائج أولية** (نشر) | CT + PR | 15 ديسمبر | تقرير + بيان موجز | EDU-01/02/04 |
+  L136    LATword:EVT- , LATword:PR      | 14 | تقرير التغطية (تحريري/رقمي/مدفوع) | PR | 14 ديسمبر | تقرير التغطية | EVT-07 |
+  L137    LATword:COM-                   | 15 | مراجعة تجارية: الاستفسارات ← الزيارات ← التقديم | CRM | 15 ديسمبر | لوحة القمع | COM-01..04 |
+  L142    LATword:COM-                   | متابعة الاستفسارات (48 ساعة) | يوميًا 13:00 | CRM | COM-01 |
+  L143    LATword:EDU-                   | قياس أسبوعي للتجربة الصفية | أسبوعيًا | CT | EDU-02 |
+  L144    LATword:EVT-                   | مراجعة أسبوعية لغرص الشراكة | أسبوعيًا | CT | EVT-06 |
+  L145    LATword:EVT-                   | اتصال أسبوعي بالمهتمين (شراكة) | أسبوعيًا | PRO | EVT-05 |
+  L153    LATword:PR                     | 3 | **تقرير النتائج الأولية** (L1 + L2) | PDF منشور | CT + PR |
+  L156    LATword:PR                     | 6 | تقرير التغطية | مستند | PR |
+  L161    LATword:EDU-                   | EDU-01 (رضا) | من المرحلة 1 | ≥ 4.0 / 5 | استبيان |
+  L162    LATword:EDU-                   | EDU-02 (إتقان) | 0 | ≥ 70% من الطلاب عند ≥ 80% | Rubric |
+  L163    LATword:EDU-                   | EDU-04 (اكتمال الملف) | 0 | ≥ 60% | مراجعة الملفات |
+  L164    LATword:COM-                   | COM-01 | خط الأساس | ≥ 40 إجمالي | CRM |
+  L165    LATword:COM-                   | COM-02 | 0 | ≥ 12 زيارة | جدول |
+  L166    LATword:COM-                   | COM-03 | 0 | ≥ 20 طلب تقديم | نظام القبول |
+  L167    LATword:EVT-                   | EVT-05 | 0 | ≥ 4 اجتماعات | CRM + محاضر |
+  L168    LATword:EVT-                   | EVT-06 | 0 | ≥ 4 فرص مؤهلة | سجل الفرص |
+  L169    LATword:EVT-                   | EVT-07 | 0 | ≥ 6 مواد منشورة | سجل التغطية |
+  L174    LATword:Monkeypatched          | تسرّب المنهج /Monkeypatched الصفوف | متوسط | مرتفع | مراجعة أسبوعية لخطط الحصص + مدير المدرسة | CT |
+  L176    LATword:PR                     | تسرّب منتجات المنصة إلى أولياء الأمور قبل الجاهزية | منخفض | مرتفع | لا صور طلاب إلا بموافقة + مراجعة PR قبل النشر | PR |
+  L198    LATword:EDU-                   | 3.1 | توسيع التجربة إلى صف/مرحلة ثانية **بموجب بيانات** | EDU-02 |
+  L199    LATword:EVT-                   | 3.2 | توقيع أول شراكة تشغيلية | EVT-06 |
+  L202    LATword:EDU-                   | 3.5 | قياس نقل التعلّم (L3) — الملاحظة الصفية | EDU-03 |
+  L203    LATword:COM-                   | 3.6 | تحويل جزء من الاستفسارات إلى تسجيلات فعلية | COM-04 |
+  L208    LATword:EDU-                   | 1 | توسيع التشغيل إلى الصف/المرحلة التالية | CT | 20 ديسمبر | خطة توسّع | EDU-02 |
+  L209    LATword:EVT-                   | 2 | **توقيع اتفاق شراكة** (جامعة / شركة / جهة) | PM + CT | 15 يناير | اتفاق موقّع + مالك | EVT-06 |
+  L210    CJK[容,易,比,较] , LATword:EDU-    | 3 | دورة تدريب ثالثة (معلمون جدد) + توثيق比较容易 | CT | 5 يناير | سجل تدريب | EDU-03 |
+  L211    LATword:EVT- , LATword:PR      | 4 | **معرض الطلاب الأول** (داخلي) — عرض مشاريع المرحلة الأولى | CT + PR | 10 يناير | معرض + صور + تغطية | EVT-07 |
+  L213    LATword:EDU-                   | 6 | قياس L3: ملاحظة صفية مقننة (عيّنة ≥ 20 معلمًا/طالبًا) | CT + مدير المدرسة | 31 يناير | تقرير ملاحظة | EDU-03 |
+  L215    LATword:COM-                   | 8 | تحديث لوحة المؤشرات + مراجعة تجارية | CRM + PM | أسبوعيًا | لوحة | COM-01..04 |
+  L216    CJK[一,场] , LATword:COM- , LATword:examples | 9 | ح_examples一场 جلسة مع أولياء الأمور (تقرير فصلي) | CRM | 8 يناير | جلسة | COM-02 |
+  L217    LATword:feasibility            | 10 | استكشاف التوسّع لصفوف أعلى (اختبار G3–G4) | CT + DEMO | 5 يناير | تقرير feasibility | — |
+  L223    LATword:COM-                   | متابعة الاستفسارات (48 ساعة) | يوميًا | CRM | COM-01 |
+  L224    LATword:EDU-                   |Rubric دورة ثانية | كل 6 أسابيع | CT | EDU-02 |
+  L225    LATword:EVT-                   | اتصال الشراكات | أسبوعيًا | CT | EVT-05/06 |
+  L226    LATword:EVT- , LATword:PR      | محتوى الجودة (مرتبط بالإنجاز فقط) | 3 منشورات/أسبوع | PR | EVT-07 |
+  L233    LATword:PR                     | 3 | تقرير معرض الطلاب | مستند + صور | CT + PR |
+  L241    LATword:EDU-                   | EDU-02 | من المرحلة 2 | ≥ 75% | Rubric |
+  L242    LATword:EDU-                   | EDU-03 | 0 | ≥ 60% من المدرَّبين يطبّقون | ملاحظة مقننة |
+  L243    LATword:EDU-                   | EDU-04 | من المرحلة 2 | ≥ 80% | مراجعة الملفات |
+  L244    LATword:EDU-                   | EDU-06 | — | ≥ 70% (إن طُبّق على G12) | سجل المشاريع |
+  L245    LATword:COM-                   | COM-03 | من المرحلة 2 | ≥ 40 طلب | نظام القبول |
+  L246    LATword:COM-                   | COM-04 | 0 | ≥ 8 تسجيلات منسوبة | نظام القبول |
+  L247    LATword:EVT-                   | EVT-05 | من المرحلة 2 | ≥ 8 اجتماعات | CRM |
+  L248    LATword:EVT-                   | EVT-06 | من المرحلة 2 | ≥ 6 فرص | سجل الفرص |
+  L255    CJK[摊,的,薄] , LATword:PR , LATword:Quality | Quality摊薄的 المحتوى | متوسط | متوسط | قاعدة: لا منشور بلا مرجع ملموس | PR |
+  L256    CJK[应,用]                       | ضغط الامتحانات على وقت التطبيق | مرتفع | مرتفع | جدولة应用 ثابتة + مرونة في التوزيع | CT + مدير المدرسة |
+  L257    LATword:PR                     | تسرّب مادة غير صحيحة علنيًا | منخفض | مرتفع | مراجعة PR + تصحيح خلال 24 ساعة | PR |
+  L274    LATword:COM- , LATword:EDU- , LAT|AR:emblies | 4.1 | إصدار **تقرير أثر 90 يومًا** — أول تقرير كامل للإemblies | EDU-01..06 + COM-01..09 |
+  L277    LATword:COM-                   | 4.4 | تحويل الأثر إلى قيمة مالية **ببيانات** لا بادعاءات | COM-08 / COM-09 |
+  L283    LATword:EDU-                   | 1 | **تقرير الأثر (90 يومًا)** — تعليمي + تجاري + تشغيلي | CT + PM | 13 فبراير | تقرير منشور | EDU-01..06 |
+  L285    LATword:COM-                   | 3 | حساب الأثر المالي: تكلفة الحملة ÷ الاستفسارات ÷ التسجيلات | FIN | 25 يناير | نموذج كلفة | COM-05 / COM-06 |
+  L286    LATword:COM-                   | 4 | تجهيز ملف البيانات لعرضه على **مستشار مالي أو مثمن مستقل** | FIN + PM | 30 يناير | ملف بيانات | COM-09 |
+  L288    LATword:EVT- , LATword:June , LATword:universities | 6 | ورشة مع=June49ع universities/شركاء لتقييم الاستمرارية | CT + PM | 5 فبراير | محضر + خطة | EVT-05/06 |
+  L289    LATword:EVT- , LATword:PR      | 7 | تقرير التغطية النهائي + تحليل التفاعل الرقمي | PR | 31 يناير | تقرير | EVT-07 |
+  L290    LATword:PR                     | 8 | إغلاق سلسلة المكانة المهنية: حصاد 90 يومًا | CT + PR | 13 فبراير | بيان + تقرير | — |
+  L292    LATword:EXE-                   | 10 | مراجعة Risksالمتبقية + تحديث السجل | PM | 13 فبراير | سجل محدّث | EXE-03 |
+  L293    LATword:EXE-                   | 11 | قرار الميزانية للسنة الدراسية القادمة | FIN + PM | 10 فبراير | موازنة | EXE-02 |
+  L294    CJK[义,定]                       | 12 | 定义 قياس خط الأساس الجديد للسنة القادمة | CT | 13 فبراير | خط أساس 2027 | — |
+  L300    LATword:Data , LATword:point   | 2 | **قرار التوسع** — موثّق بالأسباب|Data point | PM |
+  L301    LATword:COM-                   | 3 | نموذج كلفة الحملة (COM-05/COM-06) محسوب | XLSX | FIN |
+  L304    LATword:PR                     | 6 | تقرير التغطية النهائي | مستند | PR |
+  L305    LATword:PR , LATword:Professional | 7 | حصاد 90 يومًا (المحتوى +Professional) | بيان | CT + PR |
+  L312    LATword:EDU-                   | EDU-01 | 0 | ≥ 4.2 / 5 | استبيان |
+  L314    LATword:EDU-                   | EDU-03 | 0 | ≥ 60% | ملاحظة مقننة |
+  L315    LATword:EDU-                   | EDU-04 | 0 | ≥ 80% | مراجعة الملفات |
+  L316    LATword:EDU-                   | EDU-05 | 0 | +15 نقطة / سنة | Rubric سنوي |
+  L317    LATword:EDU-                   | EDU-06 | — | ≥ 85% | سجل المشاريع |
+  L318    LATword:COM-                   | COM-01 | متوسط 3 أشهر | ≥ 60 (تراكمي) | CRM |
+  L319    LATword:COM-                   | COM-02 | 0 | ≥ 20 زيارة | جدول |
+  L320    LATword:COM-                   | COM-04 | 0 | ≥ 15 تسجيلًا منسوبًا | نظام القبول |
+  L321    LATword:EVT-                   | EVT-07 | 0 | ≥ 10 مواد منشورة | سجل التغطية |
+  L322    LATword:EVT-                   | EVT-06 | 0 | ≥ 8 فرص مؤهلة | سجل الفرص |
+  L323    LATword:EXE-                   | EXE-01 | 0 | ≥ 85% إنجاز الخطة | قائمة التحقق |
+  L324    LATword:EXE-                   | EXE-03 | 15 | ≤ 3 مخاطر حرجة | سجل المخاطر |
+  L329    LAT|AR:surface                 | تفسير الأثر بsurface لا بالبيانات | مرتفع | حرج | قاعدة: كل رقم في التقرير من نظام، لا من تقدير | PM |
+  L330    LATword:PR , LATword:publicity | المبالغة في النتائج في المواد publicity | متوسط | حرج | مراجعة إلزامية + التصريح عند الشك | PR |
+  L334    LAT|AR:energy                  | عدم تجديدenergy التمويل | متوسط | مرتفع | قرار الميزانية في 10 فبراير + مصدران للتمويل | FIN |
+  L339    LATword:COM-                   - [ ] نموذج الكلفة محسوب (COM-05 / COM-06) بأرقام فعلية.
+  L351    LATword:TOT                    | تدريب معلمين (TOT) | 5,000 | 30,000 | 20,000 | 5,000 | 60,000 |
+  L357    LATword:floor                  | **الإجمالي التقديري (floor)** | **60,500** | **236,500** | **222,200** | **93,500** | **612,700** |
+  L359    LATword:Budget , LATword:KPIs , LATword:and , LATword:xlsx > **تنبيه:** هذه تقديرات تخطيط مبنية على أسعار السوق المُتحقق منها (28 أكتوبر 2026). **لا يُصرف أي مبلغ قبل عرض سعر مكتوب.** ملف `Green_Grow_Bot_Budget_and_KPIs.xlsx` يحتوي نموذج الميزانية ب
+  L365    LATword:Meeting                |Meeting | التكرار | الحضور | المخرج |
+  L367    LATword:maskarabaha            | **متابعة(maskarabaha) التشغيلية** | أسبوعيًا (الثلاثاء 10:00) | PM + CT + CRM + FIN | قائمة مهام + مؤشرات |
+  L378    LATword:Gautierful             | 3 | تمثيل المبادرة أمام الشركاء | حسب الحاجة | Gautierful |
+  L380    CJK[型,模,的]                     | 5 | قيادة ورشة التكرار لجهات خارجية | فبراير | ورشة +模型的 |
+  L384    LATword:launch                 # 7. قائمة المتطلبات الحرجة — «لا يُ-launch إن لم تتحقق»
+  L390    LATword:TOT                    | 4 | معلمون مدرَّبون (TOT #1) | 26 نوفمبر | CT | ☐ |
+  L392    LATword:PR                     | 6 | نموذج موافقة أولياء الأمور (للتصوير) | قبل 21 نوفمبر | PR | ☐ |
+==============================================================================================================
+Green_Grow_Bot_Canonical_Spec.md
+  L1      LATword:Canonical , LATword:Spec # Green Grow Bot — المواصفة المرجعية (Canonical Spec)
+  L3      CJK[用,途]                       **用途:** هذا الملف هو المصدر الوحيد للحقائق في حزمة الإطلاق. كل ملف في الحزمة يجب أن يطابقه حرفيًا في الأسماء والتواريخ والأرقام والمصطلحات.
+  L9      LATword:Facts , LATword:assumptions , LATword:no ## 1. الحقائق المؤكدة (Facts — no assumptions)
+  L20     LATword:City , LATword:Governorate , LATword:Heliopolis , LATword:Mirage , LATword:New , LATword:Ring , LATword:Road | مكان الحفل | **فندق JW Marriott Hotel Cairo** — Ring Road, Mirage City, New Heliopolis, Cairo Governorate 11757 |
+  L24     LATword:Education , LATword:Group | الجهة المنفذة الموازية | AXMIND Education Group — **يُستخدم فقط بعد موافقة موثقة** `[يحتاج اعتماد]` |
+  L28     LATword:Ballroom , LATword:Tutankhamun - **Tutankhamun Ballroom**: 1,734 م² — مسرحي 2,000 | بانكيت 1,800 | حقيبة 900 | استقبال 2,500 | ارتفاع السقف 8.1 م.
+  L29     LATword:II , LATword:Section , LATword:Tutankhamun - **Tutankhamun Section II**: 578 م² — مسرحي 800 | بانكيت 600 | استقبال 900 | حقيبة 280.
+  L30     LATword:Cheops                 - **Cheops**: 352 م² — مسرحي 396 | بانكيت 240 | استقبال 240 | حقيبة 180 — قابلة للقسمة.
+  L31     LATword:II , LATword:III , LATword:Pre-function - **Pre-function I / II / III**: 330 / 330 / 385 (استقبال) — تصلح للتسجيل والاستقبال.
+  L33     LATword:Room-rate , LATword:US , LATword:band , LATword:externally , LATword:published - Room-rate band published externally: **US$150–5,000** (مؤشر سوقي فقط — **ليس** عرض سعر).
+  L36     LATword:Cheops , LATword:II , LATword:Pre-function - **السيناريو A (اقتصادي) / B (متوسط):** قاعة **Cheops** (352 م²) + Pre-function I/II للتسجيل والاستقبال.
+  L37     LATword:Pre-function , LATword:Section , LATword:Tutankhamun - **السيناريو C (فاخر):** Tutankhamun Section I + Pre-function.
+  L45     LATword:generic , LATword:he's الشعار الأصلي «من التعليم إلى الابتكار، نبني مهارات المستقبل اليوم» سليم لغويًا وواضح، لكنه **لا يحملالفارق الجوهري للمبادرة**: he's generic — ينطبق على أي مبادرة تعليمية تطبيقية بلا تمييز.
+  L69     LATword:FF                     | أزرق ملكي (لمسة ثانوية) | `#2D78FF` |
+  L70     LATword:AF                     | ذهبي | `#D4AF37` |
+  L71     LATword:EB                     | فضي | `#E5E7EB` |
+  L72     LATword:FBF , LATword:FFFFFF   | أبيض / كريمي | `#FFFFFF` / `#FBF9F4` |
+  L74     LATword:Bold , LATword:Dubai , LATword:Light , LATword:Medium , LATword:Regular | الخط العربي | **Dubai** (Light/Regular/Medium/Bold) — متاح على الجهاز |
+  L75     LATword:Arial , LATword:Inter , LATword:Montserrat , LATword:fallback | الخط اللاتيني | Montserrat / Inter (fallback: Arial) |
+  L76     LATword:RTL                    | الاتجاه | RTL كامل |
+  L81     LATword:ALSAHABA , LATword:Downloads , LATword:Users , LATword:design , LATword:logo , LATword:master , LATword:png , LATword:sheets , LATword:work - **Green International Schools** — `C:\Users\ALSAHABA\Downloads\work sheets GIS\_design\logo\logo_master.png` (1080×1350، خلفية بيضاء) → يُعرض على بلاطة بيضاء مستديرة.
+  L82     LATword:logo , LATword:png , LATword:white - `logo_white.png` أبيض-على-أبيض ولا يصلح كمادة طباعة على خلفية داكنة.
+  L83     LATword:AGX , LATword:ALSAHABA , LATword:Downloads , LATword:Education , LATword:Group , LATword:Mind , LATword:Users , LATword:assets , LATword:crops , LATword:logo , LATword:logos , LATword:png - **AXMIND Education Group** — لوحة الهوية `C:\Users\ALSAHABA\Downloads\AGX Mind logo.png` (1254×1254). يُؤخذ منها الشعار الأساسي crops محفوظة في `assets/logos/` ويُعرض على بلاطة كحلية `#051
+  L84     LATword:assets , LATword:axmind , LATword:chroma-key , LATword:logo , LATword:logos , LATword:png - **`assets/logos/axmind_logo.png`** — نسخة مُستخرجة بخلفية شفافة (chroma-key) للاستخدام على خلفية كريمية.
+  L88     LATword:Verified , LATword:data , LATword:reference ## 3. القيم المرجعية للتحليل (Verified reference data)
+  L90     LATword:Circuits , LATword:Ekostra , LATword:ElectroHub , LATword:Electronics , LATword:Future , LATword:Oct , LATword:Source , LATword:com , LATword:electronicsegypt , LATword:from ### 3.1 أسعار المكونات في السوق المصري — Source: **electronicsegypt.com** (يتابع 10 متاجر: Circuits Electronics, Future Electronics, Ekostra, ElectroHub) — **الأسعار محدَّثة 28 Oct 2026** (ت
+  L114    LATword:Oct                    | الصنف | السعر | المصدر (تاريخ الاطلاع 28 Oct 2026) |
+  L116    LATword:Pro , LATword:US , LATword:ai , LATword:com , LATword:eg , LATword:shagoof , LATword:store , LATword:whalesbot | WhalesBot U20 Pro (4+) | **US$305** (شامل الضريبة) / **~24,596 ج.م** | store.whalesbot.ai + eg.shagoof.com |
+  L117    LATword:Technic , LATword:bingo , LATword:eg | LEGO Technic (مرجع مجموعة) | ~949 ج.م | bingo.eg |
+  L118    LATword:Education , LATword:Prime , LATword:Spike , LATword:WeDo | LEGO Education WeDo 2.0 / Spike Prime | `[يحتاج عرض سعر — غير متاح بسعر منشور]` | — |
+  L121    LATword:app , LATword:enrich , LATword:goKidz | برنامج روبوتكس enrich (مرجع سوق) | من 750 ج.م/جلسة | goKidz app |
+  L123    LAT|AR:Plateau                 ### 3.3 مراجع المنهجPlateau (ممارسة تربوية موثقة)
+  L124    LATword:Sara                   سُلّم منصات مُوثَّق في مدارس دولية بالمنطقة (منسّق روبوتكس بتدريب 20+ معلّمًا — LinkedIn/Sara Mosaad، 2026):
+  L125    LATword:Education , LATword:KG , LATword:Pro , LATword:WeDo , LATword:mAh - **KG2–G3:** WhalesBot U20 Pro (برمجة بلا شاشة بقلم وبطاقات، حسّاس مسافة، محركان مقفل الحلقة، بطارية ليثيوم 1500mAh) أو LEGO Education WeDo 2.0.
+  L126    LATword:Prime , LATword:Spike  - **G4–G6:** WhalesBot AI Module 1S/2S/3S أو LEGO Spike Prime / micro:bit + PictoBlox.
+  L127    LATword:App , LATword:ESP , LATword:Inventor , LATword:MIT , LATword:Node-RED , LATword:Uno - **G7–G11:** WhalesBot AI Module 5S أو Arduino Uno / ESP32 + Node-RED / MIT App Inventor.
+  L128    LATword:FIRST , LATword:League - **مسارات مسابقات:** FIRST LEGO League (FLL) — 9–14 سنة.
+  L129    LATword:Center , LATword:Entrepreneurship , LATword:Junior , LATword:ORG , LATword:Plus , LATword:Robot - **مؤسسات مصرية مرجعية:** TIEC (مركز الابتكار وتنمية Entrepreneurship — وزارة الاتصالات وتكنولوجيا المعلومات) عبر برنامج TIEC-FLL؛ RC Egypt تحت وزارة الشباب والرياضة (بطولة International Ro
+  L131    LAT|AR:edited                  ### 3.4 مراجع السلامة (مرجعية إرشادية لتedited سياسة مختبر المدرسة)
+  L132    LATword:AMD , LATword:Aug , LATword:Batteries , LATword:Ed , LATword:Equipment , LATword:IT , LATword:Lithium , LATword:March , LATword:Robotic , LATword:Robots , LATword:Safety , LATword:and , LATword:ed , LATword:effective , LATword:rd UL 2054 (3rd ed., 10 March 2022) · UL 1642 (Lithium Batteries) · UL 1740 (Robots and Robotic Equipment, Ed.4 2023 — effective 11 Aug 2025، يحيل إلى ISO 10218-2) · IEC 62133-2:2017+AMD1:2021 
+  L136    LATword:Behavior , LATword:EJ , LATword:ERIC , LATword:Learning , LATword:Reaction , LATword:Results **نموذج كيركباتريك الأربعة** (Reaction → Learning → Behavior → Results) كإطار أساسي لقياس المبادرة والمعلمين، مع توثيق حدوده في التعليم العالي (ERIC EJ1291600: أغلب التقييمات تتوقف عند المست
+  L137    LATword:Reaction               - L1 Reaction → رضا الطلاب والمعلمين
+  L138    LATword:Learning               - L2 Learning → إتقان المهارات المستهدفة
+  L139    LATword:Behavior , LATword:transfer - L3 Behavior →transfer التعلم إلى الممارسة (يُقاس عند 90 يومًا، عيّنة ≥ 20)
+  L140    LATword:Results                - L4 Results → أثر على نتائج المدرسة (استفسارات/زيارات/تسجيلات/احتفاظ) — يُقاس ببيانات التشغيل لا بالتحليل الذاتي.
+  L144    LATword:Canonical              ## 4. النموذج التعليمي — 9 مراحل (Canonical)
+  L148    LATword:KG , LATword:Pro       | 1 | الاستكشاف الحسي والبناء البسيط | KG1–KG2 | WhalesBot U20 Pro / كتل بناء | 4–6 |
+  L149    LATword:Education , LATword:WeDo | 2 | الحركة والأشكال والآليات الأساسية | G1–G2 | LEGO Education WeDo 2.0 | 6–8 |
+  L150    LATword:LED                    | 3 | الدوائر الإلكترونية والتعرّف الآمن على المكونات | G3 | micro:bit + دوائر بسيطة (LED/بزر/جرس) | 8–9 |
+  L151    LATword:Prime , LATword:Spike  | 4 | البرمجة المرئية | G4–G5 | LEGO Spike Prime / micro:bit + PictoBlox | 9–11 |
+  L152    LATword:DHT , LATword:HC-SR , LATword:LM , LATword:MPU- , LATword:Uno | 5 | الحساسات وجمع البيانات | G6 | Arduino Uno + HC-SR04 / DHT22 / LM35 / MPU-6050 | 11–12 |
+  L153    LATword:BYJ- , LATword:MG , LATword:ULN | 6 | التحكم والحركة | G7–G8 | Arduino + L298N / ULN2003 + MG995 / 28BYJ-48 | 12–14 |
+  L154    LATword:CAD , LATword:Tinkercad , LATword:Wokwi | 7 | التصميم الهندسي وحل المشكلات | G9–G10 | محاكاة (Tinkercad/Wokwi) + CAD + إدارة مشروع | 14–16 |
+  L155    LATword:App , LATword:ESP , LATword:Inventor , LATword:IoT , LATword:MIT , LATword:MQTT , LATword:Node-RED | 8 | الأنظمة المتكاملة | G11 | ESP32 + IoT (MQTT/Node-RED) + تطبيق MIT App Inventor | 16–17 |
+  L162    LATword:Canonical , LATword:example , LATword:worked ### 4.1 مثال التتبع الكامل (Canonical worked example)
+  L165    CJK[书,读] , LATword:LED , LAT|AR:Addition - G3: إضافة مصباح LED يضيء عند读书? — (تصحيح): إضافة مصباح LED يدخل في معادلة رقمية تُحسب بالAddition.
+  L166    LATword:HC-SR                  - G5: حساس مسافة HC-SR04 يقيس المسافة ويحسب السرعة (رياضيات/علوم).
+  L169    LATword:ESP , LATword:IoT      - G11: ESP32 يرسل قراءات الخزان إلى لوحة ويب (IoT).
+  L174    LATword:Canonical , LATword:decision ## 5. شكل الحدث (Canonical decision)
+  L176    LATword:Hybrid                 **التوصية: «مؤتمر مصغّر + عرض حيّ + استقبال» (Hybrid), مسائي.**
+  L179    LATword:plenary                - **القرار:** برنامج plenary مدته **85 دقيقة** (18:30–19:55) يجمع: افتتاح (8 د) + كلمة المؤسس (6 د) + عرض حي (12 د) + حوار (20 د) + إعلان الخطوات القادمة (6 د) + شكر (3 د) + فاصل استقبال (45
+  L184    LATword:Canonical              ## 6. الجمهور وأولويات الدعوة (Canonical)
+  L189    LAT|AR:Governorate             | 2 | جهات حكومية развитие مهارات (TIEC، وزارة الشباب،Governorate) | شراكة تشغيلية | «بنية تحتية ومسابقات ومدرّبون» | لقاء + طلب مشاركة | A | مسؤول البروتوكول |
+  L190    LATword:legitimacy             | 3 | أعضاء مجلس النواب والشيوخ | legitimacy + تشريعي | «تطوير محتوى تعليمي وقياس أثره» | خطابي | B | مسؤول البروتوكول |
+  L192    LATword:provider               | 5 | القطاع الخاص وتقنية/روبوتكس |.provider + مستثمر | «شريك تطبيقي بمخرجات واضحة» | شراكة | A | منسق البرنامج |
+  L194    LATword:yli , LAT|AR:GROUND    | 7 | الإعلام والصحفيون | تغطية مبنية علىGROUND | «قصة تعليمية موثّقة» | بيان +yli | A | مسؤول الإعلام |
+  L204    LATword:Canonical              ## 7. الميزانية — القيم المرجعية (Canonical, EGP)
+  L206    LATword:floor                  > **تنبيه إلزامي يُنقل حرفيًا إلى كل ملف:** كل الأرقام أدناه **تقديرات تخطيط** وليست عروض أسعار. بنود الفندق والضيافة والإنتاج الفني **غير مسعّرة**؛ القيم المعروضة هي *حد أدنى للتخطيط* (floo
+  L208    LATword:Cheops                 ### 7.1 السيناريو A — اقتصادي منضبط (Cheops · 90 دعوة · 70–90 حضور · إنتاج داخلي)
+  L211    LATword:Cheops                 | 1 | قاعة وخدمات الفندق (Cheops + Pre-function، 6 ساعات) | تقدير | 45,000 |
+  L222    LATword:floor                  | 12 | **الإجمالي التقديري (floor)** | | **164,268** |
+  L226    LATword:II , LATword:Sec , LATword:Tutankhamun ### 7.2 السيناريو B — متوسط احترافي (Tutankhamun Sec. II · 110 دعوة · 110–140 حضور · إنتاج مختلط)
+  L229    LATword:II , LATword:Pre-function , LATword:Section , LATword:Tutankhamun | 1 | قاعة Tutankhamun Section II + Pre-function (8 ساعات) | تقدير | 95,000 |
+  L240    LATword:floor                  | 12 | **الإجمالي التقديري (floor)** | | **399,384** |
+  L244    LATword:Sec , LATword:Tutankhamun ### 7.3 السيناريو C — فاخر (Tutankhamun Sec. I · 130 دعوة · 160–200 حضور · إنتاج كامل)
+  L247    LATword:Pre-function , LATword:Section , LATword:Tutankhamun | 1 | قاعة Tutankhamun Section I + Pre-function + استقبال خاص | تقدير | 180,000 |
+  L258    LATword:floor                  | 12 | **الإجمالي التقديري (floor)** | | **880,660** |
+  L266    LATword:Cheops , LATword:II , LATword:Tutankhamun | مستوى الفندق | قاعة فرعية Cheops | قسم رئيسي Tutankhamun II | Tutankhamun I + نطاق خاص |
+  L272    LATword:Relations              | العلاقات العامة | داخلي | خارجي محدود | خارجي كامل + Relations |
+  L273    CJK[型,模,的]                     | ضخ模型的ول | 18,500 | 42,000 | 85,000 |
+  L275    CJK[口,开] , LATword:VAT         | الضرائب والخدمات المستثناة | الضريبة المضافة (VAT) غير محتسبة؛ بدل المبيت/الإقامة الليلية خارج النطاق؛ تأجير معدات المطبخ وال开口. **كلها تحتاج تأكيد** | | |
+  L278    LATword:IEREN , LATword:Simultaneous , LATword:Translations , LATword:muitos إقامة الضيوف • بدلاتышIEREN • Translations/التأجير المولدات • الترجمة Simultaneous • هدايا الضيوف تتجاوز التذاكر • أتعاب muitos الملحق • التأمين الإضافي • ضرائب/رسوم غير مذكورة.
+  L282    LATword:Canonical , LATword:IDs ## 8. مؤشرات الأداء — Canonical IDs (تُستخدم في XLSX وفي كل الملفات)
+  L285    LATword:ID                     | ID | المؤشر | التعريف | المعادلة | المصدر | المسؤول | التوقيت | خط الأساس | الهدف المبدئي | التحقق |
+  L287    LATword:EVT-                   | EVT-01 | الدعوات المرسلة | عدد الدعوات المُرسلة فعليًا | عدّ سجل الدعوات | سجل الدعوات | مسؤول البروتوكول | 31 أكتوبر | 0 | 90 / 110 / 130 حسب السيناريو | مطابقة سجل الإرسال |
+  L288    LATword:EVT- , LATword:RSVP    | EVT-02 | نسبة تأكيد الحضور | نسبة الدعوات المؤكدة | (المؤكدة ÷ المرسلة) × 100 | سجل الدعوات | مسؤول البروتوكول | 9 نوفمبر | — | ≥ 45% | مطابقة RSVP بالقوائم |
+  L289    LATword:EVT-                   | EVT-03 | الحضور الفعلي | عدد الحاضرين فعليًا | عدّ البوابة | تسجيل البوابة | مشرف القاعة | 15 نوفمبر | — | 70–90 / 110–140 / 160–200 | قسمة تذاكر الدخول |
+  L290    LATword:EVT- , LATword:RSVP    | EVT-04 | نسبة الحضور من المؤكدين | نسبة المرتبطين الحاضرين | (الحاضرون ÷ المؤكدون) × 100 | تسجيل البوابة + RSVP | مشرف القاعة | 15 نوفمبر | — | ≥ 80% | مطابقة الأسماء |
+  L291    LATword:EVT-                   | EVT-05 | الاجتماعات التعاونية بعد الحفل | عدد الاجتماعات الثنائية/الجماعية خلال 30 يومًا | عدّ من CRM | CRM | منسق البرنامج | 15 ديسمبر | 0 | ≥ 6 | سجل CRM + محاضر |
+  L292    LATword:EVT-                   | EVT-06 | فرص الشراكة المؤهلة | فرص مؤهلة بملف ومالك ومسار | عدّ من سجل الفرص | سجل الفرص | منسق البرنامج | 15 ديسمبر | 0 | ≥ 4 | مراجعة مجلس إدارة |
+  L293    LATword:EVT-                   | EVT-07 | التغطية الإعلامية الفعلية | عدد المواد المنشورة فعليًا (لا المنشورات المدفوعة) | عدّ من سجل التغطية | سجل التغطية | مسؤول الإعلام | 13 ديسمبر | 0 | ≥ 6 | أرشيف + روابط |
+  L294    LATword:EVT- , LATword:RSVP    | EVT-08 | تكلفة الحضور | تكلفة الحفل ÷ الحضور الفعلي | = التكلفة الفعلية ÷ EVT-03 | ا��محاسبة + RSVP | مسؤول المالية | 20 نوفمبر | — | تُحسب بعد التنفيذ | مطابقة الفاتورة |
+  L295    LATword:EXE-                   | EXE-01 | نسبة إنجاز الخطة التنفيذية | المهام المنفذة ÷ المهام المجدولة | (منجزة ÷ مجدولة) × 100 | قائمة تحقق التنفيذ | منسق المشروع | أسبوعيًا | 0 | ≥ 85% في 14 نوفمبر | مراجعة القائمة |
+  L296    LATword:EXE-                   | EXE-02 | انحراف الميزانية | (الميزانية المعتمدة − الفعلي) ÷ المعتمدة | × 100 | المحاسبة | مسؤول المالية | 20 نوفمبر | 0 | ≤ 10% | مطابقة الفواتير |
+  L297    LATword:EXE-                   | EXE-03 | المخاطر الحرجة المتبقية | عدد المخاطر عالية الأثر غير المعالجة | عدّ | سجل المخاطر | منسق المشروع | أسبوعيًا | 15 | ≤ 3 | مراجعة السجل |
+  L300    LATword:ID                     | ID | المؤشر | التعريف | المعادلة | المصدر | المسؤول | التوقيت | خط الأساس | الهدف المبدئي | التحقق |
+  L302    LATword:COM-                   | COM-01 | الاستفسارات الجديدة | استفسارات مصدرها الحفل (محدَّد في النموذج) | عدّ | نموذج اهتمام/CRM | مسؤول التسجيل | شهريًا | متوسط 3 أشهر سابقة `[يحتاج استخراج]` | ≥ 40 | مطابقة رمز المصد
+  L303    LATword:COM-                   | COM-02 | الزيارات المدرسية | زيارات زيارة المدرسة الناتجة عن الحفل | عدّ | نظام المواعيد | مسؤول التسجيل | شهريًا | — | ≥ 12 | سجل المواعيد |
+  L304    LATword:COM-                   | COM-03 | طلبات التقديم | طلبات تقديم جديدة | عدّ | نظام القبول | مسؤول القبول | لكل سنة دراسية | — | ≥ 20 | النظام |
+  L305    LATword:COM-                   | COM-04 | التسجيلات المنسوبة | تسجيلات مرتبطة بمصدر «الحفل» | عدّ | نظام القبول | مسؤول القبول | لكل سنة دراسية | — | ≥ 8 | رمز المصدر |
+  L306    LATword:COM-                   | COM-05 | تكلفة الاستفسار | تكلفة الحملة ÷ الاستفسارات | = التكلفة ÷ COM-01 | المحاسبة + CRM | مسؤول المالية | شهريًا | — | تُحسب بعد التنفيذ | — |
+  L307    LATword:COM-                   | COM-06 | تكلفة اكتساب الطالب | تكلفة الحملة ÷ التسجيلات | = التكلفة ÷ COM-04 | المحاسبة + القبول | مسؤول المالية | لكل سنة دراسية | — | تُحسب بعد التنفيذ | — |
+  L308    LATword:COM-                   | COM-07 | معدل الاحتفاظ | الطلاب المجددون ÷ الطلاب في نهاية العام السابق | × 100 | نظام القبول | مدير المدرسة | آخر كل عام دراسي | `[يحتاج استخراج]` | ≥ 90% | النظام |
+  L309    LATword:COM- , LATword:IR      | COM-08 | متوسط الإيراد لكل طالب | إيراد الرسوم ÷ عدد الطلاب | = IR ÷ N | الحسابات | مسؤول المالية | سنوي | 65,000 ج.م/طالب `[مصدره: تقدير تكلفة الطالب — يحتاج توثيق]` | يُقاس | القوائم الم
+  L310    LATword:COM- , LATword:value   | COM-09 | أثر=value على قيمة المدرسة | **لا يُقاس بالحفل** — يُقاس ببيانات تشغيلية/مالية | لا يوجد معادلة من الحفل | قوائم مالية + بيانات تشغيل | الإدارة المالية | سنوي | 300 مليون ج.م (قيم
+  L315    LATword:ID                     | ID | المؤشر | المستوى | التعريف/المعادلة | المصدر | المسؤول | التوقيت | خط الأساس | الهدف المبدئي | التحقق |
+  L317    LATword:EDU-                   | EDU-01 | رضا المشاركين | L1 | متوسط استجابة استبيان (1–5) | استبيان | منسق البرنامج | نهاية كل وحدة | — | ≥ 4.2/5 | استبيان مجهول |
+  L318    LATword:EDU- , LATword:who've  | EDU-02 | إتقان المهارات المستهدفة | L2 | (الطلاب who've достиقوا المستوى ≥ 80%) ÷ الإجمالي × 100 | قائمة تقييم المشروع | المعلم + منسق البرنامج | نهاية كل مرحلة | — | ≥ 75% | Rubric موحّد 
+  L319    LATword:EDU-                   | EDU-03 | نقل التعلم إلى الممارسة | L3 | (المعلمون الذين يطبقون المشروع فعليًا) ÷ المعلمون المدرَّبون × 100 | ملاحظة صفّية + Rubric | منسق البرنامج | 90 يومًا | 0 | ≥ 60% | ملاحظة مقننة + ع
+  L320    LATword:EDU-                   | EDU-04 | اكتمال ملف الإنجاز | L4 | (الملفات المكتملة) ÷ (الطلاب النشطين) × 100 | منصة الملفات | المعلم | كل 6 أسابيع | 0 | ≥ 80% | مراجعة قوائم |
+  L321    LATword:EDU-                   | EDU-05 | تقدم الطالب في المشروع | — | مجموع نقاط Rubric الرباعي (تصميم/بناء/برمجة/توثيق) من 100 | Rubric | المعلم | كل 6 أسابيع | يُحدد بعد أول قياس | +15 نقطة سنويًا | تقييم مزدوج |
+  L322    LATword:EDU- , LATword:gallery | EDU-06 | نسبة تسليم مشروع التخرج | L4 | (المشاريع المسلّمة) ÷ (طلاب G12) × 100 | سجل المشاريع | منسق البرنامج | نهاية G12 | — | ≥ 85% | مراجعة-gallery |
+  L328    LATword:Canonical , LATword:IDs ## 9. سجل المخاطر — Canonical IDs
+  L329    LATword:ID , LATword:Responsible | ID | الخطر | الاحتمال | الأثر | الدرجة | الوقاية | الاستجابة |Responsible | مؤشر الإنذار المبكر |
+  L331    LATword:Fiat , LATword:RSK-    | RSK-01 | عدم تأكيد الشخصيات المهمة | مرتفع | مرتفع | حرجة | دعوات مبكرة + متابعة | تحويل الفئة إلى «تِ Fiat»/بشكل فردي | مسؤول البروتوكول | عدم الرد خلال 5 أيام |
+  L332    LATword:House , LATword:Mena , LATword:RSK- , LATword:Venues | RSK-02 | عدم تأكيد حجز الفندق والقاعة | مرتفع | حرج | حرجة | RFQ فوري + احتياطي | Venues بديلة: Marriott Mena House / Cairo Marriott (١٣٦م²/قاعات) | منسق المشروع | لا تأكيد كتابي حتى 3 نوف
+  L333    LATword:RSK-                   | RSK-03 | تأخر الطباعة | متوسط | متوسط | مرتفعة | طلب طباعة مبكر 3 نوفمبر + PDF رقمي جاهز | تحويل رقمي فوري + تصغير الكمية | مسؤول المطبوعات | لا معاينة حتى 9 نوفمبر |
+  L334    LATword:RSK-                   | RSK-04 | ضعف الحضور | متوسط | مرتفع | مرتفعة | 3 موجات دعوة + متابعة فردية | تحويل لـ«حلقة مغلقة» + تقليل التكاليف | مسؤول البروتوكول | نسبة تأكيد < 30% في 6 نوفمبر |
+  L335    LATword:RSK-                   | RSK-05 | تعطل الروبوت أثناء العرض | متوسط | مرتفع | مرتفعة | نسخة احتياطية + اختبار 48 ساعة | عرض مصوّر 90 ثانية + شرح المعلم | مسؤول العرض | فشل في الاختبار 13 نوفمبر |
+  L336    LATword:RSK- , LATword:USB , LAT|AR:Presenter | RSK-06 | عطل الصوت أو الشاشة | منخفض | مرتفع | متوسطة | ب��ل خاص + كابلات احتياطية + ملفPresenter على USB | تشغيل من لابتوب مستقل | مسؤول التقنية | — |
+  L337    CJK[准,批,的] , LATword:RSK-      | RSK-07 | تجاوز الميزانية | متوسط | مرتفع | مرتفعة | سقف معتمد +批准的 مسبق |وقف البنود الاختيارية + احتياطي 8% | مسؤول المالية | ≥ 5% انحراف في 10 نوفمبر |
+  L338    CJK[与,参,者] , LATword:RSK- , LAT|AR:immer , LAT|AR:uparrow | RSK-08 | عدم وجود موافقات التصوير | متوسط | مرتفع | مرتفعة | نموذج موافقة + قائمةimmer参与者 | منع التصويرuparrow للنزول + لافتة «بدون تصوير» | مسؤول الإعلام | موافقات < 60% في 10 نوفمبر |
+  L339    LATword:RSK-                   | RSK-09 | استخدام اسم أو شعار جهة دون إذن | منخفض | مرتفع | متوسطة | قاعدة «بلا موافقة = بلا شعار» | تصحيح فوري + تنويه | منسق المشروع | أي طلب شعار |
+  L340    LATword:Nucleusangle , LATword:RSK- , LATword:pre-brief | RSK-10 | ضعف التغطية الإعلامية | متوسط | متوسط | متوسطة | قائمة وسائل + Nucleusangle pre-brief | تكثيف التغطية الرقمية الرسمية + توثيق الحفل | مسؤول الإعلام | < 3 تأكيدات في 7 نوفمبر |
+  L341    LATword:RSK- , LATword:Training , LATword:nanoparticles | RSK-11 | المبالغة في الوعود (وظائف/قبول جامعي) | متوسط | مرتفع | مرتفعة | مراجعة نصية إلزامية + Training للمتحدثين | تصحيح علني + مراجعة كلمة nanoparticles | منسق البرنامج | أي ادعاء غير م
+  L342    LATword:FAQ , LATword:RSK-     | RSK-12 | اعتراض أولياء الأمور | منخفض | متوسط | متوسطة | جلسة تعريف مسبقة + FAQ | جلسة استيضاح خلال 48 ساعة | مدير المدرسة | استفساران سالبان |
+  L343    LATword:Kick , LATword:RSK-    | RSK-13 | مخاطر السلامة في العروض العملية | منخفض | مرتفع | مرتفعة | عزل منطقة العرض + مشرف سلامة + فحص Kick | إيقاف العرض + بديل مصوّر | مشرف السلامة | — |
+  L344    LATword:RSK-                   | RSK-14 | نشر معلومات غير دقيقة | متوسط | متوسط | متوسطة | مصدر الحقيقة الوحيد (الملف المرجعي) + مراجعة قبل النشر | تصحيح في 24 ساعة + تحديث | مسؤول الإعلام | — |
+  L345    LATword:RSK-                   | RSK-15 | الاعتماد على حدث واحد دون متابعة | مرتفع | مرتفع | حرجة | خطة 90 يومًا مرتبطة بالمبادرة | تحويل الحفل لمسار عمل | مدير المدرسة | لا خطة معتمدة حتى 20 نوفمبر |
+  L351    LATword:Canonical              ## 10. الجدول الزمني للتنفيذ (Canonical)
+  L356    LATword:Sheet                  | **27 أكتوبر – 2 نوفمبر** | **قصوى** | ① تأكيد الحجز/قاعة الفندق كتابيًا (RFQ + عرض) ② تجهيز النموذج الأولي (شراء + تجميع + تشغيل) ③ اعتماد الشعار والاستخدام [قرار] ④ إعداد الدعوة (تصميم + 
+  L358    CJK[食,飲] , LATword:Gauting , LATword:Kernel , LATword:RSVP , LATword:Rehearsal | **9 – 12 نوفمبر** | عالية | ① الجولة الثانية من الدعوات + متابعة ② فتح التسجيل/RSVP ③ تجرب�� العرض كاملة (Rehearsal 1) ④ اعتماد قوائم飲食 والفريق ⑤ إرسال Kernel المطبوع ⑥ تحضير بطاقات الحضور
+  L359    LATword:Index , LATword:Rehearsal , LAT|AR:aro | **13 نوفمبر** | حرجة | ① اختبار العرض النهائي (Rehearsal 2) + نسخة احتياطية ② معاينة الطباعة ③ إغلاق قائمة الحضور الأولية ④ توزيعaro.Index بطاقات الدخول ⑤ مراجعة السلامة ⑥ تجهيز مخطط المكا
+  L362    CJK[击,追]                       | **أول 48 ساعة بعد الحفل** | عالية | ① بيان صحفي بالنتائج ② عرض صور مختارة ③ مقابلات ④ بدء追击 الاستفسارات خلال 24–48 ساعة ⑤ متابعة الحضور غير المؤكد ⑥ تقرير أولي 48 ساعة |
+  L367    LAT|AR:UCTURE                  | المرحلة 1 | 1–7 | الاستUCTURE والتوثيق السريع + بدء الاستفسارات + عرض تجريبي أول |
+  L374    LATword:Canonical              ## 11. الأدوار والمسؤوليات (Canonical — الأسماء خانات فارغة)
+  L383    LATword:PR                     | مسؤول العلاقات العامة والإعلام | **PR** | البيان، حقيبة الصحفيين، التغطية، الموافقات |
+  L400    LATword:RSVP                   7. بيانات تأكيد الحضور (هاتف/بريد/رابط RSVP).
+  L415    LATword:Futures                5. **لا «تم»** لأي بند لم يحدث.Futures بصيغة خط زمنية.
+  L416    LATword:COM-xx , LATword:EDU-xx , LATword:EVT-xx , LATword:EXE-xx , LATword:RSK-xx 6. **كل هدف رئيسي مرتبط بمؤشر KPI بمعرّفه** (EVT-xx / COM-xx / EDU-xx / EXE-xx / RSK-xx).
+  L417    LATword:source                 7. **الأرقام المالية بالجنيه المصري (ج.م)** مع.source وتاريخ.
+  L419    LATword:Markdown , LATword:Tables 9.Tables بصيغة Markdown مع رؤوس واضحة.
+==============================================================================================================
+Green_Grow_Bot_Educational_Model.md
+  L5      LATword:Canonical , LATword:Spec , LATword:md **المصدر المرجعي الوحيد:** `Green_Grow_Bot_Canonical_Spec.md` (نسخة 1.0، مُعتمدة داخليًا، 27 أكتوبر 2026)
+  L8      LATword:the                    **الشعار المعتمد:** «من التعليم إلى الابتكار: مشروع واحد يتطور مع الطالب» — `From learning to building — one project that grows with the student` — `#GreenGrowBot`
+  L32     LATword:Subsidiary , LATword:three , LAT|AR:Initiative **الرؤية:** يُبنى عبر Green Grow Bot طالبٌ يعرف كيف يسأل «كيف يعمل؟»، ويعرف كيف يجرّب بنفسه، ويعرف كيف يشرح ما وجده بلغة واضحة. Subsidiary three — لا لأنInitiative تستبدل المنهج، بل لأن المن
+  L34     LATword:Applied , LATword:Design , LATword:English , LATword:Learning , LATword:Matter , LATword:State , LATword:of النموذج قائم على مبادئ تصميم التعلم المطبَّق (Applied Learning Design) كما تصفها المواصفة المرجعية في §4: **لا يوجد مشروع منفصل لكل مادة** — بل مشروع واحد أو منظومة واحدة ينمو مع الطالب عبر 
+  L36     LATword:MQTT , LATword:Topics , LAT|AR:GY ما يميّز هذا النموذج أنه **تراكمي أفقيًا ورأسيًا في آن واحد**. تراكميًا: كل مرحلة تضيف طبقة جديدة فوق طبقة المرحلة السابقة، فلا يُعاد البدء من الصفر في كل صف (انظر «ما يُضاف مقارنة بالعام ال
+  L38     CJK[タ,ブ] , LATword:EDU- , LATword:Initiative , LATword:behavior , LATword:file , LATword:student's **التمييز الحاسم عن «طلاب يحبون الأجهزة»:** Initiative لا تبحث عن الطالب الذي يتقن اللعبة، بل عن الطالب الذي يسأل: «لماذا توقّف الروبوت؟» ثم يجرّب بنفسه ويصل إلى إجابة. طالب يحب الأجهزة لكنه
+  L48     LATword:KG                     ### 2.1 عائلة KG–G3 — التعلّم التجريبي الحسي (4–9 سنوات)
+  L52     LATword:EDU- , LATword:O- , LATword:effect | O-1.1 | يربط بين فعله ونتيجته الفورية (سبب وم-effect ملموس) | يشرح «لأن…» مرتين في نشاط واحد دون توجيه | 1–2 | EDU-02 |
+  L53     LATword:EDU- , LATword:O-      | O-1.2 | يميّز بين الحالات (كبير/صغير، ثقيل/خفيف، أسرع/أبطأ) ويقارنها بالمعيار | يختار قيمة مناسبة من ثلاث بدائل ويبرر اختياره | 1–2 | EDU-02 |
+  L54     LATword:EDU- , LATword:O-      | O-1.3 | يتبع تسلسلًا من ثلاث خطوات وينفّذه | ينفّذ 3 خطوات بترتيبها في محاولتين | 1–3 | EDU-02 |
+  L55     LATword:EDU- , LATword:O-      | O-1.4 | يركّب مفهوم الدارة الأولى: مصدر وسلك وحمل ومفتاح | يركّب دارة تُضيء مصباحًا بمفتاح دون مساعدة | 3 | EDU-02 |
+  L56     LATword:EDU- , LATword:O-      | O-1.5 | يلتزم بقواعد السلامة الأساسية في المختبر | يذكر ثلاث قواعد شفهيًا ويطبّقها دون تذكير | 1–3 | EDU-02 |
+  L62     LATword:EDU- , LATword:O-      | O-2.1 | يترجم فكرة إلى خوارزمية مكتوبة (مرئية أو بلغة برمجة بسيطة) | يكتب برنامجًا من 20–30 تعليمة وينفّذه بنجاح | 4 | EDU-02 |
+  L63     LATword:EDU- , LATword:O- , LATword:else , LATword:if | O-2.2 | يوظّف التكرار والشرط والمتغير | يستخدم `if/else` مرة واحدة على الأقل في مشروع مقصود | 4 | EDU-02 |
+  L64     LATword:EDU- , LATword:O-      | O-2.3 | يصحّح خطأً في كود لم يكتبه بنفسه | يحدد السطر المسبب للخلل ويعدّله | 4 | EDU-02 |
+  L65     LATword:EDU- , LATword:O-      | O-2.4 | يقرأ قيمة من حساس ويحوّلها إلى رقم مفهوم | يقرأ 10 قيم ويذكر المتوسط والمدى | 5 | EDU-02 |
+  L66     LATword:EDU- , LATword:O-      | O-2.5 | يرسم بيانات ويشرح ما تدل عليه | يرسم مخططًا زمنيًا ويذكر استنتاجًا واحدًا | 5 | EDU-02 |
+  L67     LATword:EDU- , LATword:O-      | O-2.6 | ينفّذ مهمة ضمن فريق مع توزيع أدوار | يلتزم دوره في المجموعة ويوثّق ما أنجزه | 4–5 | EDU-05 |
+  L73     LATword:EDU- , LATword:O-      | O-3.1 | يربط دخل النظام بخروجه في نظام تحكّم | يبني نظام تحكم مفتوح ويشرح مسار الإشارة | 6 | EDU-02 |
+  L74     LATword:EDU- , LATword:O- , LATword:feedback | O-3.2 | يوظّف التغذية الراجعة (feedback) لإغلاق حلقة التحكّم | يضبط معاملًا بناءً على قياس فعلي | 6 | EDU-02 |
+  L75     LATword:EDU- , LATword:O- , LAT|AR:laws | O-3.3 | يوظّف law الصlaws الفيزيائية (ضغط، سيولة، قوة، عزم) في قرار تصميمي | يفسّر لماذا تغيّر سلوك النظام عند تعديل معامل | 6–7 | EDU-02 |
+  L76     LATword:EDU- , LATword:O-      | O-3.4 | يختبر نموذجًا قبل بنائه (محاكاة) | ينفّذ اختبارًا افتراضيًا ويوثّق الفشل قبل التنفيذ | 7 | EDU-02 |
+  L77     LATword:EDU- , LATword:O-      | O-3.5 | يحدّد معايير قبول قابلة للقياس لمشروعه | يكتب 3 معايير قبول رقمية قبل البناء | 7 | EDU-02 |
+  L78     LATword:EDU- , LATword:O-      | O-3.6 | يقيّم مخاطر تصميمه ويضع إجراءً مضاعفًا | يذكر خطرين واقعيين وإجراءً لكل منهما | 7 | EDU-02 |
+  L84     CJK[子,系,统] , LATword:EDU- , LATword:O- | O-4.1 | يدمج أكثر من子系统 في نظام واحد يعمل | النظام المتكامل يعمل بنجاح موثّق في 3 تشغيلات متتالية | 8–9 | EDU-06 |
+  L85     LATword:EDU- , LATword:O-      | O-4.2 | يربط الجهاز بخدمة ويب وتطبيق بقراءة البيانات | البيانات تصل من الحساس إلى الشاشة خلال زمن محدد ومقيس | 8 | EDU-02 |
+  L86     LATword:EDU- , LATword:O-      | O-4.3 | يوثّق مشروعه بمستوى فني (تقرير + مخططات + كود) | التقرير يغطي: المشكلة، الحل، الاختبار، النتائج، الحدود | 9 | EDU-04 |
+  L87     LATword:EDU- , LATword:O-      | O-4.4 | يعرض مشروعه ويجيب عن أسئلة نقدية | يجيب عن سؤالين نقديين بمعلومة من داخل مشروعه | 9 | EDU-06 |
+  L88     LATword:EDU- , LATword:O-      | O-4.5 | يقيّم أثر مشروعه على بيئته ومجتمعه ويقترح تحسينًا | يربط مقترحه برقم قياسه بنفسه | 9 | EDU-06 |
+  L90     LATword:SPEC                   > **ملاحظة قياس:** جميع الأهداف في هذا القسم «مبدئية» ولم تُقَس بعد (SPEC §8.3). خط الأساس يُملأ من أول قياس فعلي.
+  L107    LATword:ESP , LATword:Prime , LATword:Pro , LATword:Spike , LATword:Tinkercad , LATword:WeDo │ U20 Pro /     │  LEGO WeDo   │micro: │ Spike Prime / │Arduino │ Arduino +    │ Tinkercad/ │ESP32│ تطبيقي│
+  L108    LATword:IoT , LATword:ULN , LATword:Uno , LATword:Wokwi │ كتل بناء      │  2.0         │bit +  │ micro:bit +  │  Uno + │ L298N/ULN2003 │ Wokwi +    │+IoT │شامل   │
+  L109    LATword:App , LATword:BYJ , LATword:CAD , LATword:MG │               │              │دوائر  │ PictoBlox     │حساسات  │ MG995/28BYJ   │ CAD +      │+App │+معرض  │
+  L110    LATword:Inv                    │               │              │بسيطة  │               │        │               │ إدارة مشروع│Inv. │       │
+  L114    LATword:SPEC                   مشروع واحد ينمو مع الطالب (SPEC §4) — لا مشروع منفصل لكل مادة
+  L121    LATword:GAME , LATword:KG , LATword:Pro , LATword:exist | KG1 | 1 | WhalesBot U20 Pro / كتل بناء | أول مركبة مع GAME | خط الأساس: التعرّف على الكتل والمحاور والحركة existía | الرياضيات — التصنيف والقياس؛ اللغة — الوصف |
+  L122    LATword:KG , LATword:Pro       | KG2 | 1 | WhalesBot U20 Pro / كتل بناء | مركبة مركّبة من قطع متعددة | **التركيب والتوفيق** بين أكثر من قطعة، وتبرير اختيار القطعة | الرياضيات — الجمع والطرح؛ العلوم — المادة والحركة |
+  L123    LATword:Education , LATword:WeDo | G1 | 2 | LEGO Education WeDo 2.0 | عربة بمحرّك تسير في خط | **القصد**: تحويل حركة عشوائية إلى حركة مقصودة | العلوم — الحركة؛ الرياضيات — المسافة والوقت |
+  L124    LATword:Education , LATword:WeDo | G2 | 2 | LEGO Education WeDo 2.0 | نموذج يبرر تركيبه | **المقارنة**: أي تركيبة أفضل؟ وبأي معيار؟ | الرياضيات — القياس والمقارنة؛ اللغة — الحجة |
+  L126    LATword:Prime , LATword:Spike  | G4 | 4 | LEGO Spike Prime / micro:bit + PictoBlox | برنامج بتكرار وشرط | **الخوارزمية**: ترجمة فكرة إلى تسلسل قابل للتنفيذ | التكنولوجيا — البرمجة؛ الرياضيات — المنطق والشرط |
+  L127    LATword:Prime , LATword:Spike  | G5 | 4 | LEGO Spike Prime / micro:bit + PictoBlox | كود لتصحيح خطأ في برنامج | **التفكير كمبرمج**: قراءة كود الغير وتصحيحه | التكنولوجيا — حل المشكلات؛ اللغة — وصف الأخطاء |
+  L128    LATword:DHT , LATword:HC-SR , LATword:LM , LATword:MPU- , LATword:Uno | G6 | 5 | Arduino Uno + HC-SR04 / DHT22 / LM35 / MPU-6050 | جهاز قياس يعرض قيمة | **القياس**: من «هل يعمل؟» إلى «كم قيمته؟» | العلوم — القياس؛ الرياضيات — المتوسط والمدى والرسم البياني |
+  L129    LATword:BYJ- , LATword:MG , LATword:PWM , LATword:ULN | G7 | 6 | Arduino + L298N / ULN2003 + MG995 / 28BYJ-48 | نظام تحكّم (دخل ← حركة) | **التحكّم**: ربط دخل بخرج عبر منطق | العلوم — القوة والضغط؛ التكنولوجيا — PWM والسائق |
+  L130    LATword:BYJ- , LATword:MG , LATword:ULN | G8 | 6 | Arduino + L298N / ULN2003 + MG995 / 28BYJ-48 | تحكّم مغلق بتغذية راجعة | **حلقة التغذية الراجعة**: يقرأ النظام نفسه ويعدّل | الرياضيات — الدوال؛ العلوم — الاتزان والاستقرار |
+  L131    LATword:CAD , LATword:Tinkercad , LATword:Wokwi | G9 | 7 | محاكاة (Tinkercad/Wokwi) + CAD | نموذج رقمي ومخطط | **التصميم قبل البناء**: اختبار افتراضي يسبق التنفيذ | الرياضيات — الهندسة والقياس؛ العلوم — النمذجة |
+  L132    LATword:CAD                    | G10 | 7 | محاكاة + CAD + إدارة مشروع | خطة تنفيذية بجدول وتكلفة | **إدارة المشروع**: تقدير وجدولة ومخاطر | اللغة — التقرير؛ المهارات الاجتماعية — الالتزام |
+  L133    LATword:App , LATword:ESP , LATword:Inventor , LATword:IoT , LATword:MIT , LATword:MQTT , LATword:Node-RED | G11 | 8 | ESP32 + IoT (MQTT/Node-RED) + MIT App Inventor | لوحة بيانات حيّة | **الربط**: من جهاز معزول إلى نظام يتبادل بيانات | التكنولوجيا — الشبكات؛ الرياضيات — التمثيل البياني للبيانات 
+  L144    LATword:KG                     ### 4.1 المرحلة 1 — الاستكشاف الحسي والبناء البسيط (KG1–KG2)
+  L148    CJK[按,照] , LATword:KG , LATword:can , LATword:causale , LATword:instructions , LATword:mAh | 1 | KG1–KG2 (4–6) | السبب والنتيجة؛ المحاور الأربعة؛ التصنيف (كبير/صغير، ثقيل/خفيف)؛ الفراغ والمساحة؛ التسلسل من ثلاث خطوات؛ قواعد المختبر الأولى | مركبة من كتل (عربة بعجلة واحدة/بعجلتين)؛
+  L154    LATword:Education , LATword:WeDo , LAT|AR:Drive | 2 | G1–G2 (6–8) | العلاقة بين المدخلات والمخرجات؛ التروس والمحاور؛ قياس المسافة بالوحدات؛ التناظر والتوازن؛ البرمجة بالبطاقات والقلم بلا شاشة | عربة بمحرّك تسير في خط محدد؛ ذراع رافعة بمحو
+  L160    CJK[完,整,的] , LATword:Mini , LATword:Pro | 3 | G3 (8–9) | تركيب الدارة: مصدر/سلك/حمل/مفتاح؛ معنى الجهد والتيار كمفهوم مبسّط؛ قطبية التوصيل؛ وظيف المقاومة في حماية LED؛ قراءة لوحة الخبز | دارة تُضيء LED عند ضغط زر؛ جرس إنذار عند است
+  L166    CJK[份,股] , LATword:NodeMCU , LATword:Prime , LATword:Spike , LATword:else , LATword:if , LATword:motions , LAT|AR:Housing | 4 | G4–G5 (9–11) | الخوارزمية والتسلسل؛ التكرار؛ الشرط `if/else`؛ المتغيرات؛ قراءة كود الغير وتصحيحه؛ توزيع أدوار الفريق | روبوت يتبع خطًا؛ روبوت يتفادى عائقًا؛ روبوت يجمع «نقاط» ويعدّها و
+  L172    LATword:Calibration , LATword:DHT , LATword:DZ , LATword:EDU- , LATword:HC-SR , LATword:LM , LATword:MPU- , LATword:Serial , LATword:Uno , LATword:Villain | 5 | G6 (11–12) | الحساس كمدخل رقمي؛ التحويل ADC؛ المعايرة (Calibration)؛ معدل أخذ العينات؛ المتوسط والمدى؛ الرسم البياني الزمني | جهاز قياس مسافة أو حرارة يعرض القراءة على شاشة؛ جدول قراءا
+  L176    LATword:prev                   | المرحلة | الصفوف | ما يتعلمه الطالب | ما يصممه/يبنيه | المهارات التي يثبت امتلاكها | كيف يخدم أهداف المواد | ما يُضاف مقارنة بالعام.prev | كيف يقيس المعلم التقدم | الحد الأدنى من المعدات |
+  L178    LATword:ACS , LATword:BYJ- , LATword:Driver , LATword:MG , LATword:NEMA , LATword:PWM , LATword:ULN , LATword:Uno , LATword:driven | 6 | G7–G8 (12–14) | دخل/خرج النظام؛ PWM والتحكم في السرعة؛ دور السائق (Driver)؛ اتجاه الدوران وعزم المحرك؛ حدود التيار؛ التغذية الراجعة | ذراع رافعة بمحرك؛ عربة driven بوحدة ULN2003؛ مضخة 
+  L184    CJK[学,生,的,让,铁] , LATword:BOM , LATword:CAD , LATword:Etsy , LATword:NodeMCU , LATword:Pi , LATword:Pico , LATword:Raspberry , LATword:Tinkercad , LATword:Uno , LATword:design , LATword:review | 7 | G9–G10 (14–16) | دورة التصميم (تعريف–تخطيط–بناء–اختبار–تحسين)؛ النمذجة في محاكاة؛ CAD ثنائي/ثلاثي الأبعاد؛ قائمة المواد (BOM) والتكلفة؛ الجدول الزمني؛ إدارة المخاطر؛ معايير القبول | نم
+  L190    LATword:ACS , LATword:App , LATword:Broker , LATword:DZ , LATword:ESP , LATword:IT , LATword:LM , LATword:Logging , LATword:MFRC , LATword:MIT , LATword:Node-RED , LATword:NodeMCU , LATword:OLED , LATword:PIR , LATword:Pi , LATword:Pico , LATword:Publish-Subscribe , LATword:RFID , LATword:Raspberry , LATword:SIM , LATword:TCS , LATword:Topic , LATword:refer , LAT|AR:MQTT | 8 | G11 (16–17) | الشبكات وطبقاتها؛ MQTT (Broker/Topic/Publish-Subscribe)؛ قراءة بيانات مستشعر ونشرها؛ خادم Node-RED ولوحة ويب؛ تطبيق MIT App Inventor؛ أساسيات أمان البيانات؛ تسجيل القواعد
+  L196    CJK[全,可,安,理,管,经,营,许,证] , LATword:EDU- | 9 | G12 (17–18) | تكامل الأنظمة؛ الكتابة الفنية (تقرير + مخططات + سجل تغييرات)؛ إدارة المشروع حتى التسليم؛ العرض والمناقشة النقدية؛ مراجعة الأقران؛ حدود النتائج | نظام متكامل يعمل ويحل مشك
+  L206    CJK[力,和,能]                     | مصدر المحتوى | ينتقل من الكتاب إلى الصف | يبني موقفًا تعلّمًا من能力和 الطالب |
+  L212    CJK[依,据,的]                     |的依据 والمسؤولية | «المنهج يقول…» | «معيار القبول يقول…» |
+  L226    LATword:homework               > **قاعدة:** لا تنتقل الحصة إلى المقطع التالي قبل اكتمال دليل المقطع الحالي. التوثيق ليس «إن homework» — بل جزء أصيل من المقطع، لأن الطالب لا يُقاس إلا بما يوثّقه.
+  L234    LATword:EDU-                   | جلسة توثيق/معرض صفّي | مرة كل 6 أسابيع | 45 د | توافق مع دورة القياس (EDU-04 / EDU-05) |
+  L238    LATword:TOT                    ### 5.4 نموذج تدريب المعلمين (TOT)
+  L240    LATword:Sara                   **المبرر من الخبرة المرجعية:** المواصفة (§3.3) تصف سُلّم منصات مُوثَّقًا في مدارس دولية بالمنطقة، منسَّق روبوتكس بتدريب أكثر من 20 معلمًا (المصدر: LinkedIn / Sara Mosaad، 2026). هذه خبرة ترب
+  L246    LATword:KG , LATword:Pro , LATword:WeDo , LATword:mAh | T1 — التأسيس | معلمو KG–G3 | WhalesBot U20 Pro (برمجة بلا شاشة بالقلم والبطاقات، حساس مسافة، محركان مقفل الحلقة، بطارية ليثيوم 1500mAh) أو LEGO WeDo 2.0؛ بنية الحصة؛ قوالب التوثيق | 12 (3 
+  L247    LATword:Prime , LATword:Spike , LATword:Uno | T2 — البرمجة والقياس | معلمو G4–G8 | WhalesBot AI Module 1S/2S/3S أو LEGO Spike Prime أو micro:bit + PictoBlox؛ Arduino Uno مع الحساسات؛ قراءة البيانات | 16 (4 وحدات × 4) | جهاز يقرأ حساسً
+  L248    LATword:App , LATword:ESP , LATword:MQTT , LATword:Node-RED , LAT|AR:CA , LAT|AR:MIT | T3 — الأنظمة والتصميم | معلمو G9–G12 | WhalesBot AI Module 5S أو Arduino/ESP32 مع Node-RED وMIT App Inventor؛ المحاكاة وCAD؛ إدارة المشروع؛ طبقة السلامة | 16 (4 وحدات × 4) | نظام يتبادل بي
+  L250    LATword:TOT                    **عناصر نموذج TOT:**
+  L254    LATword:SYNC , LAT|AR:RIE      | نسبة الع_SYNC | 30% عرض مباشر من المعلم / 40% تطبيق عملي / 30% عرضRIE من المتدربين |
+  L255    CJK[一,套] , LATword:Materiels , LATword:reduce | Materiels | كل متدرب يتدرب على **منصة** واحدة تخص صفّه (لا一套 كاملة لكل متدرب) — reduce التكلفة |
+  L256    LATword:Buddy , LATword:Teacher | المرافقة | «معلم مرافق» (Buddy Teacher) لكل معلم جديد في أول فصل |
+  L258    LATword:EDU-                   | قياس أثر التدريب | L1 (استبيان) وL2 (تقدير مباشر) وL3 (ملاحظة صفية عند 90 يومًا، عيّنة ≥ 20 — EDU-03) |
+  L259    LATword:FIRST , LATword:League | المسارات | إمكانية الترشّح لمسارات المسابقات: FIRST LEGO League (FLL) للفئة 9–14 سنة (§3.3)؛ ويُذكر كمرجع لا كالتزام |
+  L260    LATword:Robot , LATword:TIEC-FLL | جهات مصرية مرجعية | TIEC (برنامج TIEC-FLL)، RC Egypt / International Robot Challenge، Amideast Egypt STEM Center، NIS Egypt — تُذكر كقنوات معررفية وإعلانية محتملة؛ **أي شراكة تبقى `[يحتاج 
+  L262    LATword:TOT                    > **الفصل بين المؤهل والاعتماد:** إتمام تدريب TOT داخل المبادرة لا يعني اعتمادًا حكوميًا ولا اعتمادًا من أي جهة خارجية.
+  L271    CJK[不,了,捨,解]                   |不了解 الطالب في捨 | — |
+  L281    LATword:SPEC , LATword:com , LATword:electronicsegypt , LATword:from | المصدر الأساسي | electronicsegypt.com (10 متاجر) — الأسعار «from» أي سعر البداية، وقد تختلف — **تاريخ الاطلاع: 28 أكتوبر 2026** (SPEC §3.1) |
+  L282    LATword:Pro , LATword:SPEC , LATword:Store , LATword:Technic , LATword:bingo , LATword:com , LATword:eg , LATword:shagoof | مرجع المنتجات التعليمية | WhalesBot Store + eg.shagoof.com (U20 Pro)؛ bingo.eg (LEGO Technic) — **تاريخ الاطلاع: 28 أكتوبر 2026** (SPEC §3.2) |
+  L284    LATword:DHT , LATword:Education , LATword:HC-SR , LATword:Modules , LATword:Prime , LATword:Spike , LATword:WeDo | البنود غير المسعّرة | LEGO Education WeDo 2.0 / Spike Prime / micro:bit V2 / WhalesBot AI Modules / HC-SR04 / DHT22 / L298N / لوحات الخبز والأسلاك → `[يحتاج عرض سعر]` ولا تُخمَّن |
+  L285    LATword:partially              | الافتراضات التخطيطية | حصة 30 طالبًا لكل صف؛ تقاسم المنصة 1:2 في المراحل 1 و2 و4 و(partially 3)؛ 1:1 من G6 فصاعدًا؛ طقم معلم + طقم احتياطي لكل مرحلة |
+  L286    LATword:thread                 | الاستثناءات الصريحة | **لا تشمل** هذه التكلفة: زمن المعلمين، مساحة المختبر، كتابة المنهج، التدريب، اشتراكات البرمجيات، البطاريات الاستهلاكية المتكررة، الرسوم(thread) |
+  L288    LATword:KG                     ### 6.2 المرحلة 1 — KG1–KG2
+  L292    LATword:Pro , LATword:US       | WhalesBot U20 Pro (طرد 4+) | منصة الاستكشاف الحسي | 24,596 | مُسعّر (≈ US$305 شامل الضريبة) | 1 طقم لكل طالبين |
+  L293    LATword:Technic                | كتل بناء (مرجع LEGO Technic) | بناء المجسمات الأولى | 949 | مُسعّر | 1 طقم لكل طالبين |
+  L294    LATword:mAh                    | بطارية ليثيوم 1500mAh | تشغيل المنصة | ضمن سعر الباقة | مُضمّن | مقعد شحن مخصص |
+  L301    LATword:Education , LATword:WeDo | LEGO Education WeDo 2.0 | منصة الحركة والآليات | `[يحتاج عرض سعر — غير متاح بسعر منشور]` | غير مسعّر | 1 طقم لكل طالبين |
+  L303    LATword:Technic                | كتل بناء (مرجع LEGO Technic) | توسيع المجسمات | 949 | مُسعّر | 1:1 |
+  L304    LATword:IR , LATword:kHz       | طقم تحكّم IR 38 kHz | نشاط التحكم عن بُعد | 40 | مُسعّر | 1:1 (اختياري) |
+  L305    LATword:WeDo                   | **الحد الأدنى التسعيري للطالب** | | **989.00** | تقدير | لا يشمل سعر WeDo |
+  L312    LATword:ATmega , LATword:Mini , LATword:Pro | Arduino Pro Mini ATmega328 5V | لوحة الدوائر البسيطة | 200 | مُسعّر | 1:2 |
+  L313    LATword:LED                    | لوحة خبز + أسلاك + LED + زر + جرس + مقاومات | تركيب الدوائر | `[يحتاج عرض سعر]` | غير مسعّر | 1:1 |
+  L320    LATword:Prime , LATword:Spike  | LEGO Spike Prime | منصة البرمجة المرئية | `[يحتاج عرض سعر]` | غير مسعّر | 1:2 |
+  L323    LATword:Technic                | كتل بناء (مرجع LEGO Technic) | ميكانيكا إضافية | 949 | مُسعّر | 1:1 |
+  L324    LATword:ESP , LATword:ESP- , LATword:NodeMCU | NodeMCU ESP8266 ESP-12E | توصيل لاسلكي | 175 | مُسعّر | 1:2 (اختياري) |
+  L331    LATword:Uno , LATword:compatible | Arduino Uno R3 compatible | منصة القياس | 239 | مُسعّر | 1:1 |
+  L332    LATword:HC-SR                  | HC-SR04 | قياس المسافة | `[يحتاج عرض سعر]` | غير مسعّر | 1:1 |
+  L333    LATword:DHT                    | DHT22 | قياس الحرارة والرطوبة | `[يحتاج عرض سعر]` | غير مسعّر | 1:1 |
+  L334    LATword:DZ , LATword:LM        | LM35DZ | حساس حرارة تناظري | 45 | مُسعّر | 1:1 |
+  L335    LATword:DOF , LATword:GY- , LATword:MPU- | MPU-6050 GY-521 (6-DOF) | قياس التسارع والزاوية | 110 | مُسعّر | 1:1 |
+  L336    LATword:ACS                    | ACS712 5A | قياس التيار | 80 | مُسعّر | 1:1 |
+  L344    LATword:Uno , LATword:compatible | Arduino Uno R3 compatible | منصة التحكم | 239 | مُسعّر | 1:1 |
+  L346    LATword:ULN                    | ULN2003 | سائق المحرك خطوة بخطوة | 25 | مُسعّر | 1:1 |
+  L347    LATword:BYJ-                   | 28BYJ-48 5V (1/64) | محرك خطوة بخطوة | 65 | مُسعّر | 1:1 |
+  L348    LATword:MG , LATword:TowerPro  | TowerPro MG995 | سيرفو معدني | 175 | مُسعّر | 1:1 |
+  L349    LATword:NEMA                   | NEMA 17 | محرك خطوة بخطوة | 70 | مُسعّر | 1:1 |
+  L350    LATword:ACS                    | ACS712 5A | قياس تيار التشغيل | 80 | مُسعّر | 1:1 |
+  L358    LATword:Pi , LATword:Pico , LATword:RP , LATword:Raspberry | Raspberry Pi Pico RP2040 | متحكم للمشروع ومعايرة | 550 | مُسعّر | 1:1 |
+  L359    LATword:Uno , LATword:compatible | Arduino Uno R3 compatible | مرجع ومحاكاة | 239 | مُسعّر | 1:1 |
+  L360    LATword:ESP , LATword:ESP- , LATword:NodeMCU | NodeMCU ESP8266 ESP-12E | اختبار اتصال مبكر | 175 | مُسعّر | 1:1 |
+  L361    LATword:Black , LATword:Pill , LATword:STM | STM32F401 Black Pill | خيار متحكم متقدم | 225 | مُسعّر | 1:5 (مشترك) |
+  L362    LATword:Tinkercad , LATword:Wokwi | حساب Tinkercad / Wokwi | محاكاة وتصميم | `[يحتاج تأكيد — نسخة تعليمية مجانية]` | برمجيات | لكل معلم |
+  L363    LATword:CAD , LATword:FreeCAD , LATword:Tinkercad | CAD (FreeCAD / Tinkercad) | نمذجة | `[يحتاج تأكيد — نسخة تعليمية مجانية]` | برمجيات | لكل معلم |
+  L370    LATword:ESP , LATword:IoT , LATword:WROOM- | ESP32 WROOM-32 | منصة IoT | 280 | مُسعّر | 1:1 |
+  L371    LATword:ESP , LATword:ESP- , LATword:NodeMCU | NodeMCU ESP8266 ESP-12E | بديل/مكمّل | 175 | مُسعّر | 1:1 |
+  L372    LATword:Pi , LATword:Pico , LATword:RP , LATword:Raspberry | Raspberry Pi Pico RP2040 | بوابة/مكمّل | 550 | مُسعّر | 1:1 |
+  L373    LATword:OLED                   | 1.3" I2C OLED 128×64 | عرض محلي | 265 | مُسعّر | 1:1 |
+  L374    LATword:GPRS , LATword:GSM , LATword:SIM | SIM800L GSM/GPRS | تنبيه SMS | 275 | مُسعّر | 1:1 |
+  L375    LATword:GY- , LATword:RGB , LATword:TCS , LATword:color , LATword:sensor | TCS3200 RGB color sensor GY-31 | تصنيف لوني | 260 | مُسعّر | 1:1 |
+  L376    LATword:MFRC , LATword:MHz , LATword:RFID | RFID MFRC522 13.56 MHz | تعرّف | 66.69 | مُسعّر | 1:1 |
+  L377    LATword:HCSR , LATword:Motion , LATword:PIR , LATword:Sensor | PIR Motion Sensor HCSR501 | كشف حركة | 45 | مُسعّر | 1:1 |
+  L378    LATword:DZ , LATword:LM        | LM35DZ | قياس حرارة | 45 | مُسعّر | 1:1 |
+  L379    LATword:ACS                    | ACS712 5A | قياس تيار | 80 | مُسعّر | 1:1 |
+  L380    LATword:App , LATword:Broker , LATword:Inventor , LATword:IoT , LATword:MIT , LATword:MQTT , LATword:Node-RED | Node-RED / MQTT Broker / MIT App Inventor | منصة IoT وتطبيق | `[يحتاج تأكيد — برمجيات مجانية]` | برمجيات | لكل معلم/خادم |
+  L381    LATword:SIM                    | شريحة SIM + اشتراك | الاتصال الخلوي | `[يحتاج عرض سعر]` | غير مسعّر | لكل مجموعة |
+  L388    LATword:ESP , LATword:WROOM-   | ESP32 WROOM-32 | المنصة الرئيسية | 280 | مُسعّر | 1:1 |
+  L389    LATword:Uno , LATword:compatible | Arduino Uno R3 compatible | وحدات فرعية | 239 | مُسعّر | 1:1 |
+  L390    LATword:Pi , LATword:Pico , LATword:RP , LATword:Raspberry | Raspberry Pi Pico RP2040 | وحدات فرعية | 550 | مُسعّر | 1:1 |
+  L391    LATword:OLED                   | 1.3" I2C OLED 128×64 | عرض | 265 | مُسعّر | 1:1 |
+  L392    LATword:GPRS , LATword:GSM , LATword:SIM | SIM800L GSM/GPRS | اتصال | 275 | مُسعّر | 1:1 |
+  L393    LATword:BYJ- , LATword:ULN     | ULN2003 + 28BYJ-48 | حركة دقيقة | 25 + 65 | مُسعّر | 1:1 |
+  L394    LATword:MG , LATword:TowerPro  | TowerPro MG995 | حركة مستمرة | 175 | مُسعّر | 1:1 |
+  L395    LATword:NEMA                   | NEMA 17 | حركة دقيقة | 70 | مُسعّر | 1:1 |
+  L396    LATword:GY- , LATword:MPU-     | MPU-6050 GY-521 | قياس زاوية | 110 | مُسعّر | 1:1 |
+  L397    LATword:GY- , LATword:TCS      | TCS3200 GY-31 | قياس لوني | 260 | مُسعّر | 1:1 |
+  L398    LATword:ACS                    | ACS712 5A | قياس تيار | 80 | مُسعّر | 1:1 |
+  L399    LATword:MFRC , LATword:RFID    | RFID MFRC522 | تعرّف | 66.69 | مُسعّر | 1:1 |
+  L400    LATword:ESP , LATword:NodeMCU  | NodeMCU ESP8266 | مكمّل | 175 | مُسعّر | 1:1 |
+  L401    LATword:DZ , LATword:LM , LATword:PIR | PIR + LM35DZ | إدخال حسي | 45 + 45 | مُسعّر | 1:1 |
+  L409    LATword:WeDo                   | 2 — G1–G2 | 29,670.00 | 989.00 | 989.00 | **31,648.00** | WeDo 2.0 × 17 طقم |
+  L411    LATword:Spike                  | 4 — G4–G5 | 31,095.00 | 1,124.00 | 1,124.00 | **33,343.00** | Spike/micro:bit × 17 طقم + تراخيص |
+  L412    LATword:DHT , LATword:HC-SR    | 5 — G6 | 11,820.00 | 394.00 | 394.00 | **12,608.00** | HC-SR04 + DHT22 + خبز وأسلاك |
+  L414    LATword:CAD                    | 7 — G9–G10 | 28,920.00 | 964.00 | 964.00 | **30,848.00** | تراخيص CAD/محاكاة |
+  L415    LATword:SIM                    | 8 — G11 | 61,250.70 | 2,041.69 | 2,041.69 | **65,334.08** | اشتراكات SIM + تشغيل الخادم |
+  L419    LATword:floors                 > **قراءة صحيحة للأرقام:** هذه **أرضيات تسعيرية** (floors). المبلغ الفعلي لكل شعبة سيكون أعلى بسبب البنود غير المسعّرة والمنصات الرئيسية. لا تُستخدم هذه الأرقام كسقف إنفاق.
+  L427    LATword:KG                     ### 7.1 المرحلة 1 — KG1–KG2
+  L432    LAT|AR:romise                  | 1.2 | **المسار الأنبوبي** | يبني مسارًا ببطاقات ويوجه عربةromisedة عليه | المحاور والاتجاه؛ التنبؤ بالحركة | صورة + رسم للمسار |
+  L440    LATword:sensed                 | 2.1 | **البوابة ذات sensed المسافة** | يجعل البوابة تفتح عند اقتراب «الضيف» | المدخل/المخرج؛ القيمة الرقمية | فيديو قصير + وصف |
+  L449    LATword:LED                    | 3.1 | **إشارة المرور** | يركّب دارة LED + زر تُضيء الإشارة عند الضغط | الدارة؛ المدخل/المخرج | رسم الدارة + صورة |
+  L452    LATword:LED                    | 3.4 | **حساب الإشارة** | يدخل LED في معادلة رقمية تُحسب بالجمع (مثال §4.1) | العمليات على الأعداد | ورقة الحل |
+  L459    LATword:else , LATword:if      | 4.2 | **المتاهة** | يبرمج روبوتًا يخرج من متاهة | الشرط `if/else` | كود + ملاحظات الأخطاء |
+  L467    LATword:HC-SR                  | 5.1 | **قياس المسافة بـ HC-SR04 وحساب السرعة** | يقيس المسافة أمام الجسم المتحرك كل 0.5 ثانية، يحسب السرعة (المسافة ÷ الزمن)، ويرسم العلاقة | القياس؛ السرعة؛ المتغير مستقل وتابع | جدول 10 
+  L468    LATword:DZ , LATword:LM , LATword:ice , LATword:point , LAT|AR:irty | 5.2 | **معيارirty الحرارة** | يعاير LM35DZ بين ice point وماء دافئ، ثم يقيس حرارة الفصل | المعايرة؛ دقة الأداة | جدول المعايرة + 3 قراءات |
+  L469    LATword:MPU-                   | 5.3 | **حركة واتزان** | يقرأ MPU-6050 أثناء إمالة اللوحة ويسجّل الزاوية | القياس الزاوي | رسم بياني + ملاحظة |
+  L476    CJK[、,流]                       | 6.1 | **مضخة صغيرة بخزان عبر L298N** | يتحكم في تشغيل/إيقاف المضخة، ويقيس زمن التعبئة ويقارنه بالنيابة | التحكم؛ الزمن؛ الض、流ية | جدول أزمنة + فيديو |
+  L477    LATword:MG , LATword:PWM       | 6.2 | **الذراع بثلاث سرعات** | يضبط PWM على MG995 ويقيس زمن رفع حمل مختلف | العزم مقابل السرعة | جدول قياس |
+  L478    LATword:BYJ- , LATword:ULN     | 6.3 | **محور دقيق** | يقود 28BYJ-48 عبر ULN2003 بالخطوات | التحكم بالخطوات | كود + تسجيل حركة |
+  L479    LATword:feedback , LATword:loop | 6.4 | **الحارس الذكي** | يربط حساسًا بمحرك في feedback loop ويضبط المسافة | التغذية الراجعة | مخطط الحلقة + نتيجة الضبط |
+  L480    LATword:ACS , LATword:Electric | 6.5 | **اقرأ التيار** | يقيس تيار التشغيل بـ ACS712 ويقارنه بالتقدير | Electric current؛ تقدير | جدول تيار فعلي/مقدّر |
+  L486    LATword:Tinkercad , LATword:Wokwi | 7.1 | **التصميم قبل البناء** | ينمذج النظام في Tinkercad/Wokwi أولًا | النمذجة | ملفات المحاكاة + لقطة |
+  L490    LATword:BOM                    | 7.5 | **BOM وخطة اختبار** | يحسب تكلفة القائمة ويضع خطة اختبار بجدول | إدارة التكلفة | BOM + جدول اختبار |
+  L497    LATword:ESP , LATword:Node-RED , LAT|AR:MQTT | 8.1 | **ESP32 يرسل قراءة الخزان إلى لوحة ويب** | ينشر قراءة مستوى الخزان عبر MQTT ويعرضها في لوحة Node-RED | الشبكات وMQTT | لقطة اللوحة + كود النشر |
+  L498    LATword:SIM                    | 8.2 | **تنبيه الهاتف** | يرسل تنبيهًا SMS عند تجاوز عتبة عبر SIM800L | الاتصال الخلوي | لقطة رسالة + سجل |
+  L499    LATword:App , LATword:Inventor , LATword:MIT | 8.3 | **تطبيق MIT App Inventor** | يبني تطبيقًا يعرض حالة النظام | تصميم التطبيق | ملف التطبيق + لقطة |
+  L500    CJK[的,里,面] , LATword:TCS       | 8.4 | **المستشعر بألوان** | يقرأ TCS3200 فيصنّف لون里面的 الخزان | تصنيف لوني | جدول قيم |
+  L501    LATword:RFID                   | 8.5 | **تعرّف RFID** | يقرأ RFID ليحدّد المشغّل | التعرّف | لقطة |
+  L511    LATword:selon                  | 9.5 | **مراجعة الأقران** | يراجع مشروع زميل selon المعايير ويكتب ملاحظتين | نقد بنّاء | ملاحظات الأقران |
+  L521    CJK[在,存,的] , LATword:EDU-      | 1 | مركبة/عربة مبنية + «ملف حركة» مصوّر |的存在: بنى شيئًا وحركة موثّقة | مجلد المرحلة 1 في ملف الإنجاز | EDU-04 |
+  L522    LATword:EDU-                   | 2 | نموذج ودرايع + جدول قياس أول | قارن بين بدائل بمعيار | مجلد المرحلة 2 | EDU-04 |
+  L523    LATword:EDU-                   | 3 | دائرتان عاملان + رسم مخطط | ركّب دائرة وشرح مسار التيار | مجلد المرحلة 3 | EDU-04 |
+  L524    LATword:EDU-                   | 4 | روبوت يتبع خطًا/يتفادى + كود | كتب قانونًا سلوكيًا ونفّذه | مجلد المرحلة 4 | EDU-05 |
+  L525    LATword:EDU-                   | 5 | جهاز قياس + 10 قراءات + رسم بياني | قاس كمّيًا وفسّر القراءة | مجلد المرحلة 5 | EDU-05 |
+  L526    LATword:EDU-                   | 6 | نظام تحكم (مضخة/ذراع) + قياس تيار | بنى حلقة تحكم وضبطها | مجلد المرحلة 6 | EDU-05 |
+  L527    LATword:BOM , LATword:EDU-     | 7 | نموذج رقمي + BOM + خطة اختبار + سجل مخاطر | صمّم قبل البناء واختبر افتراضيًا | مجلد المرحلة 7 | EDU-04 |
+  L528    LATword:EDU-                   | 8 | لوحة ويب حيّة + تطبيق + تنبيه | تبادل بيانات فعلي بين أنظمة | مجلد المرحلة 8 | EDU-05 |
+  L529    LATword:EDU-                   | 9 | نظام تخرج + تقرير فني + عرض | نُتج منتَج موثّق قابل للتقييم | مجلد المرحلة 9 + المعرض | EDU-06 |
+  L546    LATword:EDU- , LATword:SPEC    > **ملاحظة توافق مع المؤشر EDU-05:** المواصفة تعرّف EDU-05 بـ «تصميم/بناء/برمجة/توثيق» (SPEC §8.3). الـ Rubric هنا يجمع البناء والبرمجة في محور واحد ويضيف محور «عمل جمعي» بدل محور مستقل. الخ
+  L552    LATword:descart                | **تصميم (25)** | 0–9: المشكلة موصوفة 있지만 بلا معايير قبول واضحة | 10–19: معايير قبول موجودة (واحد على الأقل)، الحل منطقي مع تبرير جزئي | 20–25: معايير قبول رقمية مكتملة، بدائل مقارَنة، مبرر
+  L553    LAT|AR:treatment               | **بناء وبرمجة (30)** | 0–14: البناء يعمل جزئيًا أو الكود يحتاج تدخلًا مستمرًا | 15–23: البناء والبرنامج يعملان في الاختبار الأساسي، والأخطاء الشائعةtreatment | 24–30: يعمل في 3 محاولات متت
+  L555    CJK[交,提,的] , LATword:contribution | **عمل جماعي (20)** | 0–7: الأدوار غير واضحة،提交的 contribution غير موثّق | 8–15: توزيع أدوار واضح، الالتزام بالمواعيد، مساهمة الجميع | 16–20: إدارة فعّالة للوقت والتعارض، مراجعة أقران، رفع ج
+  L558    LATword:EDU-                   **حد الإتقان المعتمد (EDU-02):** الطالب متقِن إذا بلغ مجموعه **80 نقطة فأكثر** من 100. النسبة المستهدفة: **≥ 75%** من الطلاب في نهاية كل مرحلة — هدف مبدئي لم يُقَس بعد.
+  L565    LATword:reflectself            | بطاقة «أستطيع أن…» | أسبوعيًا (المرحلتان 1–2) | الطالب ذاتيًا | reflectself الأولي |
+  L566    LATword:EDU-                   | Rubric كامل | كل 6 أسابيع | المعلم | درجة من 100 (EDU-05) |
+  L569    LATword:perspectiva            | تغذية راجعة من الأقران | مرة كل 6 أسابيع | الأقران | perspectiva خارجية |
+  L579    LATword:EDU-                   | التوثيق | تُحفظ الدرجتان مع سبب كل درجة في سجل المشروع (يدعم EDU-05 «تقييم مزدوج») |
+  L581    LATword:publicly               | الموعد | قبل publicly المعرض بأسبوعين على الأقل |
+  L593    LATword:KG                     ├── 01_المرحلة_1_KG1-KG2
+  L616    LATword:selfiereflection       | selfiereflection | «ما الذي أصبحت أفضل فيه؟» | نصي | 3 أسطر |
+  L625    LATword:GGB , LATword:OM       | تسمية الملفات | `GGB_S{رقم_المرحلة}_{رقم_الفصل}_{اسم_مختصر}_{نوع_الدليل}_{التاريخ}` — مثال: `GGB_S05_2_OM_قياس_2027-02-14` |
+  L628    LATword:EDU-                   | الترقيم | أي دليل بلا رقم مرحلة لا يُحتسب في EDU-04 |
+  L632    LATword:EDU-                   ### 10.4 قياس اكتمال الملف (EDU-04)
+  L639    LATword:SPEC                   | الهدف المبدئي | ≥ 80% — **غير مقاس بعد** (SPEC §8.3) |
+  L648    LATword:SPEC                   المحاكاة التالية **مراجع إرشادية لتحرير سياسة المختبر**، وهي **ليست بديلًا عن تقييم المخاطر الداخلي للمدرسة ولا عن اشتراطات الجهة الرقابية المصرية** (SPEC §3.4).
+  L652    LATword:com , LATword:shopulstandards | UL 2054 (الطبعة 3، 10 مارس 2022) | سلامة البطاريات المنزلية والتجارية | اختيار خلايا البطاريات وبرنامج الشحن | shopulstandards.com |
+  L653    LATword:SPEC                   | UL 1642 | بطاريات الليثيوم | متطلبات الشحن والتخزين ونقل الخلل | SPEC §3.4 |
+  L654    LATword:com , LATword:intertek | UL 1740 (الطبعة 4، 2023 — نافذ 11 أغسطس 2025) — يحيل إلى ISO 10218-2 | سلامة معدات الروبوتات والمعدات الروبوتية | تصميم حواجز الأجزاء المتحركة ومتطلبات اختبار الروبوت | intertek.com |
+  L655    LATword:AMD , LATword:ch , LATword:iec , LATword:webstore | IEC 62133-2:2017+AMD1:2021 | أنظمة الليثيوم المحمولة | فلسفة حماية الخلايا والتخزين | webstore.iec.ch |
+  L656    LATword:SPEC                   | UL 60950-1 | سلامة معدات تقنية المعلومات | معدات المختبر: الحاسبات، الخوادم، الشواحن، مصادر الجهد | SPEC §3.4 |
+  L664    LATword:KG , LATword:USB       | 1–2 (KG–G2) | USB وجهد 5V فقط عبر المنصة المغلقة | أي توصيل يدوي بمصادر طاقة | بطارية المنصة تُشحن بإشراف |
+  L665    LATword:DC , LAT|AR:Attempt    | 3–4 (G3–G5) | 5V DC (لوحات التطوير) | أي لحام؛ أيAttempt لتوصيل وحدة بمصدر خارجي | فصل الطاقة قبل تغيير الأسلاك |
+  L666    LATword:ACS , LATword:DC       | 5–6 (G6–G8) | 5V و12V DC (بطاريات ومشغّلات) | تيار الشبكة 220V؛ لحام بلا إشراف |asuresالتيار عبر ACS712 للمراقبة |
+  L667    LATword:DC                     | 7–9 (G9–G12) | حتى 24V DC في المختبر بإشراف | تيار الشبكة للطالب؛ تشغيل أجهزة بدون عزل | مصدر الجهد خارج متناول الطالب |
+  L690    LATword:Nolayer                | حواجز | م Nolayer على الأرحام الساقطة (الأدراج، الرفوف) |
+  L694    LATword:SPEC                   | الأداة | الحد الأدنى للعمر | الشروط | مرجع العمر من SPEC §4 |
+  L697    LATword:Hot-air                | مسدس هواء ساخن (Hot-air) | G8 (12–14) | إشراف مباشر، سطح مقاوم للاشتعال، لا يُستخدم قرب مواد قابلة للاشتعال | المرحلة 6 تبدأ 12–14 |
+  L699    LATword:Dremel , LATword:Staff , LATword:only | أداة دوارة (Dremel) | Staff only | لا يستخدمه الطلاب في أي مرحلة | — |
+  L700    LATword:Staff , LATword:only   | قاطع ليزر | Staff only | لا يستخدمه الطلاب في أي مرحلة؛ تجهيز القطع لدى الفريق | — |
+  L701    LATword:Staff , LATword:only   | مثقاب/منشار صغير | Staff only | التجهيز لدى الفريق الفني | — |
+  L703    LATword:manager                > **ملاحظة:** الجدول أعلاه **سياسة مقترحة** تحتاج اعتماد مدير المدرسة (manager) قبل التطبيق.
+  L709    LATword:KG                     | 1–3 (KG–G3) | 1 معلم : 8 طلاب | أقسام صغيرة، تركيز على اللمس والأدوات البسيطة |
+  L711    LATword:students               | 7–9 (G7–G12) | 1 معلم : 12 طالبًا |students يعملون بشكل مستقل أكثر، لكن المشرف يبقى في القاعة |
+  L714    LAT|AR:dustorative             > **تقدير تخطيطي — يحتاج اعتماد.** النسب استرشادdustorative بأعراف المختبرات المدرسية، ولم تُشتق من معيار معتمد.
+  L720    LATword:policy                 |_policy | **لا توجد مواد كيميائية في أنشطة الطلاب** على أي مرحلة |
+  L721    LATword:Isopropyl              | التنظيف | المنظفات يُستخدمها المعلم/الفني فقط؛ الكحول_Isopropyl بموارد محدودة وبتهوية |
+  L724    CJK[料,的] , LATword:perishing   | الموقع |料的 perishing+الروائح تُنظَّف فورًا حسب إرشادات السلامة الصحية للمدرسة |
+  L725    LATword:extractor              | extractor | أي عملية تتطلب شرط سحب (إلا إذا كان غير متاح فعليًا) تُؤجل |
+  L733    LATword:Incident               | 3 | توثيق Incident بلغة وصفية وقائية (لا يُحمَّل فيه أحد) | في نفس اليوم | المعلم + SAFE |
+  L735    LATword:Root , LATword:cause   | 5 | تحليل السبب (Root cause) وإضافة إجراء وقائي | خلال 5 أيام | SAFE |
+  L736    LATword:RSK-                   | 6 | تحديث سجل المخاطر RSK-13 ومؤشر الإنذار | خلال 5 أيام | منسق المشروع |
+  L739    LATword:RSK-                   > **سجل الحوادث يُعتمد قبل أي حدث عملي كبير**، ويُدرج ضمن سجل المخاطر (RSK-13) ومؤشرات السلامة.
+  L746    LATword:RSK- , LATword:SPEC , LATword:consents | الموافقة | نموذج موافقة رقمي لكل أسرة + قائمة مرجعية (SPEC RSK-08)؛ لا يُعدّ consents الشفهي موافقة |
+  L747    LAT|AR:cienc                   | لافتة | لافتة «بدون تصوير» عند بوابة القاعة ومعمل الأcience؛ بديل موثّق (تصوير الظهر / اليد فقط) عند الحاجة |
+  L750    LATword:gallery                |.gallery | معرض المرحلة يُعرض داخل المدرسة، ويُنشر خارجها فقط بإذن مكتوب لكل طالب |
+  L753    LAT|AR:RSK-                    > **مرتبط بالمخاطر:** RSK-08 (موافقات التصوير) وRSK-13 (مخاطر السلامة في العروض العملية).
+  L779    LATword:Exhibition , LATword:Mimi | ما هو **غير** مشمول | زمن المعلمين · مساحة المختبر وتجهيزاته · كتابة المنهج · التدريب والتأهيل · تراخيص البرمجيات · اشتراكات الاتصالات · البطاريات الاستهلاكية المتكررة · المستلزمات الورقية
+  L787    LATword:Pro                    | 1 | 12,772.50 | يهمّ تكلفة المنصة U20 Pro الموزَّعة على طالبين |
+  L788    LATword:WeDo                   | 2 | 989.00 | لا يشمل سعر WeDo 2.0 `[يحتاج عرض سعر]` |
+  L790    LATword:Prime , LATword:Spike  | 4 | 1,036.50 | لا يشمل Spike Prime/micro:bit/PictoBlox `[يحتاج عرض سعر]` |
+  L791    LATword:HC-SR , LAT|AR:DHT     | 5 | 394.00 | لا يشمل HC-SR04 وDHT22 ولوحات الخبز |
+  L793    LATword:CAD                    | 7 | 964.00 | لا يشمل تراخيص المحاكاة/CAD |
+  L794    LATword:SIM                    | 8 | 2,041.69 | لا يشمل اشتراك SIM وتشغيل الخادم |
+  L798    LATword:Pilot                  ### 12.3 تكلفة الطيار (Pilot)
+  L802    LATword:HC-SR , LATword:LM , LATword:MPU- , LATword:Uno , LAT|AR:DHT | **طيار أ (موصى به كبداية)** | شعبة G6 واحدة — 30 طالبًا | **12,608.00** | 30 Arduino Uno + LM35 + MPU-6050 + طقم معلم + طقم احتياطي | HC-SR04 وDHT22 واللوحات والأسلاك `[يحتاج عرض سعر]` |
+  L804    LATword:IoT , LATword:SIM      | طيار ج (مسار متكامل مبكر) | G6 + G7 + G8 | **108,790.08** | ما سبق + شعبة IoT | اشتراكات SIM والخادم |
+  L805    LATword:KG , LATword:Pro       | طيار د (دخول مبكر) | شعبة KG2 واحدة | **434,265.00** | 17 طقم U20 Pro + 17 طقم كتل + معلم + احتياطي | — (كل البنود مسعّرة) |
+  L807    LATword:ADU- , LATword:EDU- , LATword:Uno , LATword:accomplishes , LATword:reuse , LAT|AR:ACS , LAT|AR:LM , LAT|AR:MPU- **توصية الطيار:** البدء بـ **طيار أ (G6)** لأنه accomplishes: (1) يقيس أثر المنهج الأكاديمي بأوضح شكل (حساسات ورياضيات)، (2) تكلفته الأدنى، (3) يمكن reuse معظم معداته لاحقًا في المراحل 6–9 (
+  L813    LATword:KG                     | شعبة المرحلة 1 (KG1–KG2) | 383,175 + 25,545 + 25,545 | 434,265.00 |
+  L825    LATword:Spike , LATword:WeDo   > **قراءة صحيحة:** 719,596.16 ج.م تمثل الحد الأدنى التسعيري لمعدات **شعبة واحدة (30 طالبًا) في كل مرحلة من التسع** — أي 270 «مقعدًا تراكميًا». ليست تكلفة المدرسة بالكامل ولا تشمل المنصات غير
+  L831    LATword:App , LATword:CAD , LATword:Inventor , LATword:MIT , LATword:Node-RED , LATword:Tinkercad , LATword:Wokwi | ترخيص PictoBlox / Node-RED / MIT App Inventor / Tinkercad / Wokwi / CAD | `[يحتاج تأكيد]` — نسخ تعليمية مجانية متوقعة لكن يلزم تأكيد شروط الاستخدام المؤسسي |
+  L832    LATword:Education , LATword:Modules , LATword:Prime , LATword:Spike , LATword:WeDo | LEGO Education WeDo 2.0 / Spike Prime / micro:bit V2 / WhalesBot AI Modules | `[يحتاج عرض سعر]` |
+  L833    LATword:DHT , LATword:HC-SR    | HC-SR04 / DHT22 / L298N / لوحات الخبز / الأسلاك / المقاومات / البطاريات والشواحن | `[يحتاج عرض سعر]` |
+  L834    LATword:SIM                    | اشتراكات SIM800L | `[يحتاج عرض سعر]` |
+  L838    LATword:Line , LATword:TOT , LATword:item , LAT|AR:isque | التدريب (TOT) وسفر المدربين | مستثنى — يُ.Line item مستقل في ميزانيةisque التشغيل |
+  L844    CJK[主,干] , LAT|AR:ilian        **الموقف الأساسي:** المنهج الأكاديمي هو **الأساس** الذي يُبنى عليه، وGreen Grow Bot **طبقة تطبيقية** فوقه — لا بديل ولا تقصير لأي مادة. لا تُحذف أي حصة ولا يُختصر أي هدف ولا يُعطَّل أي مفهوم
+  L850    CJK[「,」] , LATword:Issue , LATword:KG | **1 — KG1–KG2** | التصنيف والقياس والمقارنة؛ الأعداد حتى 10 في عدّ الكتل | الحركة causale؛ المادة والصلابة؛ أجزاء الجسم في 「الحركة」 | التعرّف على الآلة: زر تشغيل، بطارية، اتجاه | وصف بسيط 
+  L851    LATword:input , LATword:output | **2 — G1–G2** | المسافة والزمن والقياس بالوحدات؛ العدّ والتناسب | الاحتكاك والدفع والقوة؛ المحاور والتروس | البرمجة بالبطاقات: تسلسل(input→output) | كتابة تعليمات مرقّمة؛ قراءة الوصف | الت
+  L852    LATword:steps                  | **3 — G3** | العمليات على الأعداد (مثال §4.1: معادلة تُحسب بالجمع) | الدارة الكهربائية؛ الموصلية؛ القصر والتحميل | المخطط الكهربائي؛ التركيب على لوحة الخبز | قراءة Labels؛ كتابة steps للتر
+  L853    LAT|AR:Challenge               | **4 — G4–G5** | المنطق والشرط؛ العدّ والترتيب؛ المتغيرات كقيم متغيرة | النماذج المبسّطة: «إذا… فإن…» كقانون فيزيائي | الخوارزمية والتكرار والمتغير؛ قراءة الكود وتصحيحه | توثيق الخطوات كتاب
+  L854    LATword:errorMargins           | **5 — G6** | المتوسط والمدى والرسم البياني؛ متناسب مباشر بين المسافة والزمن | القياس ودقة الأداة والمعايرة؛_errorMargins | الحساس كمدخل رقمي؛ ADC؛ تسجيل البيانات | قراءة الرسم البياني ووصف
+  L856    LATword:CAD                    | **7 — G9–G10** | الهندسة والقياس والسماحية؛ التكلفة والكمية | النموذج الفيزيائي والمحاكاة؛ التصميم التجريبي | CAD والمحاكاة؛ معايير القبول | التقرير التقني والمراجعة اللغوية | التصميم الصن
+  L857    LAT|AR:MQTT , LAT|AR:Node-RED  | **8 — G11** | التمثيل البياني للبيانات؛ المتوسط الزمني؛ التقدير | القياس عن بُعد؛ خصائص المادة في السائل | الشبكات وMQTT وNode-RED وتطبيق الهاتف وأمن البيانات | دليل التشغيل والإرشادات للم
+  L858    LAT|AR:Museum                  | **9 — G12** | التحليل الكمي لنتائج المشروع؛ دقة القياس | تفسير النتيجة علميًا وحدودها | التكامل والإصدار والتوثيق التقني | التقرير الفني والعرض والمناقشة | التصميم النهائي والعرضMuseum | ا
+  L865    LAT|AR:imeter                  | لا إخزال | لا يُحذف درس ولا يُختصر منهجimeter مقابل نشاط |
+  L868    LATword:SPEC                   | المنهج الاجتماعي | لا يُنسب أي نجاح أو فشل في مادة أكاديمية إلى المبادرة (SPEC §8.2 القاعدة الإلزامية) |
+  L869    CJK[提,速]                       | التطبيق العكسي | حين يخدم نشاط المبادرة مفهومًا في مادة، يُقترح على المنهج提速ه لا حذفه |
+  L877    LATword:EDU-                   | 1 ← 2 | لا يقل عن 40/100 في المرحلة 1 | مجلد المرحلة 1 مكتمل الأقسام الثمانية | اجتياز قواعد السلامة الأساسية (صفر مخالفة) | توقيع المعلم + ولي الأمر في أول انتقال | — | EDU-02 / EDU-04 |
+  L878    LATword:EDU- , LATword:ability | 2 ← 3 | 50/100 فأكثر | كامل | اجتياز السلامة + ability لتركيب قطعة جديدة | توقيع المعلم | — | EDU-02 |
+  L879    LATword:EDU-                   | 3 ← 4 | 55/100 فأكثر | كامل | اجتياز سلامة الدوائر (توصيل قطبيخ صحيح) | توقيع المعلم | — | EDU-02 |
+  L880    LATword:EDU-                   | 4 ← 5 | 60/100 فأكثر | كامل | اجتياز سلامة المختبر | توقيع المعلم | — | EDU-02 |
+  L881    LATword:EDU- , LATword:ability | 5 ← 6 | 65/100 فأكثر | كامل | اجتياز سلامة + ability لتوصيل حساس بأمان | توقيع المعلم | — | EDU-02 |
+  L882    LATword:EDU-                   | 6 ← 7 | 70/100 فأكثر | كامل | اجتياز سلامة + اجتياز متطلبات اللحام (نظرة، شفط، يد المعلم) | توقيع المعلم + مشرف السلامة (SAFE) | موافقة المدرسة على استخدام لحام في المختبر | EDU-02 |
+  L883    LATword:EDU-                   | 7 ← 8 | 75/100 فأكثر | كامل | اجتياز سلامة | توقيع المعلم + SAFE | — | EDU-02 |
+  L884    LATword:EDU-                   | 8 ← 9 | 80/100 فأكثر | كامل | اجتياز سلامة + خطة سلامة العرض | توقيع المعلم + SAFE + منسق البرنامج (CT) | اعتماد خطة العرض | EDU-02 / EDU-06 |
+  L890    LATword:None                   | مسار الدعم | الطالب الذي لم يبلغ العتبة يُنقل **بدون إ.None** إلى مسار دعم مكثّف (4 أسابيع) ويُعاد القياس؛ لا يُنقل تلقائيًا بلا خطة |
+  L891    LAT|AR:Individua               | الاستثناء | الانتقال المبكر ممكن **بإذن خطي من مدير المدرسة** مع خطةIndividual، ويُوثَّق |
+  L892    LATword:multidimensional       | حق الطالب | لا يُمنع طالب من الانتقال لمجرد ضعف في البُعد «عمل جماعي»؛ التقييم multidimensional ويُعاد البناء |
+  L899    LATword:KG                     **مسار طالب واحد** (يُشار إليه بـ «الطالب») من KG1 حتى G12، بمشروع واحد ينمو كما تنص المواصفة (§4 و§4.1). ملاحظة منهجية: المواصفة تثبّت نقاطًا في G1 وG3 وG5 وG7 وG9 وG11 وG12 — وهذه هي **الن
+  L901    LATword:HC-SR                  > **توضيح توافق:** المواصفة (§4.1) تثبّت حساب السرعة بـ HC-SR04 عند **G5**، بينما المرحلة الرسمية لجمع البيانات هي **المرحلة 5 = G6** (§4). كلاهما صحيح: موضع G5 هو نقطة الانضمام في مسار الطا
+  L905    LATword:KG                     | KG1 | 1 | عربة من كتل بعجلة واحدة | التصنيف والمقارنة؛ «أكبر/أصغر» | صورة للعربة + جملة «لأن…» | غلاف المرحلة 1 | توسعة تصميمية |
+  L906    LATword:KG                     | KG2 | 1 | عربة مركّبة + مسار بطاقات | عدّ القطع؛ ترتيب المسار | صورة + رسم المسار | مجلد المرحلة 1 (مخرج) | توسعة تصميمية |
+  L907    LATword:motion                 | **G1** | 2 | عربة بمحرك على مسار | **مفهوم القوة والدفع**: لماذا تدور العربة؟ | فيديو قصير للـ motion + رسم اتجاه الدفع | مجلد المرحلة 2 | **نقطة مرجعية (§4.1)** |
+  L909    LATword:LED                    | **G3** | 3 | العربة نفسها + **مصباح LED** يدخل في معادلة رقمية تُحسب بالجمع | الجمع والطرح على الأعداد؛ معادلة رقمية مرتبطة بالمصباح | ورقة المعادلة + رسم الدارة | مجلد المرحلة 3 | **نقطة 
+  L910    LATword:LED , LATword:else , LATword:if | G4 | 4 | العربة + منطق:if/else (مثلًا: أضئ LED إذا كانت المسافة قصيرة) | الشرط والمتغير | كود + لقطة | مجلد المرحلة 4 | توسعة تصميمية |
+  L911    LATword:HC-SR                  | **G5** | 5 | **حساس مسافة HC-SR04** يقيس المسافة ويحسب السرعة | المسافة ÷ الزمن = السرعة؛ التمثيل البياني للسرعة | جدول قراءات + رسم بياني + تفسير | مجلد المرحلة 5 | **نقطة مرجعية (§4.1)**
+  L912    LATword:LM , LAT|AR:MPU-       | G6 | 5 | نفس النظام + LM35 وMPU-6050 (قياس الحرارة والميل) | المتوسط والمدى؛ المعايرة | ورقة بيانات | مجلد المرحلة 5 | توسعة تصميمية (المرحلة الرسمية للقياس) |
+  L914    LATword:feedback               | G8 | 6 | الضخ مغلق بـ feedback: يتوقف عند امتلاء الخزان | حلقة التحكم؛ التناسب بين زمن التشغيل ومستوى الماء | مخطط الحلقة + نتيجة الضبط | مجلد المرحلة 6 | توسعة تصميمية |
+  L916    LATword:BOM                    | G10 | 7 | نموذج مادي + خطة تنفيذية بالجدول والميزانية | تقدير التكلفة والزمن | BOM + جدول زمني | مجلد المرحلة 7 | توسعة تصميمية |
+  L917    LATword:ESP                    | **G11** | 8 | **ESP32 يرسل قراءات الخزان إلى لوحة ويب** | التمثيل البياني للمستوى عبر الزمن؛ القراءة عن بُعد | لقطة اللوحة + كود النشر + بيانات | مجلد المرحلة 8 | **نقطة مرجعية (§4.1)** |
+  L920    LATword:Resource               **قراءة النظام عبر المراحل:** المسار يقيس.Resource لا يتغير: **الماء**. في G1 هو «قوة تدفع عربة»، في G3 «إشارة تُضاف»، في G5 «مسافة تُقاس»، في G7 «سائل يُضخ»، في G9 «ضغط يُصمَّم»، في G11 «بي
+  L928    LATword:SPEC                   | «نمّّي مهارات قابلة للنقل: تفكير هندسي، قياس، توثيق، عمل جماعي، نقد» | «نضمن لك وظيفة» — ممنوع تمامًا (SPEC §4 و§13) |
+  L931    CJK[入,场]                       | «يمكن أن يواصل الطالب مساره في المسابقات (مثل FLL للفئة 9–14)» | «مشروع التخرج يضمن入场 إلى مسابقة» |
+  L932    LATword:EDU- , LATword:SPEC    | «النتيجة المسجلة: إتقان المهارة المستهدفة (EDU-02)، انتقال التعلم إلى الممارسة عند 90 يومًا (EDU-03)» | «الأثر على نتائج المدرسة محقق» — يُقاس ببيانات التشغيل لا بالتحليل الذاتي (SPEC §3.5
+  L934    CJK[华,清] , LATword:Initiative , LATword:SPEC **النقطة الجوهرية:**Initiative **لا تعد مهنة ولا清华 مكانًا**. هي تبني طريقة تفكير قابلة للنقل إلى أي تخصص لاحق. 결과 Initiative يُقاس ويُنشر، ولا يُستخدم كوعد. يبقى الأثر على مؤشرات المدرسة (اح
+  L936    LATword:EJ , LATword:ERIC , LATword:SPEC **حدود القياس المعروفة:** نموذج كيركباتريك في التعليم العالي يتوقف غالبًا عند المستويين 1–2 (ERIC EJ1291600)، ولذلك يُقاس المستوى 3 (نقل التعلم) عند 90 يومًا بعيّنة ≥ 20، والمستوى 4 ببيانات 
+  L944    CJK[应,用,的]                     | إعداد النموذج التعليمي | `[ ]` | معلم的应用 التطبيقي | 28 أكتوبر 2026 | `[ ]` |
+  L949    LATword:cultural , LATword:pollutantsowns , LATword:spokesperson | اعتماد-cultural pollutantsowns spokesperson | `[ ]` | الأستاذ أحمد جبر — صاحب المبادرة | `[ ]` | `[ ]` |
+  L952    LATword:EDU- , LATword:Prime , LATword:Spike , LATword:WeDo - البنود المعلَّمة `[يحتاج اعتماد]` في هذا الملف (سعر WeDo 2.0 / Spike Prime / micro:bit / WhalesBot AI Modules، ونِسَب الإشراف، وحدود الأدوات، ومحور «عمل جماعي» ضمن EDU-05، ونظام الملفات ال
+  L962    LATword:com , LATword:electronicsegypt | S5 | electronicsegypt.com (10 متاجر) | أسعار المكونات في السوق المصري (§3.1) | 28 أكتوبر 2026 |
+  L963    LATword:Pro , LATword:US , LATword:ai , LATword:store , LATword:whalesbot | S6 | store.whalesbot.ai — WhalesBot U20 Pro | US$305 شامل الضريبة | 28 أكتوبر 2026 |
+  L964    LATword:com , LATword:eg , LATword:shagoof | S7 | eg.shagoof.com — WhalesBot | ~24,596 ج.م (سعر تجزئة محلي) | 28 أكتوبر 2026 |
+  L965    LATword:Technic , LATword:bingo , LATword:eg | — | bingo.eg — LEGO Technic | ~949 ج.م (مرجع مجموعة) | 28 أكتوبر 2026 |
+  L966    LATword:com , LATword:shopulstandards | S13 | shopulstandards.com — UL 2054 | مرجع سلامة البطاريات | 28 أكتوبر 2026 |
+  L967    LATword:com , LATword:intertek | S14 | intertek.com — UL 1740 / ISO 10218-2 | مرجع سلامة معدات الروبوتات | 28 أكتوبر 2026 |
+  L968    LATword:ch , LATword:iec , LATword:webstore | S15 | webstore.iec.ch — IEC 62133-2 | مرجع أنظمة الليثيوم المحمولة | 28 أكتوبر 2026 |
+  L969    LATword:com , LATword:kirkpatrickpartners | S16 | kirkpatrickpartners.com | إطار كيركباتريك الرباعي | 28 أكتوبر 2026 |
+  L970    LATword:EJ , LATword:ERIC , LATword:ed , LATword:eric , LATword:files , LATword:gov | S18 | files.eric.ed.gov — ERIC EJ1291600 | حدود كيركباتريك في التعليم العالي | 28 أكتوبر 2026 |
+  L974    LATword:ID                     | ID | المؤشر | المستوى | التوقيت | الهدف المبدئي | من يُقيس |
+  L976    LATword:EDU-                   | EDU-01 | رضا المشاركين (متوسط 1–5) | L1 | نهاية كل وحدة | ≥ 4.2/5 | منسق البرنامج |
+  L977    LATword:EDU-                   | EDU-02 | إتقان المهارات المستهدفة (≥ 80%) | L2 | نهاية كل مرحلة | ≥ 75% | المعلم + CT |
+  L978    LATword:EDU-                   | EDU-03 | نقل التعلم إلى الممارسة | L3 | 90 يومًا (عيّنة ≥ 20) | ≥ 60% | ملاحظة صفية مقننة |
+  L979    LATword:EDU-                   | EDU-04 | اكتمال ملف الإنجاز | L4 | كل 6 أسابيع | ≥ 80% | المعلم |
+  L980    LATword:EDU-                   | EDU-05 | تقدم الطالب (Rubric من 100) | — | كل 6 أسابيع | +15 نقطة سنويًا | المعلم (تقييم مزدوج) |
+  L981    LATword:EDU-                   | EDU-06 | نسبة تسليم مشروع التخرج | L4 | نهاية G12 | ≥ 85% | CT |
+  L983    LATword:SPEC                   > جميع الأهداف أعلاه **مبدئية ولم تُقَس بعد** (SPEC §8.3). خط الأساس يُملأ من أول قياس فعلي.
+==============================================================================================================
+Green_Grow_Bot_Event_Runbook.md
+  L1      LATword:Event , LATword:Runbook # Green Grow Bot — دليل تشغيل الحفل (Event Runbook)
+  L4      LATword:City , LATword:Heliopolis , LATword:Mirage , LATword:New , LATword:Ring , LATword:Road **المكان:** فندق JW Marriott Hotel Cairo — Ring Road, Mirage City, New Heliopolis, القاهرة 11757
+  L5      LATword:Cheops , LATword:II , LATword:Pre-function **القاعة المقترحة:** Cheops (352 م²) + Pre-function I/II للتسجيل والاستقبال — **حالة الحجز: `[يحتاج تأكيد]`**
+  L16     LATword:Hybrid                 **«مؤتمر مصغّر + عرض حيّ + استقبال» (Hybrid)، مسار مسائي.**
+  L23     CJK[力,和,时,段,能,这,间]             | **حفل مسائي طويل** (تحدّثات متتالية) | **مرفوض** | الضيوف المستهدفون (قيادات تعليمية وجامعيون وإعلام) يتحركون بعد 60–75 دقيقة.和能力这段时间 الطويلة تُهدر المورد الأدق، وتجعل قيمة الحفل مرهونة بع
+  L26     LATword:NEXT                   | **مؤتمر مصغّر + عرض حيّ + استقبال** | **معتمد** | يجمع سبعة أوضاع تشغيل في 130 دقيقة: إطلاق مؤسسي، عرض تعليمي، تجربة عملية حية، حوار مع خبراء، علاقات مهنية، تغطية إعلامية، تقديم الخطوات-NE
+  L32     LATword:symbolized             | الإطلاق المؤسسي | الفقرات 1–3 و9–10 | 18:30–18:47 و19:44–19:55 | إعلان رسمي موثّق والصورة symbolized |
+  L33     LATword:KG                     | العرض التعليمي | الفقرة 5 | 18:53–18:59 | خريطة KG→G12 مفهومة في 6 دقائق |
+  L41     LATword:opportunities          البرنامج مبنيّ على **جودة المبادرة والعرض العملي**، لا على أسماء الضيوف. لو غاب مسؤول كبير أو لم تحضر أي وسيلة إعلام، يبقى الحفل ذا قيمة كاملة: يُعرض الروبوت، وتُشرح الرحلة، وتُفتح opportuni
+  L51     LATword:complement             | **1. قيادات وزارة التربية والتعليم والجهات التعليمية** | اعتراف مؤسسي واحتواء المشروع داخل سياسة التطوير | «مساهمة تربوية تُقاس، complement المنهج لا تستبدله» | خطابي + لقاء وجهاً لوجه | ز
+  L52     LATword:independentemente , LATword:pasefromGateway | **2. جهات تطوير المهارات والجهات الحكومية ذات الصلة** (TIEC، وزارة الشباب والرياضة، pasefromGateway independentemente) | شراكة تشغيلية: مسابقات، مدرّبون، بنية تحتية | «بنية تحتية ومسار تدر
+  L53     CJK[书,写] , LATword:follow-up   | **3. أعضاء مجلس النواب والشيوخ** | شرعية وسياق تشريعي | «تطوير محتوى تعليمي وقياس أثره» | خطابي |.follow-up书写 | **B** | PRO |
+  L56     LATword:follow-up , LATword:olicited | **6. أصحاب المؤسسات التعليمية والمستثمرون في التعليم** | تكرار النموذج | «نموذج قابل للنسخ ببيانات تشغيل» | عرض |olicited follow-up | **B** | CT |
+  L57     LATword:PR , LATword:first , LATword:pitch | **7. وسائل الإعلام والصحفيون المتخصصون** | تغطية مبنية على قيمة لا على مناسبة | «قصة تعليمية موثّقة بنموذج أولي حيّ» | بيان + شبكة | عمق-first pitch | **A** | PR |
+  L74     LATword:EVT-                   - **حالة التأكيد لا تعني الحضور** — الحضور يُثبت بقسمة البوابة (EVT-03).
+  L80     LATword:EVT-                   | A — اقتصادي منضبط | 90 | 70–90 | EVT-01 / EVT-03 |
+  L81     LATword:EVT-                   | B — متوسط احترافي | 110 | 110–140 | EVT-01 / EVT-03 |
+  L82     LATword:EVT-                   | C — فاخر | 130 | 160–200 | EVT-01 / EVT-03 |
+  L93     LATword:USB , LATword:USBPresenter | 16:00 | 30 د | اختبار الصوت والإضاءة والاتصال | ضبط | TEC | كابلات احتياطية، USBPresenter | ملف عرض على لابتوب + USB |
+  L95     LATword:go , LATword:no-go     | 17:00 | 15 د | **بوابة 1: اختبار النموذج الأولي** | التأكد من سلامة العرض | DEMO | روبوت + احتياطي + بطارية مشحونة | قرار go/no-go مكتوب |
+  L96     LATword:AV , LATword:go , LATword:no-go | 17:15 | 15 د | **بوابة 2: اختبار AV النهائي** | ضمان الصوت والشاشة | TEC | ميكروفون رئيسي + احتياطي | قرار go/no-go |
+  L100    LATword:occupation             | 18:25 | 5 د | طلب occupation الجلوس | ضبط الشكل | CT + PRO | ميكروفون صامت | هبوط الضيوف |
+  L101    LATword:MC                     | **18:30** | **3 د** | **1. ترحيب وتهيئة** | فتح الحفل | CT (MC) | صدى، موسيقى هادئة | انطلاق واضح |
+  L104    CJK[中,习,在,学,贴] , LATword:gowns , LAT|AR:kc | 18:47 | 6 د | **4. لماذا الآن؟** | ربطkc贴在 حاجز الأرقام | PM | شرائح أرقام (است学习中 من الك gowns) | مبرر مبني على بيانات |
+  L105    LATword:Grade , LATword:KG     | 18:53 | 6 د | **5. من KG إلى Grade 12** | عرض المسار | CT | تسع نقاط على الشاشة | خريطة المرحلة |
+  L108    LATword:MC , LATword:Newtonian | 19:20 | 24 د | **8. حوار مفتوح مع الحضور** | التقاط الأسئلة وبناء الشراكات | CT (MC) | 3 ميكروفونات + ت Newtonian | مواقف مسجلة |
+  L110    LATword:MC                     | 19:50 | 5 د | **10. شكر وختام** | إغلاق مهذب | CT (MC) | — | ختام وانتقال للاستقبال |
+  L111    LATword:PR , LAT|AR:ART        | 19:55 | 20 د | تصوير ومقابلات + انتقال | توثيق + شبكة | PR + CRM | منطقة تصوير + كART | مواد خام + محادثات مسجّلة |
+  L112    LATword:ruined                 | **20:15** | **45 د** | **الاستقبال الختامي** | بناء العلاقات | PM + LOG | ضيافة + مناطق ruined | 6+ محادثات ثنائية مسجّلة |
+  L128    LATword:go , LATword:no-go     ### ج.3 بوابات القرار (go / no-go)
+  L132    LATword:Speaker , LATword:feed | 2 | 17:15 | الصوت والشاشة | TEC | مستوى صوت + feed + تبديل المصدر | التحويل إلى لابتوب مستقل + كابلات احتياطية + Speaker يدوي |
+  L140    LATword:MC                     ## د. سيناريو مقدم الحفل (MC)
+  L142    LATword:general , LATword:improvisent > **قاعدة المذيع:** يقرأ **ما هو موقّع فقط** في جدول القوائم. أي اسم أو صفة غير مؤكدة تُقرأ بصيغة **general** دونلقب، أو تُحذف الفقرة. لا ي improvisent اجتهادًا في الصفات.
+  L148    LATword:graduation             > الليلة نسعد بكم في **حفل إطلاق مبادرة Green Grow Bot** — مبادرة تعليمية تطبيقية تربط ما يتعلّمه الطالب في الفصل بما يبنيه بيديه، هندسيًا وبرمجيًا، على مدى **اثنتي عشرة سنة دراسية**، من الم
+  L153    CJK[确,认]                       ### د.2 تقديم المتحدثين (بصيغ مرتبطة بال确认)
+  L155    CJK[、,了,解] , LATword:bibliotecas > **صيغة、了解 bibliotecas:**
+  L167    LAT|AR:ony                     > سيدورony ⟨[اسم المعلم/الفني]⟩ على المسرح ليشرح الفكرة خطوة بخطوة.»
+  L173    CJK[步,骤]                       > **ضبط الوقت:** «لدينا ثلاث دقائق متبقية قبل步骤 الخطوات القادمة، وسأسكت بعد السؤال الثالث لأننا نحتاج أن نُسمع كل الخطوات القادمة بوضوح.»
+  L174    LAT|AR:HOSTILE                 > **السؤالHOSTILE أو المُجحف:** «أتفق أن هذا يستحق النقاش، وسنخصص له مساحة بعد الحفل. لو سمحتم، دعوني أجمع السؤال وأعود إليك بخلاصة مكتوبة.»
+  L180    LATword:KG                     > **انتقال بعد العرض الحي:** «ما رأيتموه كان نسخة واحدة. تخيلوا أن العنصر نفسه موجود في الفصل كل أسبوع، من KG حتى الصف الثاني عشر. هذا ما سنراه الآن.»
+  L184    LATword:Mismatch               > من ∂Mismatch يقرأ ما تعلّمه طالب — على بعد √من الواحد والستين — سيبدأ في مكان ما. **ف_team، نلتقي في الصف.**
+  L193    LATword:proofs                 | # | ما يجب أن يُرى | كيف يُ proofs |
+  L197    LATword:ultrasonics            | 3 | **مهارة دراسية مرتبطة** | المعلم يذكر المفهوم: ⟨[مثال: قياس المسافة بال ultrasonics → الرياضيات: القسمة والوحدات]⟩ |
+  L198    LATword:Feynman                | 4 | **تطور واضح عن المبتدئ** | Feynman: «هذه نسخة مبنية بـ[عدد القطع] قطعة. نسخة العام الماضي كانت ⟨[عدد]⟩ قطعة فقط.» |
+  L201    LATword:Beat , LATword:sheet   ### هـ.2Beat sheet — 12 دقيقة
+  L204    LATword:KG                     | 0:00–0:30 | الروبوت في وضع السكون على الطاولة | «هذا ما سيرافقكم من KG حتى الصف الثاني عشر.» |
+  L209    LATword:Version                | 8:30–10:00 | **الفرق عن المبتدئ**: مقارنة.Version | «هذه نسخة مبنية بـ[عدد] قطعة. في العام الماضي كانت [عدد].» |
+  L213    LATword:Rehearsals             ### هـ.3 بروتوكول التجهيز (Rehearsals)
+  L216    LATword:Rehearsal              | **Rehearsal 1** | 9 نوفمبر | تشغيل كامل بلا جمهور + قياس الزمن | 12 دقيقة ±30 ثانية، بدون انقطاع |
+  L217    LATword:Rehearsal              | **Rehearsal 2** | 13 نوفمبر | البوابة النهائية + النسخة الاحتياطية + الميكروفون | تشغيلين متتاليين بنجاح + تسجيل الفيديو الاحتياطي |
+  L225    LAT|AR:conditions              | أثناء العرض (دقيقة > 6) | تعطل كلي | إيقاف، تشغيل **الفيديو المسجّل 90 ثانية**، ثم المعلم يشرح: «سجلناه في نفسconditions. هذه نسخة من داخل الفصل.» |
+  L228    LATword:for , LATword:problem , LATword:sorry , LATword:technical , LATword:the **قاعدة المشغّل:** لا يُصرخ في الميكروفون، ولا يُقال «sorry for the technical problem». العبارة المعتمدة: **«شكرًا لصبركم — لدينا نسخة جاهزة، ولنتابع.»**
+  L243    LATword:Cheops                 ### و.1 المخطط (Cheops 352 م² — مسرحي 396 / استقبال 240)
+  L250    LATword:MEDIA                  │   │  التسجيل    │                                  │  MEDIA / تصوير  │   │
+  L251    LATword:Pre-f                  │   │  (Pre-f. I) │                                  │  + طاقة + ملا   │   │
+  L266    LATword:universities           │  │  ▓ الصف الثاني: ضيوف الفئة A + universities          │              │
+  L268    CJK[义,的]                       │  │  ▒ منطقة الوصول义的: صفوف خلفية + كراسي متحركة        │              │
+  L272    CJK[监,视]                       │  │   │ الروبوت  │            │  (شاشة监视)   │         │              │
+  L278    LATword:II , LATword:Pre-function │  │  الاستقبال الختامي  │   (Pre-function II)         │  ضيافة / مشروبات │  │
+  L288    LATword:Pre-function           | المدخل والتسجيل | Pre-function I — طاولتان، قائمتا أسماء، كروت دخول، إشارة واي فاي مخصصة |
+  L289    LATword:II , LATword:Pre-function | الاستقبال | Pre-function II — ضيافة استقبال خفيفة، منطقة وقوف |
+  L292    LATword:ANSI , LATword:lumens , LATword:projector | الشاشة الرئيسية | شاشة واحدة 6 م (بديل: projector 6000 ANSI lumens) — **الشاشة تُغلَّف بشعار لا يُحجب** |
+  L294    LATword:Media , LATword:Navy , LATword:sightline , LATword:zone | التصوير والمقابلات | Media zone في الخلف بزاوية sightline + مصدر طاقة + لوح خلفيات=H Navy |
+  L295    LATword:II , LATword:Pre-function | الاستقبال الختامي | Pre-function II + كولارد خفيف |
+  L299    LAT|AR:Materials               - **الإتاحة:** مسار بعجلة يصل إلى المسرح ومنطقة العرض بدون درج؛ منصة ميكروفون بعمق ≤ 15 سم مع نسخة مسطحة على الأرض؛ مقاعد أولوية مثبتة؛ توصيل سماعات لاسلكي لمن يريد؛ لافتات بخط كبير؛Material
+  L300    CJK[传,给,递] , LATword:channel   - **السلامة:** مخرج طوارئ مفتوح طوال الوقت (لا طاولات أمامه)؛ حواجز منطقة الروبوت؛ إدارة الكابلات في channel floor؛ صندوق إسعافات أولية في غرفة التحضير؛ شخص مدرَّب على الإسعافات في القاعة؛ خ
+  L301    LATword:UPS                    - **كهرباء:** لوحات توزيع مخصصة للمسرح + احتياطي UPS للشاشة والتحكم.
+  L310    CJK[有,线] , LATword:backup      | **الصوت** | ميكروفون رئيسي (لاسلكي/有线 backup) | cardioid، مع مرسل | 1 | الفندق + مورد خارجي | | TEC |
+  L315    LATword:predefined             | **الإضاءة** | إضاءة مسرح | LED، 6 predefined | 1 حزمة | الفندق | | TEC |
+  L316    LATword:spotlight              | | إضاءة منطقة الروبوت | spotlight مستقل | 1 | مورد خارجي | | TEC |
+  L317    LATword:ambient                | | إضاءة الاستقبال | ambient | 1 حزمة | الفندق | | TEC |
+  L318    LATword:lm , LATword:projector | **الشاشات** | الشاشة الرئيسية | 6 م (أو projector 6000+lm) | 1 | الفندق | | TEC |
+  L319    CJK[監,視] , LATword:backstage   | | شاشة監視 backstage | 42 بوصة | 1 | تأجير | | TEC |
+  L321    LATword:Navy                   | | ستارة/خلفية | Navy + شعار | 1 | مورد خارجي | | LOG |
+  L327    LATword:RSVP                   | | لافتة RSVP | A4 | 1 | مطبعة | | CRM |
+  L330    LAT|AR:Definitive              | | ملفاتDefinitive للطباعة | PDF/X | 1 حزمة | مصمم | | LOG |
+  L331    LATword:PR                     | **التصوير** | مصوّر فوتوغرافي | 3–5 ساعات | 1 | مورد | | PR |
+  L332    LATword:PR , LATword:continuous | | إضاءة تصوير |_continuous | 1 | مورد | | PR |
+  L333    LATword:PR                     | | التصوير | عدسة 24–70 + 70–200 | 1 | مورد | | PR |
+  L334    LATword:PR                     | **الفيديو** | مصوّر فيديو | 4 ساعات | 1 | مورد | | PR |
+  L335    LATword:PR , LATword:backup    | | كاميرا 2 |backup | 1 | مورد | | PR |
+  L336    LATword:PR , LATword:Staunch   | | Staunch/باين | 4K أو 1080p | 1 | مورد | | PR |
+  L337    LATword:PR , LAT|AR:umbo       | | سلايدر/رumbo | — | 1 | مورد | | PR |
+  L338    LATword:PR                     | | قرص نسخ احتياطي | 1 تيرابايت | 2 | مورد | | PR |
+  L342    LATword:emergency              | | مخرج ط-emergency (لافتة) | — | 4 | الفندق | | SAFE |
+  L350    LATword:Mbps , LATword:Wi-Fi , LAT|AR:AV | **الإنترنت** | Wi-Fi مخصص للـAV | 20+ Mbps مضمون | 1 | الفندق | | TEC |
+  L352    LATword:HDMI                   | | كابلات | HDMI + طاقة + شبكة | 1 حزمة | — | | TEC |
+  L358    LATword:initiative             الجهة الطالبية: مدارس جرين إنترناشونال — initiative Green Grow Bot
+  L362    LAT|AR:Confira                 1. نوع الخدمة المطلوبة:  ☐ قاعة وخدمات مConfira  ☐ تجهيز فني  ☐ ضيافة  ☐ طباعة  ☐ إنتاج  ☐ استشارات
+  L388    LATword:AV                     | | طلب عروض الأسعار من الموردين (تصوير، طباعة، AV) | FIN | 2 نوفمبر | 3 عروض | عالية | |
+  L389    LATword:PR                     | | مراجعة نص الدعوة والموافقة على الشعار | PM + PR | 31 أكتوبر | موافقة | **تعذّر استبعادها** | |
+  L395    LATword:PR                     | | تجهيز حقيبة الصحفيين | PR | 7 نوفمبر | ملف مضغوط | **تعذّر استبعادها** | |
+  L396    LATword:PR                     | | ت618reliedالموافقات على التصوير | PR | 7 نوفمبر | نموذج موقّع | **تعذّر استبعادها** | |
+  L400    LATword:RSVP                   | | فتح التسجيل/RSVP وتصدير قائمة الدخول | CRM | 12 نوفمبر | قائمة + كروت | **تعذّر استبعادها** | |
+  L401    LATword:Rehearsal              | | Rehearsal 1 | DEMO + CT | 9 نوفمبر | تقرير بروفة | **تعذّر استبعادها** | |
+  L402    LATword:PR                     | | تجهيز محتوى حقيبة الصحفيين + مراجعة نهائية | PR | 11 نوفمبر | حقيبة نهائية | **تعذّر استبعادها** | |
+  L405    LATword:Rehearsal              | | Rehearsal 2 + تسجيل الفيديو الاحتياطي | DEMO | 13 نوفمبر | فيديو 90 ث | **تعذّر استبعادها** | |
+  L419    LATword:PR                     | | بيان صحفي بالنتائج + صور | PR | 17 نوفمبر | بيان | **تعذّر استبعادها** | |
+  L432    CJK[に,同,時]                     - [ ] ملحقات الكولارد + قائمة الأسماء + إرشادات同時に.
+  L440    LATword:SD                     - [ ] تسجيل: كاميرا + بطاقة SD فارغة + بطارية + كابل + نسخة احتياطية.
+  L442    CJK[开,源]                       - [ ] خطة بديلة مطبوعة في ملف المذيع + رقم开源.
+  L443    LATword:CRS                    - [ ] جدول CRS مبسّط في ورقة واحدة (اسم — جهة — هاتف).
+==============================================================================================================
+Green_Grow_Bot_Master_Strategy.md
+  L11     LATword:City , LATword:Governorate , LATword:Heliopolis , LATword:Mirage , LATword:New , LATword:Ring , LATword:Road | مكان الحفل | JW Marriott Hotel Cairo — Ring Road, Mirage City, New Heliopolis, Cairo Governorate 11757 |
+  L16     LATword:Canonical , LATword:Spec , LATword:md | المصدر المرجعي الوحيد | `Green_Grow_Bot_Canonical_Spec.md` (نسخة 1.0، 27 أكتوبر 2026) |
+  L18     LATword:Canonical , LATword:Spec , LATword:md > **قاعدة القراءة:** كل رقم واسم وتاريخ في هذه الوثيقة مأخوذ حرفيًا من الملف المرجعي `Green_Grow_Bot_Canonical_Spec.md`. لم يُستعمل أي رقم بديل أو مُستنتَج من خارج المرجع. البنود التي لم تُق
+  L20     LATword:floor                  > **تنبيه إلزامي (منقول حرفيًا عن المرجع §7):** كل الأرقام المالية أدناه **تقديرات تخطيط** وليست عروض أسعار. بنود الفندق والضيافة والإنتاج الفني **غير مسعّرة**؛ القيم المعروضة هي *حد أدنى لل
+  L28     LATword:Grade , LATword:KG , LAT|AR:requirement **ما هي المبادرة.** ‏Green Grow Bot مبادرة تعليمية تطبيقية تملكها مدارس جرين إنترناشونال، تبدأ من مرحلة KG1 وتنتهي في Grade 12، وتقوم على فكرة واحدة: **مشروع روبوت واحد (أو منظومة) ينمو مع ا
+  L30     CJK[命,的,致] , LATword:EJ , LATword:ERIC , LATword:KG , LATword:Robotics , LATword:Sara , LATword:com , LATword:electronicsegypt **لماذا الآن.** ثلاثة أسباب مجتمعة تصنع نافذة تنفيذية حقيقية. أولًا: الفصل بين ما يُدرَّس وما يُستخدم ما يزال واسعًا في التقييم التعليمي؛致命的 문제는 أن أغلب التقييمات التعليمية تتوقف عند المستوي
+  L32     LATword:Cheops , LATword:Grade , LATword:Hybrid , LATword:II , LATword:KG , LATword:Section , LATword:gaala , LATword:plenary , LATword:venue , LAT|AR:Tutankhamun **ما الذي يفعله حدث 15 نوفمبر.** ‏الحفل ليس حفل|gaala تكريمًا ولا مؤتمرًا كاملًا بيوم؛ القرار المعتمد هو **مؤتمر مصغّر + عرض حيّ + استقبال** (Hybrid) مسائي، ببرنامج plenary مدته 85 دقيقة (18
+  L34     LATword:floor                  **كم يكلّف وما سقف الاعتماد.** ثلاثة سيناريوهات تخطيط بالجنيه المصري: **A** اقتصادي منضبط — إجمالي تقديري (floor) ‏164,268 ج.م وسقف معتمد 191,543 ج.م؛ **B** متوسط احترافي — floor ‏399,384 ج.
+  L36     LATword:COM-xx , LATword:EDU-xx , LATword:EVT-xx , LATword:EXE-xx , LATword:value **بماذا يُقاس النجاح.** أربعة عناقيد مؤشرات: **EVT-xx** لقياس الحفل (الدعوات المرسلة، نسبة التأكيد، الحضور الفعلي، نسبة حضور المؤكدين، الاجتماعات التعاونية، فرص الشراكة المؤهلة، التغطية الإع
+  L48     LATword:Grade , LATword:KG     مبادرة تعليمية تطبيقية مستمرة، مسار واحد من KG1 إلى Grade 12، مبنية على مشروع واحد يتطور مع الطالب. القاعدة التصميمية: **لا يوجد مشروع منفصل لكل مادة** — مشروع واحد (أو منظومة) ينمو مع الطال
+  L54     LATword:KG , LATword:Pro       | 1 | الاستكشاف الحسي والبناء البسيط | KG1–KG2 | WhalesBot U20 Pro / كتل بناء | 4–6 |
+  L55     LATword:Education , LATword:WeDo | 2 | الحركة والأشكال والآليات الأساسية | G1–G2 | LEGO Education WeDo 2.0 | 6–8 |
+  L56     LATword:LED                    | 3 | الدوائر الإلكترونية والتعرّف الآمن على المكونات | G3 | micro:bit + دوائر بسيطة (LED/بزر/جرس) | 8–9 |
+  L57     LATword:Prime , LATword:Spike  | 4 | البرمجة المرئية | G4–G5 | LEGO Spike Prime / micro:bit + PictoBlox | 9–11 |
+  L58     LATword:DHT , LATword:HC-SR , LATword:LM , LATword:MPU- , LATword:Uno | 5 | الحساسات وجمع البيانات | G6 | Arduino Uno + HC-SR04 / DHT22 / LM35 / MPU-6050 | 11–12 |
+  L59     LATword:BYJ- , LATword:MG , LATword:ULN | 6 | التحكم والحركة | G7–G8 | Arduino + L298N / ULN2003 + MG995 / 28BYJ-48 | 12–14 |
+  L60     LATword:CAD , LATword:Tinkercad , LATword:Wokwi | 7 | التصميم الهندسي وحل المشكلات | G9–G10 | محاكاة (Tinkercad/Wokwi) + CAD + إدارة مشروع | 14–16 |
+  L61     LATword:App , LATword:ESP , LATword:Inventor , LATword:IoT , LATword:MIT , LATword:MQTT , LATword:Node-RED | 8 | الأنظمة المتكاملة | G11 | ESP32 + IoT (MQTT/Node-RED) + تطبيق MIT App Inventor | 16–17 |
+  L69     LATword:Activities             -Activities التطبيقية تُصمَّم لتقوى ما يُدرَّس: الرياضيات (القياس والمسافة والسرعة والحسابات)، العلوم (الحركة والطاقة والقوى)، التكنولوجيا (البرمجة والتحكم وجمع البيانات)، اللغة (تقارير وشرح
+  L83     LATword:ESP , LATword:HC-SR , LATword:IoT , LATword:LED , LAT|AR:Addition طالب واحد، مسار **«روبوت ترشيد المياه في المدرسة»**: G1 عربة بعجلة واحدة تدور بالضغط (مفهوم القوة والدفع) ← G3 إضافة مصباح LED يدخل في معادلة رقمية تُحسب بالAddition ← G5 حساس مسافة HC-SR04 
+  L116    LATword:Budget , LATword:COM-xx , LATword:EDU-xx , LATword:EVT-xx , LATword:EXE-xx , LATword:KPIs , LATword:and , LATword:xlsx > جميع الأهداف أدناه **مبدئية** ولم تُقاس بعد؛ خط الأساس يُملأ من أول قياس فعلي. مؤشر كل هدف معرّفه في ملف المؤشرات (EVT-xx / COM-xx / EDU-xx / EXE-xx) ويُدار من ملف `Green_Grow_Bot_Budget_a
+  L118    LATword:EDU-xx                 ### 4.1 (أ) الأهداف التعليمية → EDU-xx
+  L120    LATword:ID                     | الهدف | مؤشر القياس (ID) | خط الأساس | الهدف المبدئي | مصدر التحقق | المسؤول |
+  L122    LATword:EDU-                   | ربط المعرفة النظرية بالتطبيق العملي | EDU-02 إتقان المهارات المستهدفة | — | ≥ 75% | قائمة تقييم المشروع + Rubric موحّد | المعلم + منسق البرنامج |
+  L123    LATword:EDU-                   | تنمية مهارات التصميم والتجريب والتحليل وحل المشكلات | EDU-05 تقدم الطالب في المشروع | يُحدد بعد أول قياس | +15 نقطة سنويًا | Rubric رباعي (تصميم/بناء/برمجة/توثيق) من 100، تقييم مزدوج | الم
+  L124    LATword:EDU- , LATword:gallery | تحسين قدرة الطالب على شرح ما تعلمه وإثباته عبر مشروع | EDU-05 تقدم الطالب في المشروع | يُحدد بعد أول قياس | +15 نقطة سنويًا | Rubric + مراجعة-gallery | المعلم |
+  L125    LATword:EDU-                   | تطوير مهارات التعاون والعمل الجماعي | EDU-02 إتقان المهارات المستهدفة | — | ≥ 75% | قائمة تقييم المشروع | المعلم + منسق البرنامج |
+  L126    LATword:EDU-                   | بناء ملف إنجاز تراكمي لكل طالب | EDU-04 اكتمال ملف الإنجاز | 0 | ≥ 80% | منصة الملفات + مراجعة قوائم كل 6 أسابيع | المعلم |
+  L127    LATword:EDU-                   | تحويل التعلم التطبيقي إلى مسار منظم ممتد عبر السنوات | EDU-06 نسبة تسليم مشروع التخرج | — | ≥ 85% | سجل المشاريع — نهاية G12 | منسق البرنامج |
+  L128    LATword:EDU-                   | إعداد طلاب قادرين على التعامل مع التغير التكنولوجي | EDU-03 نقل التعلم إلى الممارسة | 0 | ≥ 60% | ملاحظة صفّية مقننة + Rubric — 90 يومًا — عيّنة ≥ 20 | منسق البرنامج |
+  L129    LATword:EDU-                   | ضمان انطباع إيجابي أولي لدى المشاركين | EDU-01 رضا المشاركين (L1) | — | ≥ 4.2/5 | استبيان مجهول — نهاية كل وحدة | منسق البرنامج |
+  L131    LATword:EVT-xx                 ### 4.2 (ب) الأهداف المباشرة للحفل → EVT-xx
+  L133    LATword:ID                     | الهدف | مؤشر القياس (ID) | خط الأساس | الهدف المبدئي | مصدر التحقق | المسؤول |
+  L135    LATword:EVT- , LATword:EXE-    | إطلاق المبادرة بصورة رسمية وواضحة | EVT-01 الدعوات المرسلة + EXE-01 نسبة إنجاز الخطة | 0 | 90 / 110 / 130 حسب السيناريو | سجل الدعوات + قائمة تحقق التنفيذ | مسؤول البروتوكول + منسق المشروع
+  L136    LATword:RSK- , LATword:Rehearsal | تقديم نموذج أولي حيّ يوضح الفكرة خلال دقائق | RSK-05 مؤشر الإنذار (اختبار 13 نوفمبر) | — | اجتياز Rehearsal 2 في 13 نوفمبر | سجل اختبارات العرض + نسخة احتياطية | مسؤول العرض |
+  L137    LATword:EVT- , LATword:Grade , LATword:KG | شرح رحلة المشروع من KG إلى Grade 12 | EVT-01 الدعوات المرسلة | 0 | 90 / 110 / 130 | سجل الدعوات + مواد البرنامج | منسق البرنامج |
+  L138    LATword:EDU-                   | إثبات أن المشروع يكمّل التعليم الأكاديمي ولا يستبدله | EDU-01 رضا المشاركين | — | ≥ 4.2/5 | استبيان مجهول + مراجعة نص العرض | منسق البرنامج |
+  L139    LATword:EVT-                   | فتح باب الحوار مع الجامعات والجهات التعليمية والقطاع الخاص | EVT-05 الاجتماعات التعاونية بعد الحفل | 0 | ≥ 6 خلال 30 يومًا | سجل CRM + محاضر | منسق البرنامج |
+  L140    LATword:EVT-                   | تحديد فرص تعاون حقيقية قابلة للمتابعة | EVT-06 فرص الشراكة المؤهلة | 0 | ≥ 4 | سجل الفرص + مراجعة مجلس إدارة | منسق البرنامج |
+  L141    LATword:EVT-                   | جذب اهتمام الإعلام وأولياء الأمور والشركاء المحتملين | EVT-07 التغطية الإعلامية الفعلية | 0 | ≥ 6 | أرشيف + روابط (لا المنشورات المدفوعة) | مسؤول الإعلام |
+  L142    LATword:EVT-                   | توضيح دور Green International Schools في تطبيق المبادرة | EVT-03 الحضور الفعلي | — | 70–90 / 110–140 / 160–200 | تسجيل البوابة + تذاكر الدخول | مشرف القاعة |
+  L143    LATword:EVT-                   | ضبط كلفة الحفل لكل حاضر | EVT-08 تكلفة الحضور | — | تُحسب بعد التنفيذ | = التكلفة الفعلية ÷ EVT-03 — مطابقة الفاتورة | مسؤول المالية |
+  L145    LATword:COM-xx                 ### 4.3 (ج) الأهداف التجارية والاستثمارية للمدرسة → COM-xx
+  L147    LATword:ID                     | الهدف | مؤشر القياس (ID) | خط الأساس | الهدف المبدئي | مصدر التحقق | المسؤول |
+  L149    LATword:COM- , LATword:EVT-    | زيادة وعي السوق بالمدرسة وميزتها التعليمية | EVT-07 + COM-01 الاستفسارات الجديدة | متوسط 3 أشهر سابقة `[يحتاج استخراج]` | ≥ 40 استفسارًا | نموذج اهتمام/CRM + مطابقة رمز المصدر | مسؤول التس
+  L150    LATword:COM-                   | دعم استفسارات القبول والزيارات والتسجيل | COM-02 الزيارات المدرسية | — | ≥ 12 | سجل المواعيد | مسؤول التسجيل |
+  L151    LATword:COM-                   | تحسين الاحتفاظ بالطلاب من خلال تجربة تعليمية واضحة | COM-07 معدل الاحتفاظ | `[يحتاج استخراج]` | ≥ 90% | نظام القبول — آخر كل عام دراسي | مدير المدرسة |
+  L152    LATword:EVT-                   | جذب شركاء تقنيين وتعليميين | EVT-06 فرص الشراكة المؤهلة | 0 | ≥ 4 | سجل الفرص + مراجعة مجلس إدارة | منسق البرنامج |
+  L153    LATword:EDU-                   | بناء أصل تعليمي موثق يمكن تطويره وتكراره | EDU-04 + EDU-06 | 0 | ≥ 80% و≥ 85% | منصة الملفات + سجل المشاريع | المعلم + منسق البرنامج |
+  L154    LATword:EDU- , LATword:EVT-    | تحسين صورة المدرسة لدى أولياء الأمور والشركاء | EDU-01 + EVT-07 | — | ≥ 4.2/5 و≥ 6 | استبيان + أرشيف التغطية | منسق البرنامج + مسؤول الإعلام |
+  L155    LATword:COM-                   | توثيق أثر المبادرة على جودة الخدمة التعليمية والتشغيل والإيرادات | COM-08 متوسط الإيراد لكل طالب | 65,000 ج.م/طالب `[مصدره: تقدير تكلفة الطالب — يحتاج توثيق]` | يُقاس | القوائم المالية | م
+  L156    LATword:COM-                   | قياس كفاءة الإنفاق على الاستفسارات والتسجيلات | COM-05 تكلفة الاستفسار + COM-06 تكلفة اكتساب الطالب | — | تُحسب بعد التنفيذ | = التكلفة ÷ COM-01 و÷ COM-04 | مسؤول المالية |
+  L157    LATword:COM- , LATword:value   | أثر/value على قيمة المدرسة | COM-09 | 300 مليون ج.م (قيمة استرشادية `[غير مُثنَّة]`) | لا يُعلن | تقييم مستقل — قوائم مالية + بيانات تشغيل | الإدارة المالية |
+  L161    LATword:Day , LATword:Media , LATword:PR , LATword:Roadmap , LATword:and , LATword:md > تُدار عبر خطة المحتوى والمكانة المهنية (90 يومًا) في `Green_Grow_Bot_90_Day_Roadmap.md`، وتُوثَّق عبر `Green_Grow_Bot_PR_and_Media.md`. الشرط الحاكم: المحتوى مبني على الإنجاز الفعلي لا على
+  L163    LATword:ID                     | الهدف | مؤشر القياس (ID) | خط الأساس | الهدف المبدئي | مصدر التحقق | المسؤول |
+  L165    LATword:EDU- , LATword:EVT-    | بناء مكانة مهنية مرتبطة بقيادة مشروع تعليمي تطبيقي قابل للقياس | EVT-06 فرص الشراكة المؤهلة + EDU-05 تقدم الطالب | 0 | ≥ 4 فرص + +15 نقطة سنويًا | سجل الفرص + Rubric | منسق البرنامج + المع
+  L166    LATword:EDU-                   | تقديم رؤية عملية لتطوير التعليم دون الاكتفاء بالشعارات | EDU-05 + EDU-06 | — | +15 نقطة سنويًا و≥ 85% تسليم | Rubric + سجل المشاريع | المعلم + منسق البرنامج |
+  L167    LATword:EVT-                   | بناء علاقات مهنية مع قيادات التعليم والجامعات والقطاع الخاص | EVT-05 الاجتماعات التعاونية بعد الحفل | 0 | ≥ 6 خلال 30 يومًا | سجل CRM + محاضر | منسق البرنامج |
+  L168    LATword:EVT-                   | إنتاج محتوى فكري وإعلامي يستند إلى نتائج فعلية | EVT-07 التغطية الإعلامية الفعلية | 0 | ≥ 6 | أرشيف + روابط + تقرير 48 ساعة | مسؤول الإعلام |
+  L169    LATword:EXE-                   | توثيق المراحل والقرارات والنتائج بحيث ترتبط المبادرة بقيادته | EXE-01 نسبة إنجاز الخطة التنفيذية | 0 | ≥ 85% في 14 نوفمبر | قائمة تحقق التنفيذ — مراجعة أسبوعية | منسق المشروع |
+  L170    LATword:EDU-                   | إنتاج «تقرير نتائج بعد التجربة الأولى» كدليل على القيادة | EDU-04 + EDU-06 | 0 | ≥ 80% و≥ 85% | تقرير المرحلة 4 (61–90 يومًا) | منسق البرنامج |
+  L174    LATword:ID                     | الهدف | مؤشر القياس (ID) | خط الأساس | الهدف المبدئي | مصدر التحقق | المسؤول |
+  L176    LATword:EDU-                   | تحفيز المعلمين على استخدام مشروعات متعددة التخصصات | EDU-03 نقل التعلم إلى الممارسة | 0 | ≥ 60% | ملاحظة صفّية مقننة + Rubric — 90 يومًا — عيّنة ≥ 20 | منسق البرنامج |
+  L177    LATword:EDU-                   | زيادة مشاركة الطلاب في التجريب والابتكار | EDU-02 إتقان المهارات المستهدفة | — | ≥ 75% | قائمة تقييم المشروع | المعلم + منسق البرنامج |
+  L178    LATword:EDU-                   | جعل العلاقة بين التعلم والواقع أكثر وضوحًا لأولياء الأمور | EDU-01 رضا المشاركين | — | ≥ 4.2/5 | استبيان مجهول | منسق البرنامج |
+  L179    LATword:EVT- , LATword:RSK-    | فتح فرص شراكة بين المدارس والجامعات وشركات التكنولوجيا | EVT-06 + RSK-09 | 0 | ≥ 4 فرص | سجل الفرص + قاعدة «بلا موافقة = بلا شعار» | منسق المشروع |
+  L180    LATword:EXE-                   | بناء نموذج قابل للتقييم والتطوير والتوسع | EXE-03 المخاطر الحرجة المتبقية | 15 | ≤ 3 | مراجعة سجل المخاطر أسبوعيًا | منسق المشروع |
+  L181    LATword:EXE- , LATword:RSK-    | حماية самого من مبالغة الوعود والالتزام غير المعتمد | RSK-11 + EXE-02 | 0 | ≤ 10% انحراف ميزانية | مراجعة نصية إلزامية + مطابقة الفواتير | منسق البرنامج + مسؤول المالية |
+  L182    LATword:FAQ , LATword:RSK-     | الحد من اعتراض أولياء الأمور | RSK-12 | — | لا استفساران سالبان | جلسة تعريف مسبقة + FAQ + جلسة استيضاح خلال 48 ساعة | مدير المدرسة |
+  L183    LATword:EVT- , LATword:RSK-    | رفع سقف التغطية والسمعة دون الاعتماد على وسيلة واحدة | EVT-07 + RSK-10 | 0 | ≥ 6 | أرشيف + تكثيف التغطية الرقمية الرسمية | مسؤول الإعلام |
+  L193    LATword:Grade , LATword:KG     | الطلاب من KG1 إلى Grade 12 | مسار مشروع شخصي تراكمي، ومهارات نقلية، وملف إنجاز | لا بديل عن المنهج ولا عن متطلباته |
+  L194    CJK[子,孩]                       | أولياء الأمور | رؤية واضحة لتطور孩子 عبر السنين وربط التعلم بالواقع | لا ضمان وظيفي ولا قبول جامعي |
+  L196    CJK[出,声] , LATword:Potential , LATword:lookup | الشركاء.lookup出声 Potential: جهات التعليم، الجامعات، القطاع الخاص | فضاء تعاون موصوف بمخرجات ومسار متابعة | لا شراكة ولا رعاية قبل موافقة موثقة |
+  L205    LAT|AR:gpio                    - ليست وعدًا بgpio أي طالب أصبح مهندس روبوتكس.
+  L207    LATword:against , LATword:launch ### 5.3 الإطار التنافسي:_launch against النشاطات اللاصفية الاعتيادية
+  L209    LATword:Robotics , LATword:extracurricular | البُعد | النشاط اللاصفي الاعتيادي (Robotics extracurricular) | مبادرة Green Grow Bot |
+  L211    LATword:Grade , LATword:KG     | مدة المسار | نشاط فصل أو موسم منتهي | مسار KG1 ← Grade 12 متصل |
+  L213    LATword:relation               |_relation بالمنهج | نشاط موازٍ | طبقة تطبيق فوق المنهج القائم |
+  L214    CJK[事,商]                       | القياس | حضور ومشاركة | Rubric + مؤشرات كيركباتريك L1–L4 + مؤشرات حدث و商事 |
+  L216    CJK[料,材,的] , LATword:Financial , LATword:parent-borne , LATword:scenario | التكلفة | مشتتة على的材料(parent-borne) | موحّدة على مسار واحد (Financial scenario) |
+  L218    LATword:EVT-                   | الشراكات | نادرًا | مسار شراكة موصوف بفرص مؤهلة (EVT-06) |
+  L222    CJK[来,自,，] , LATword:bib       - **القرب من القاهرة.bib**: يقع الفندق على بُعد أقل من 7 دقائق من مطار القاهرة الدولي وبجوار مركز القاهرة الدولي للمؤتمرات (S2)، ما يجعل الوصول من خارج القاهرة عمليًا لضيوف，来自 خارج المدينة —
+  L223    CJK[常,格,资] , LATword:providersOuterGH - **صلاحية إعادة التصميم**: المدرسة المستضيفة هي الجهة التي يمكنها تحويل أنشطة مختارة من المنهج إلى مهام تطبيقية على مراحلها، وهذا قرار لا يستطيع خارجه/providersOuterGH. هذا资格常 — [يحتاج تأكي
+  L224    LATword:IoT                    - **بنية مختبرات ومعلمين**: وجود بيئة مختبرات في المدرسة شرط تشغيلي للمراحل 5–9 (حساسات، تحكم، تصميم هيدروليكي، IoT) — [يحتاج تأكيد: قائمة المعمل والمعلمين المؤهلين].
+  L227    LAT|AR:Assertion               ### 5.5 الحدود الصريحة — ما هو مؤكد وما لا يمكنAssertionsه
+  L233    LAT|AR:COM-                    | مؤشرات الأداء ومعرّفاتها | خط أساس COM-01 وCOM-07: `[يحتاج استخراج]` من سجلات التشغيل |
+  L246    LATword:Cheops , LATword:II , LATword:Section , LATword:Tutankhamun | 1 | قاعة وخدمات الفندق | Cheops + Pre-function، 6 ساعات — 45,000 (تقدير) | Tutankhamun Section II + Pre-function، 8 ساعات — 95,000 (تقدير) | Tutankhamun Section I + Pre-function + استقبال 
+  L257    LATword:floor                  | 12 | **الإجمالي التقديري (floor)** | **164,268** | **399,384** | **880,660** |
+  L261    LATword:ceiling , LATword:floor **الأرقام الحاكمة:** A: floor 164,268 / ceiling 191,543 · B: floor 399,384 / ceiling 465,834 · C: floor 880,660 / ceiling 1,026,310 (ج.م).
+  L270    LATword:Cheops , LATword:II , LATword:Tutankhamun | مستوى الفندق | قاعة فرعية Cheops | قسم رئيسي Tutankhamun II | Tutankhamun I + نطاق خاص |
+  L276    LATword:Relations              | العلاقات العامة | داخلي | خارجي محدود | خارجي كامل + Relations |
+  L279    LATword:VAT                    | الضرائب والخدمات المستثناة | الضريبة المضافة (VAT) غير محتسبة؛ بدل المبيت/الإقامة الليلية خارج النطاق؛ تأجير معدات المطبخ والمأذونات. **كلها تحتاج تأكيد** | | |
+  L287    LATword:Simultaneous           إقامة الضيوف · البدلات · تأجير المولدات · الترجمة الفورية (Simultaneous) · هدايا الضيوف فوق التذاكر · أتعاب الملحق · التأمين الإضافي · ضرائب ورسوم غير مذكورة.
+  L291    LATword:Wilde                  **من الفندق (JW Marriott Hotel Cairo) — عبر LOG بت Wilde RFQ من FIN:**
+  L293    LATword:Cheops , LATword:II , LATword:Pre-function , LATword:Section , LATword:Tutankhamun 1. اسم القاعة وسعتها ومدة الجلسة (A: Cheops 6 ساعات · B: Tutankhamun Section II 8 ساعات · C: Tutankhamun Section I) مع تأكيد Pre-function للتسجيل والاستقبال.
+  L295    LATword:Dietary                3. الضيافة: عدد الأشخاص الفعلي، نوع البوفيه، سعر الفرد، المشروبات غير الكحولية، متطلبات الحميات (Dietary)، والضريبة على كل بند.
+  L297    LATword:day , LAT|AR:Distribution 5. الطباعة والتسليم: مواعيد استلام المطبوعات، وجود منطقة تخزين لليلة، وإمكانيةDistribution_AR_day.
+  L298    LATword:Cut-off , LATword:attrition 6. سياسة الإلغاء والتعديل والمواعيد النهائية للعدادات (Cut-off) واحتساب الـ attrition.
+  L304    LATword:electronicsegypt       1. **النموذج الأولي:** قائمة قطع مفصّلة بالكمية والسعر (مرجع الأسعار: electronicsegypt.com، محدث 28 أكتوبر 2026) + سعر التوصيل + مدة التوريد + الضمان + شرط التوريد قبل 2 نوفمبر.
+  L305    LATword:sided                  2. **الطباعة:** سعر الوحدة عند كل كمية، نوع الورق، sided/color، تاريخ التسليم، وسعر إعادة الطباعة إن طُلب تصحيح.
+  L306    LATword:technical              3. **الصوت والإضاءة والشاشات:** قائمة المعدات، technical rider، الساعات المشمولة، سعر الساعة الإضافية، ومعدات احتياطية.
+  L309    LAT|AR:RF                      6. **شرط عام:** لا يُلتزم بأي بند قبل عرض سعر مكتوب مطابق لنموذج الـRFQ، ودون تجاوز السقف المعتمد؛ وأي بند غير مسعّر في هذه الوثيقة يُعامَل على أنه تقدير.
+  L319    LATword:EVT- , LATword:PR      | 1. وعي | الوصول إلى الفئات الثماني المستهدفة | دعوات + بيانات صحفية + قنوات المدرسة | EVT-01, EVT-07 | PRO, PR | سجل الدعوات، سجل التغطية |
+  L320    LATword:COM-                   | 2. اهتمام | استقبال أسئلة وطلب معلومات عن المبادرة | نموذج اهتمام + صفحة تعريف | COM-01 | CRM | رمز مصدر لكل استفسار |
+  L321    LATword:EVT-                   | 3. تواصل | متابعة خلال 24–48 ساعة | CRM + متابعة | EVT-05 | CT, CRM | محاضر ونماذج التواصل |
+  L322    LATword:COM-                   | 4. زيارة أو تجربة | زيارة مدرسية أو عرض عملي للطلاب وأولياء الأمور | نظام المواعيد + جلسات التجربة | COM-02 | CRM | سجل مواعيد |
+  L323    LATword:COM-                   | 5. تقديم | طلبات تقديم جديدة موسومة بمصدر الحفل | نظام القبول | COM-03 | مسؤول القبول | رمز المصدر في النظام |
+  L324    LATword:COM-                   | 6. تسجيل | تسجيلات مرتبطة بمصدر «الحفل» | نظام القبول | COM-04, COM-05, COM-06 | مسؤول القبول + FIN | التقارير المالية + نظام القبول |
+  L325    CJK[和,系,统] , LATword:COM-      | 7. احتفاظ وبطء قيمة | استمرار الطالب وبيانات تشغيل | نظام القبول + الحسابات | COM-07, COM-08 | مدير المدرسة + FIN | سجلات系统和 القوائم المالية |
+  L329    LATword:COM-                   > **لا يُنسب أي تحسّن في قيمة المدرسة إلى الحفل. ما يُنسب هو مسار التحويل (استفسار ← زيارة ← تقديم ← تسجيل) فقط.** مؤشر COM-09 لا يُقاس بالحفل، بل ببيانات تشغيلية ومالية، ويبقى خط أساسه «300
+  L334    LATword:COM-                   - خط أساس COM-01 هو **متوسط 3 أشهر سابقة** `[يحتاج استخراج]` من سجلات التشغيل قبل استخدام الرقم في أي مقارنة.
+  L336    CJK[刻,时,的] , LATword:COM- , LATword:EVT- - كل تكلفة تُسجَّل في的时刻 الفعلية (EVT-08 تكلفة الحضور، COM-05 تكلفة الاستفسار، COM-06 تكلفة اكتساب الطالب) لتحميل التكلفة على الحملة فقط.
+  L342    CJK[波,的]                       | 1 | سجل الدعوات | مرسلة، مؤكدة، ملغاة،波的 | نعم — يبدأ مع أول إرسال |
+  L345    CJK[、,果,結] , LATword:Coming , LATword:Motorola | 4 | نظام المواعيد | الزيارات Motorola Coming、結果ها | نعم |
+  L360    LAT|AR:COM-                    **الخلاصة التنفيذية:** حتى تتحقق الشروط الأربعة أعلاه، لا يُطلب تقييم خارجي ولا يُعلن أي أثر على القيمة السوقية؛ ويُكتفى بقياس مسار التحويل والوحدة الاقتصادية (COM-05 وCOM-06). عند تحققها، ي
+  L375    LATword:PR                     | مسؤول العلاقات العامة والإعلام | PR | البيان، حقيبة الصحفيين، التغطية، الموافقات | [اسم] |
+  L389    LATword:RSK-                   | حجز القاعة والدفع المقدم | PM | LOG | FIN | 3 نوفمبر (مؤشر RSK-02) |
+  L390    LATword:PR                     | اعتماد الشعار النهائي (د) والصفة الرسمية | أحمد جبر | PM | PR, CT | 2 نوفمبر |
+  L391    LATword:PR                     | اعتماد استخدام شعار AXMIND | أحمد جبر | PM | PR, LOG | 2 نوفمبر |
+  L392    LATword:PR                     | اعتماد نص الدعوة والخطاب | PM | CT, PR | LOG | 6 نوفمبر |
+  L394    LATword:PR                     | خطة التصوير والموافقات | PM | PR | SAFE, مدير المدرسة | 12 نوفمبر |
+  L399    LATword:RACI                   ### 8.3 قواعد التصعيد (RACI مبسّط) خلال نافذة الـ19 يومًا
+  L409    LAT|AR:EXE-                    | التقرير الدوري | EXE-01 (نسبة إنجاز الخطة) وEXE-03 (المخاطر الحرجة المتبقية) يُراجَعان أسبوعيًا؛ ملخص الجلسة يُرفع إلى PM. |
+  L411    LATword:Canonical , LATword:RSK- , LATword:Spec , LATword:md | قاعدة المصدر الواحد | أي رقم أو اسم يُنشر من `Green_Grow_Bot_Canonical_Spec.md` فقط؛ أي مخالفة تُعالَج خلال 24 ساعة (RSK-14). |
+  L415    LATword:GV , LATword:posture   ## 9. GV posture المخاطر
+  L419    LATword:ID                     | ID | الخطر | الاحتمال | الأثر | الدرجة | الوقاية والاستجابة | المسؤول | مؤشر الإنذار المبكر |
+  L421    LATword:RSK-                   | RSK-15 | الاعتماد على حدث واحد دون متابعة | مرتفع | مرتفع | حرجة | الوقاية: خطة 90 يومًا مرتبطة بالمبادرة. الاستجابة: تحويل الحفل إلى مسار عمل. | مدير المدرسة | لا خطة معتمدة حتى 20 نوفمبر
+  L422    LATword:House , LATword:Mena , LATword:RSK- | RSK-02 | عدم تأكيد حجز الفندق والقاعة | مرتفع | حرج | حرجة | الوقاية: RFQ فوري + احتياطي. الاستجابة: قاعات بديلة (Marriott Mena House / Cairo Marriott — 136 م²/قاعات) بعد مراجعة السعة. | م
+  L423    LATword:RSK-                   | RSK-01 | عدم تأكيد الشخصيات المهمة | مرتفع | مرتفع | حرجة | الوقاية: دعوات مبكرة + متابعة. الاستجابة: تحويل الفئة إلى «تي إل»/بشكل فردي. | مسؤول البروتوكول | عدم الرد خلال 5 أيام |
+  L424    LATword:RSK-                   | RSK-04 | ضعف الحضور | متوسط | مرتفع | مرتفعة | الوقاية: 3 موجات دعوة + متابعة فردية. الاستجابة: تحويل لـ«حلقة مغلقة» + تقليل التكاليف. | مسؤول البروتوكول | نسبة تأكيد < 30% في 6 نوفمبر |
+  L425    LATword:RSK-                   | RSK-05 | تعطل الروبوت أثناء العرض | متوسط | مرتفع | مرتفعة | الوقاية: نسخة احتياطية + اختبار 48 ساعة. الاستجابة: عرض مصوّر 90 ثانية + شرح المعلم. | مسؤول العرض | فشل في الاختبار 13 نوفمبر 
+  L426    LATword:RSK-                   | RSK-07 | تجاوز الميزانية | متوسط | مرتفع | مرتفعة | الوقاية: سقف معتمد + موافقة مسبقة. الاستجابة: وقف البنود الاختيارية + احتياطي 8%. | مسؤول المالية | ≥ 5% انحراف في 10 نوفمبر |
+  L427    LATword:RSK-                   | RSK-03 | تأخر الطباعة | متوسط | متوسط | مرتفعة | الوقاية: طلب طباعة مبكر 3 نوفمبر + PDF رقمي جاهز. الاستجابة: تحويل رقمي فوري + تصغير الكمية. | مسؤول المطبوعات (LOG) | لا معاينة حتى 9 نوفم
+  L428    LATword:RSK-                   | RSK-08 | عدم وجود موافقات التصوير | متوسط | مرتفع | مرتفعة | الوقاية: نموذج موافقة + قائمة المشاركين. الاستجابة: منع التصوير والنزول + لافتة «بدون تصوير». | مسؤول الإعلام | موافقات < 60% ف
+  L432    LATword:ID                     | ID | الخطر | المعالجة المختصرة | المسؤول |
+  L434    LATword:RSK- , LATword:USB     | RSK-06 | عطل الصوت أو الشاشة | بلوك خاص + كابلات احتياطية + ملف العرض على USB + تشغيل من لابتوب مستقل | مسؤول التقنية |
+  L435    LATword:RSK-                   | RSK-09 | استخدام اسم أو شعار جهة دون إذن | قاعدة «بلا موافقة = بلا شعار» + تصحيح فوري + تنويه | منسق المشروع |
+  L436    LATword:RSK-                   | RSK-10 | ضعف التغطية الإعلامية | قائمة وسائل + تكثيف التغطية الرقمية الرسمية وتوثيق الحفل | مسؤول الإعلام |
+  L437    LATword:RSK-                   | RSK-11 | المبالغة في الوعود (وظائف/قبول جامعي) | مراجعة نصية إلزامية + تدريب المتحدثين + تصحيح علني | منسق البرنامج |
+  L438    LATword:FAQ , LATword:RSK-     | RSK-12 | اعتراض أولياء الأمور | جلسة تعريف مسبقة + FAQ + جلسة استيضاح خلال 48 ساعة | مدير المدرسة |
+  L439    LATword:Kickoff , LATword:RSK- | RSK-13 | مخاطر السلامة في العروض العملية | عزل منطقة العرض + مشرف سلامة + فحص Kickoff + بديل مصوّر | مشرف السلامة |
+  L440    LATword:RSK-                   | RSK-14 | نشر معلومات غير دقيقة | مصدر الحقيقة الوحيد (الملف المرجعي) + مراجعة قبل النشر + تصحيح خلال 24 ساعة | مسؤول الإعلام |
+  L448    LATword:COM- , LATword:EVT-    - **القيمة لا تُقاس بالتغطية وحدها:** يبقى المؤشر EVT-07 عدّ التغطية الفعلية فقط، بينما يُقاس التحول بـ COM-01 إلى COM-06؛ فلو لم تحضر وسيلة إعلام واحدة، يبقى مسار التحويل قائمًا عبر الدعوات
+  L449    LATword:RSK-                   - **العرض له بديل مُعدّ مسبقًا:** نسخة احتياطية + عرض مصوّر 90 ثانية (RSK-05) تعني أن تعطل الروبوت لا يلغي الفقرة.
+  L462    CJK[食,飲] , LATword:RSVP , LATword:Rehearsal | 9 – 12 نوفمبر | عالية | الجولة الثانية + متابعة · فتح التسجيل/RSVP · تجربة العرض (Rehearsal 1) · اعتماد قوائم飲食 والفريق · إرسال النسخة المطبوعة · بطاقات الحضور · جمع الموافقات · تجهيز بيان
+  L463    LATword:Rehearsal              | 13 نوفمبر | حرجة | اختبار العرض النهائي (Rehearsal 2) + نسخة احتياطية · معاينة الطباعة · إغلاق قائمة الحضور الأولية · توزيع بطاقات الدخول · مراجعة السلامة · مخطط المكان | **G3 · G4** |
+  L466    CJK[击,追]                       | أول 48 ساعة بعد الحفل | عالية | بيان صحفي بالنتائج · صور مختارة · مقابلات · بدء追击 الاستفسارات خلال 24–48 ساعة · متابعة الحضور غير المؤكد · تقرير أولي 48 ساعة | — |
+  L472    LATword:House , LATword:Mena , LATword:RSK- , LATword:VAT | **G1 — تأكيد حجز الفندق والقاعة كتابيًا** | LOG (تنفيذ) / PM (اعتماد) / FIN (RFQ) | 3 نوفمبر 2026 | خطاب/بريد فندق موقّع يحدد القاعة والسعة والمدة والسعر شامل VAT ورسوم الخدمة | الانتقال إ
+  L474    LATword:RSK- , LATword:Rehearsal | **G3 — جاهزية النموذج الأولي** | DEMO | تجهيز وتشغيل: 2 نوفمبر · اختبار اجتياز: 13 نوفمبر | نموذج يعمل فعليًا + نسخة احتياطية + اجتياز Rehearsal 2 في 13 نوفمبر + تسجيل فيديو احتياطي 90 ثان
+  L475    LATword:PNG , LATword:PR , LATword:RSK- | **G4 — تسليم الطباعة** | LOG (مع مسؤول المطبوعات) / PR (محتوى) | تسليم 7 نوفمبر · معاينة 13 نوفمبر | معاينة المطبوعة في 13 نوفمبر + الموافقة على الطباعة النهائية + جاهزية النسخة الرقمية | 
+  L477    LAT|AR:EXE-                    **مؤشر الانضباط العام:** EXE-01 — نسبة إنجاز الخطة التنفيذية ≥ 85% في 14 نوفمبر (مراجعة أسبوعية)، وEXE-03 — المخاطر الحرجة المتبقية ≤ 3.
+  L483    LATword:Canonical , LATword:Spec , LATword:md > العدد المعتمد في الملف المرجعي §12 هو **13 قرارًا**، وكلها مُدرجة هنا بصيغة جدول اعتماد. لا يجوز افتراض أي منها، وكل صف يتضمّن «الأثر الافتراضي» الذي يسري تلقائيًا إن لم يُحسم قبل المهلة. 
+  L488    CJK[定,確]                       | 2. حالة حجز الفندق والقاعة | أ) تأكيد كتابي · ب) غير مؤكد | أ) يسمح بجدولة الطباعة والقائمة النهائية · ب) يؤجل كل البنود المرتبطة بمكان確定 ويقيد المواعيد | 3 نوفمبر | استمرار التخطيط على أس
+  L491    LATword:PR                     | 5. الصفة الرسمية بجوار اسم أحمد جبر | أ) «رئيس مبادرات التعليم التطبيقي» (مثال من المرجع) · ب) «صاحب مبادرة Green Grow Bot» · ج) أخرى | كل صياغة تُغيّر المطبوعات والخطاب والحقيبة الصحفية؛ 
+  L493    LATword:RSVP , LAT|AR:EVT-     | 7. بيانات تأكيد الحضور (هاتف/بريد/رابط RSVP) | أ) هاتف · ب) بريد · ج) رابط RSVP | كل خيار يحدد قناة التسجيل ورمز المصدر؛ عدم تحديدها يوقف عدّ EVT-02 وEVT-04 | 8 نوفمبر | تُستخدم بيانات الم
+  L495    LATword:PR , LATword:osculate , LATword:sertifikat | 9. الموافقات على التصوير والنشر (معلمون/أولياء أمور/طلاب) | أ) نموذج موافقة موقّع ≥ 60% · ب) موافقات ناقصة · ج) لا موافقات | أ) يسمح بالتصوير والنشر · ب) يمنع تصوير-osculate sertifikat · ج
+  L497    LATword:RSK-                   | 11. حجم البرنامج التجريبي في المدرسة (عدد الفصول والمعلمين) | أ) تجريبي محدود · ب) توسّع أوسع | أ) يقلّل الكلفة ويسرّع القياس · ب) يرفع الكلفة ويؤخر القياس | 20 نوفمبر (RSK-15) | يبقى المش
+  L499    LATword:PR                     | 13. اعتماد الشعار المعتمد (د) للنهائي | أ) «من التعليم إلى الابتكار: مشروع واحد يتطور مع الطالب» [موصى به] · ب) الإبقاء على الصياغة (ب) | أ) يميّز المبادرة لكنه يستلزم تحديث نسختي الدعوة ق
+  L509    LATword:Master , LATword:Strategy , LATword:md | 1 | `Green_Grow_Bot_Master_Strategy.md` | الوثيقة الرئيسية: الرؤية، الأهداف ومؤشراتها، التموضع، الميزانية، الحوكمة، المخاطر، والمسار الحرج — هذه الوثيقة. |
+  L510    LATword:Educational , LATword:Grade , LATword:KG , LATword:Model , LATword:md | 2 | `Green_Grow_Bot_Educational_Model.md` | النموذج التعليمي من KG إلى Grade 12: المراحل، المهارات، الأدوات، التقييم، ملف الإنجاز، والسلامة. |
+  L511    LATword:Event , LATword:Runbook , LATword:md | 3 | `Green_Grow_Bot_Event_Runbook.md` | البرنامج التنفيذي التفصيلي للحفل: الشكل المختار، الجمهور، الجدول بالدقائق، سيناريو المقدم، العرض العملي، مخطط المكان، والموردون. |
+  L512    LATword:Invitations , LATword:Protocol , LATword:and , LATword:md | 4 | `Green_Grow_Bot_Protocol_and_Invitations.md` | البروتوكول والدعوات: تحديد المخاطب، التحقق من الصفات، نماذج الدعوات والخطابات، والترتيب وحالات التأخير. |
+  L513    LATword:Media , LATword:PR , LATword:and , LATword:md | 5 | `Green_Grow_Bot_PR_and_Media.md` | خطة العلاقات العامة والإعلام قبل الحفل وأثناءه وبعده: الرسائل، البيان، حقيبة الصحفيين، التغطية، والموافقات. |
+  L514    LATword:Budget , LATword:KPIs , LATword:and , LATword:xlsx | 6 | `Green_Grow_Bot_Budget_and_KPIs.xlsx` | جداول الميزانية الثلاثة بمعادلات قابلة للتعديل، ولوحة مؤشرات الأداء بمعرّفاتها EVT/COM/EDU/EXE. |
+  L515    LATword:Invitation , LATword:Official , LATword:Print , LATword:pdf | 7 | `Green_Grow_Bot_Official_Invitation_Print.pdf` | تصميم الدعوة الرسمي بصيغة جاهزة للطباعة (A5 عمودي). |
+  L516    LATword:Digital , LATword:Invitation , LATword:png | 8 | `Green_Grow_Bot_Invitation_Digital.png` | نسخة رقمية عالية الجودة بنسبة 4:5 للواتساب والبريد الإلكتروني. |
+  L517    LATword:Script , LATword:Speaker , LATword:md | 9 | `Green_Grow_Bot_Speaker_Script.md` | خطاب أحمد جبر (5–7 دقائق) + نسخة 90 ثانية للمقابلات + نص مقدم الحفل. |
+  L518    LATword:Day , LATword:Roadmap , LATword:md | 10 | `Green_Grow_Bot_90_Day_Roadmap.md` | خطة ما بعد الإطلاق في أربع مراحل (1–7، 8–30، 31–60، 61–90) ومؤشرات الانتقال بينها. |
+  L519    LATword:RSK- , LATword:Register , LATword:Risk , LATword:xlsx | 11 | `Green_Grow_Bot_Risk_Register.xlsx` | سجل المخاطر الكامل بمعرّفات RSK-01 إلى RSK-15: الاحتمال والأثر والوقاية والاستجابة والمؤشر المبكر. |
+  L520    LATword:pdf                    | 12 | `Green_Grow_Bot_Press_Kit.pdf` | حزمة إعلامية مختصرة: تعريف المبادرة، الرسائل، الأرقام المرجعية، والصور المعتمدة عند توفرها. |
+  L521    LATword:Executive , LATword:Presentation , LATword:pptx | 13 | `Green_Grow_Bot_Executive_Presentation.pptx` | عرض تنفيذي بصري مختصر للقيادات والجامعات والشركاء. |
+  L525    LATword:Canonical , LATword:Spec , LATword:md **ملاحظة:** الملف `Green_Grow_Bot_Canonical_Spec.md` ليس ضمن الملفات الثلاثة عشر أعلاه؛ هو **الملف المرجعي الوحيد** الذي تُشتق منه كل الأرقام والأسماء والتواريخ في الحزمة، وتُخالفه الحزمة عن
+  L531    LATword:Canonical , LATword:Presented , LATword:Spec , LATword:This , LATword:approval , LATword:by , LATword:document , LATword:for , LATword:is , LATword:md , LATword:strategy , LATword:submitted ب 제시Presented by تقديم الوثيقة، وبناءً على المرجع `Green_Grow_Bot_Canonical_Spec.md` (نسخة 1.0، 27 أكتوبر 2026)، تُعتمد هذه الوثيقة الاستراتيجية الرئيسية لمبادرة Green Grow Bot(This strategy
+==============================================================================================================
+Green_Grow_Bot_PR_and_Media.md
+  L6      LATword:PR                     **مسؤول الملف:** PR — `[اسم]`
+  L10     LATword:Quotes                 > **قاعدة الدقة في هذا الملف:** لا يُنشر أي رقم غير مُتحقق منه. لا تُنسب Quotes لمتحدث لم يُصرّح بها. لا تُوصف التغطية بـ«واسعة» إلا بعد عدّ المواد المنشورة فعليًا. يُفصل دائمًا بين: **التغط
+  L17     CJK[病,肝] , LATword:atm , LATword:qEnabled الصحفي لا يحتاج «مناسبة مميزة» —肝病qEnabled atmósfera، بل يحتاج **خبرًا قابلًا للتصوير**: نموذج أولي حيّ، ومنهج قابل للتفسير، وبيانات يمكن التحقق منها، وشخصًا يمكن أن يقول بدقة ما الذي يدّعيه
+  L19     LATword:KG                     **ما يصلح كخبر:** «أول إدارة مدرسية في مصر تربط مشروع الطالب الواحد من KG حتى الصف الثاني عشر، وتعرضه حيًّا على الميكروفون».
+  L22     CJK[不,同,的]                     **الاستراتيجية:** نُنتج **ثلاث مواد** فقط، لكن بجودة تغطي ثلاث شرائح不同的 من الجمهور:
+  L23     CJK[像,图]                       1. **مادة图像**: نموذج أولي حيّ + لقطات طلاب (بموافقة) + مشاهد بناء.
+  L24     CJK[令,命,的]                     2. **مادة فكرة**: ورقة تحليلية قصيرة — لماذا «مشروع واحد»؟ وكيف يُقاس؟ (تخدم的命令 الاستشاريين والبحثة).
+  L27     LATword:COM- , LATword:EVT-    **النتيجة المستهدفة (مبدئية — تُقاس بعد):** 6 مواد منشورة فعليًا خلال 30 يومًا (EVT-07)، و20 استفسارًا موثقًا مصدره الحفل (COM-01)، و5 فرص شراكة مؤهلة (EVT-06).
+  L31     LATword:Key , LATword:Messages ## 2. الرسائل الرئيسية (Key Messages)
+  L35     CJK[哪,在,里]                     | **M1** | «المشكلة ليست نقص المعرفة، بل نقص الربط: الطالب يتعلم الحركة في الفيزياء ثم لا يجد在哪里 يختبرها» | محررو التعليم، القيادات | نموذج المشروع في 9 مراحل + مثال التتبع | لا يُقال: «منهج
+  L36     LATword:KG , LATword:blocks    | **M2** | «مشروع واحد يتطور مع الطالب — لا مشروع منفصل لكل مادة» | الأكاديميون،.blocks المستثمرون | خريطة KG→G12 | لا يُقال: «استبدال المناهج» |
+  L38     LATword:Advocacy , LATword:suraksha , LAT|AR:sa | **M4** | «مبادرة في طور التطبيق: أول تقرير قياس بعد [الشهر]، وما نsayه اليوم هو ما يحدث في الفصل» | كل الإعلام | خط أساس + تواريخ القياس | لا يُقال: «تم Advocacy suraksha» |
+  L39     LATword:Replace , LATword:teacher , LATword:the | **M5** | «رسالتنا ليست للطلاب وحدهم — بل لمعلمين يبحثون عن طريقة عملية» | المعلمين، أولياء الأمور | نموذج تدريب المعلمين | لا يُقال: «Replace the teacher» |
+  L42     LATword:Jobs                   - **ممنوع:** «نضمن Jobs» · «نضمن القبول الجامعي» · «معتمد من الدولة» · «تحت رعاية [جهة]» · «أول في مصر» (إلا بدليل).
+  L43     LATword:DATES , LATword:NUM    - **مطلوب:** ذكر **الم_NUM_DATES** (15 نوفمبر 2026، JW Marriott Cairo) · ذكر **«مبادرة في طور التطبيق»** عند أول ذكر · ذكر **«لا يُلغى أي متطلب من المنهج»**.
+  L53     LATword:KG                     مدارس جرين إنترناشونال تطلق مبادرة "Green Grow Bot" لتعليم تطبيقي مستمر من KG حتى الصف الثاني عشر
+  L58     LAT|AR:developmental           روبوتيdevelopmental يبنيه طلاب المدرسة في مراحل متدرجة مرتبطة بمقررات
+  L66     CJK[依,据,，] , LATword:AmSessions وستشمل-AmSessions，依据:
+  L72     CJK[不,会,都] , LATword:grown-up , LATword:multiplexer grown-up multiplexer السويد? — [يُحذف] —都不会
+  L78     LATword:Media , LATword:Summary ### 3.2 الملخص الإعلامي (Media Summary — صفحة واحدة)
+  L89     LATword:spokesperson           | من ي contrasteج | الداعي + spokesperson + المعلم/الطالب (بموافقة) |
+  L91     LATword:PR                     | بيانات التواصل | اسم PR + هاتف + بريد |
+  L94     LATword:covariation , LATword:outlets | # | الفئة | outlets | المجلة/الموقع | الصفة | covariation | الحالة | الأولوية |
+  L119    LATword:biography              | بيانات.biography | سِيَر مختصرة موثّقة | ⏳ |
+  L120    LATword:PR , LATword:spokesperson | بيانات التواصل | PR + spokesperson | ✅ |
+  L124    LATword:Spokesperson           ### 3.5 من يحق له التصريح (Spokesperson)
+  L128    LATword:general                | مدير المدرسة `[اسم]` | ✅ نعم | في التعليم المدرسي/general |
+  L129    LATword:PR , LATword:spokesperson | PR | ✅ نعم | spokesperson احتياطي + إدارة الأسئلة |
+  L149    LATword:Establishing , LATword:wide | 17:30 | تجهيز القاعة قبل الضيوف |Establishing | wide | ⬜ |
+  L150    LATword:medium                 | 18:00 | استقبال الضيوف والتسجيل | الناس | medium | ⬜ |
+  L151    LATword:Atmosphere , LATword:medium , LATword:wide | 18:30 | الافتتاح | Atmosphere | wide + medium | ⬜ |
+  L152    LATword:close-up               | 18:39 | الداعي على المسرح | الشخصية | close-up | ⬜ |
+  L153    LATword:insert                 | 18:47 | شريحة «لماذا الآن» | البيانات | insert | ⬜ |
+  L154    CJK[见,详]                       | **19:00–19:12** | **العرض الحي (5 لقطات أساسية)** | **الأهم** |详见 §4.3 | ⬜⬜⬜ |
+  L155    LATword:medium                 | 19:20–19:44 | الحوار | وجوه | medium | ⬜ |
+  L156    LATword:medium                 | 19:44 | الخطوات القادمة | الختام | medium | ⬜ |
+  L157    LATword:close-up               | 19:55–20:15 | المقابلات | محتوى | close-up | ⬜ |
+  L158    CJK[络,网] , LATword:wide        | 20:15–21:00 | الاستقبال | 网络 | wide | ⬜ |
+  L162    LATword:RSK- , LATword:region  - **لا يُلتقط في regionщей «عابرة»** لأي ضيف لم يوافق (RSK-08).
+  L164    LATword:SD                     - كل 30 دقيقة: نسخ احتياطي لملف الكاميرا (بطاقة SD + هارد).
+  L170    CJK[前,团,提,的,，]                 | المدة | 4 ساعات تصوير (18:00–22:00) + 30 د团的，提前 |
+  L174    LATword:Reels , LATword:ussi   | المخرجات |① فيديو 90 ثانية (احتياطي العرض +ussi في التواصل) ② فيديو 3–5 دقائق (المادة الرئيسية) ③ 6 مقاطع 15–30 ثانية (للنشر) ④ لقطة عمودية (Reels/TikTok) ⑤ 3 صور ثابتة عالية الدقة |
+  L182    LATword:wide                   | L3 | الكود على الشاشة + الروبوت في نفس الإطار | wide من الجانب | يربط الكود بالنتيجة |
+  L183    LATword:insert                 | L4 | يد الطالب/المعلم يعدّل قطعة (بدون وجه واضح إن لم يكن مسموحًا) | insert | «هذا عمل بشري» |
+  L184    LATword:medium                 | L5 | رد فعل الجمهور (بدون تمييز وجوه غير موافقين) | medium | «يهمّهم» |
+  L189    LATword:PR                     - **لوحة «الموافقون»** يحملها PR (نسخة إلكترونية على جهاز + نسخة مطبوعة احتياطية).
+  L190    LATword:media , LATword:zone   - **حارس منطقة التصوير**: شخص واحد يمنع التصوير غير المصرّح به ويوجّه التصوير إلى.media zone.
+  L200    CJK[会,加,增]                     بيان صحفي — نتائج会增加
+  L204    CJK[味,风] , LATword:Dann , LATword:Just [المدينة]، 18 نوفمبر 2026 —“Just风味ت” وبع��د [+3 أيام]، Dann تتجه [" ] إلى
+  L208    LATword:Parental , LAT|AR:INCLUDE Parental التزمتINCLUDE التي: أوضحت [], بأن «[عدد]» من الضيوف أكّدوا حضورهم
+  L217    LATword:PR                     | 1 | صور مختارة | 10 صور بدقة نشر | 48 س | PR | — |
+  L218    LATword:PR                     | 2 | فيديو 90 ثانية | أفقي | 48 س | PR | — |
+  L219    LATword:PR                     | 3 | فيديو 3–5 دقائق | أفقي | 72 س | PR | — |
+  L220    LATword:PR                     | 4 | 6 مقاطع قصيرة | عمودي 15–30 ث | 72 س | PR | — |
+  L221    LATword:PR                     | 5 | مقال رأي — الأستاذ أحمد جبر | 900–1100 كلمة | 7 أيام | CT + PR | — |
+  L222    LATword:EVT-                   | 6 | تقرير مختصر عن الحضور والأنشطة | PDF داخلي | 48 س | PM | EVT-03/05 |
+  L223    LATword:EDU-                   | 7 | أول تقرير قياس | PDF/منشور | [الشهر] | CT | EDU-01..04 |
+  L224    LATword:COM-                   | 8 | بيان خاص بالمهتمين (CRM) | رسالة | 24–48 س | CRM | COM-01 |
+  L232    CJK[偏] , LATword:obb , LATword:students |obb ضد الاعتراض | «يقلّل المواد؟» «students偏 specialty؟» «مينفعش مع كل الأعمار؟» | 250 |
+  L236    LAT|AR:Ensures                 **قواعد المقال:** لا يُذكر فيه أي مسؤول بلا إذن · لا تُذكر فيه أرقام نتائج لم تُقَس · يُذكر فيه تاريخ أول تقرير قياس · يُحذف منه أي ادعاءEnsures وظيفة.
+  L241    LATword:EVT-                   | **1** | 1–3 | فيديو 90 ثانية + صور | كل القنوات | الوعي | EVT-07 |
+  L243    LATword:authority              | | 6–7 | مقال الرأي | مدونة المدرسة + LinkedIn + منصة تعليمية | authority | — |
+  L244    LATword:COM- , LATword:Social  | **2** | 8–14 | سلسلة «كيف يعمل المشروع» (3 منشورات قصيرة) | Social + موقع | التفاعل + الاستفسارات | COM-01 |
+  L245    LATword:COM-                   | | 14 | فتح التسجيل في البرنامج التجريبي | موقع + إعلانات | التحويل | COM-03 |
+  L246    LATword:EVT- , LATword:Social  | **3** | 15–21 | أول اقتباس من ضيف (بموافقته) + لقطة من الحوار | Social | مصداقية | EVT-07 |
+  L247    LATword:EDU-                   | | 19 | بدء جلسات تعريف المعلمين | مباشر | نقل التعلم L3 | EDU-03 |
+  L248    LATword:EVT- , LAT|AR:aktif    | **4** | 22–28 | معاينة صور منaktif الجلسة الصفية | كل القنوات | الاستدامة | EVT-07 |
+  L249    LATword:COM-                   | | 30 | تحديث المسار: ماذا أنجزنا بعد 30 يومًا | موقع + تقرير | الشفافية | COM-01 |
+  L256    LATword:PR                     | رصد التغطية (تحريري/رقمي/مدفوع) | أسبوعيًا حتى 14 ديسمبر | PR | سجل تغطية |
+  L257    LATword:PR , LATword:Upsound , LATword:possibile | متابعة كل possibile Upsound مقال | خلال 24 س | PR | رد تصحيحي إن لزم |
+  L259    LATword:EVT-                   | متابعة الشركاء المحتملين (EVT-06) | أسبوعيًا | CT | سجل فرص |
+  L265    LATword:EVT-                   | **التغطية التحريرية** | عدد المواد المنشورة فعليًا في وسائل محرّفة | عدّ بالرابط — **EVT-07** |
+  L269    LATword:EVT-                   **يُمنع منعًا باتًا** استخدام رقم التفاعل الرقمي كأنه «تغطية إعلامية»، أو وصف الحملة بأنها «حظيت بتغطية واسعة» ما لم تتجاوز التغطية التحريرية 6 مواد منشورة فعليًا (وهو الهدف المبدئي لـ EVT-0
+  L275    LATword:map                    ### 6.1 القمع وم	map التحول
+  L278    LATword:PR , LATword:reach     | **1. وعي** | الضيف/المشاهد يعرف المبادرة |-PR + محتوى | reach | PR |
+  L280    LATword:COM- , LATword:haqqiq  | **3. تواصل** | يترك بيانات | **نموذج اهتمام** (اسم + صلة + الصف/haqqiq) | COM-01 | CRM |
+  L281    LATword:COM-                   | **4. زيارة أو تجربة** | زيارة مدرسية أو جلسة تجربة | جدول مواعيد | COM-02 | CRM |
+  L282    LATword:COM-                   | **5. تقديم** | قرار التقديم | نظام القبول | COM-03 | مسؤول القبول |
+  L283    LATword:COM-                   | **6. تسجيل** | التسجيل | نظام القبول | COM-04 | مسؤول القبول |
+  L285    LATword:EGC , LATword:capture , LATword:fields ### 6.2 نموذج الاهتمام (EGC) —.capture fields
+  L304    LATword:GGB- , LATword:NOV-A   - **رمز المصدر:** كل استفسار يحمل رمزًا (مثال: `GGB-15NOV-A1`) — يلتصق بكل اتصال لاحق.
+  L312    CJK[如,有,果,没]                   | خلال 14 يومًا |如果没有 رد → رسالة أخيرة + تحويل لقائمة «متابعة لاحقة» | بريد | CRM |
+  L319    LATword:COM-                   | مواعيد زيارة مدرسية | جولات ثابتة: [أيام] بعد الحفل | أسبوعيًا | COM-02 |
+  L320    LATword:COM-                   | عرض عملي للطلاب وأولياء الأمور | جلسة 45 د في المختبر | مرتان أسبوعيًا لأسبوعين | COM-02 |
+  L321    LATword:EDU-                   | جلسات تعريف للمعلمين | 60 د + تجربة عملية | 4 جلسات أول شهر | EDU-03 |
+  L322    LATword:EVT-                   | متابعة الشركاء | سجل فرص بمالك ومسار | أسبوعيًا | EVT-06 |
+  L323    LATword:COM-                   | تقرير شهري للنتائج | صف واحد: نتائج الشهر | شهريًا | COM-01..04 |
+  L329    CJK[然,的,自] , LATword:Declare   3. **المقارنة**: «الاستفسارات المسجّلة بمصدر الحفل» مقابل «الاستفسارات的自然» (المصدر:Declare مصادر أخرى).
+  L337    LATword:of , LATword:positioning , LATword:statement ### 7.1 الرسالة المهنية (statement of positioning)
+  L338    LATword:KG                     > **الأستاذ أحمد جبر** — قاد مبادرات التعليم التطبيقي في مدارس جرين إنترناشونال، ويؤسس مسارًا تعليميًا يربط المنهج بالهندسة عبر مشروع واحد يتطور مع الطالب من KG حتى الصف الثاني عشر.
+  L347    CJK[不,而,，] , LATword:BAFT      | «يقود，而不 يسمي» | تسمية واضحة + شهادات/ذكر من BAFT |
+  L348    LATword:institutions           | «يعمل مع institutions» | قائمة تعاونيات موثّقة |
+  L350    LATword:signature , LATword:theme ### 7.2 الموضوع الرئيسي (signature theme)
+  L351    CJK[围,绕]                       **«تعلّم يُختبر»** — سلسلة فكرية تمتد 90 يومًا围绕 سؤال واحد: *كيف نعرف أن الطالب تعلّم؟* كل محتوى يخدم هذا الموضوع، فيتراكم حوله بدل أن يكون منشورات متفرقة.
+  L356    LATword:Authority              | 1–7 | **مقال رأي** | «الطالب لا يتعلم ما لا يجرّبه» | مدونة + منصة | Authority |
+  L357    LATword:Reach                  | 5 | **منشور** | «لماذا مشروع واحد؟» (رسم/مخطط 9 مراحل) | LinkedIn + X | Reach |
+  L358    LATword:interview              | 8 | **مقطع 90 ثانية** | interview قصير بعد الحفل | كل القنوات | وصول |
+  L359    LATword:authority              | 12 | **منشور** | الأرقام: كيف نقيس (Rubric) | LinkedIn | authority |
+  L360    LAT|AR:GGB                     | 15 | **تقرير مختصر** | «15 دقيقة في فصل الـGGB» | مدونة + موقع | إثبات |
+  L361    LAT|AR:ARCHAR                  | 20 | **مقابلة إعلامية** | [الاسم] — إمكانيةARCHAR | [ ] | مصداقية |
+  L364    CJK[个,人]                       | 35 | **مقال** | «الملف 个人»/«ملف الإنجاز: ماذا نوثّق ولماذا» | مدونة | عمق |
+  L368    LATword:Direct                 | 55 | **ندوة قصيرة** | «معلمو الروبوتكس: من الحصة إلى المنهج» | Direct | شبكة |
+  L371    LATword:Social                 | 70 | **منشور** | فيديو من جلسة المعلمين | Social | نقل التعلم |
+  L373    LATword:authority              | 80 | **مقابلة** | [ ] | [ ] | authority |
+  L383    LATword:EVT- , LATword:Societal | جلسة تعريف/زيارة | مرتان شهريًا | Societal مباشر | EVT-05 |
+  L385    LATword:rota                   | مظاهرة/مشاركة في ملتقى | حسب rota | [ ] | حضور |
+  L392    LATword:Analytics              | مشاهدات المحتوى الأصلي |Analytics | يُحدد بعد أول أسبوعين | لا يُستخدم كهدف رقمي في البداية |
+  L393    LATword:COM-                   | استفسارات مرتبطة بالمحتوى | CRM | ≥ 10 | COM-01 |
+  L394    LATword:EVT-                   | فرص تعاون ناتجة | سجل الفرص | ≥ 3 | EVT-06 |
+  L403    LATword:PR , LATword:spokesperson | 27 أكتوبر | اعتماد الرسائل + spokesperson | PM + PR | M1–M5 موقّعة |
+  L405    LATword:PR , LATword:Pitch     | 31 أكتوبر | تجهيز قائمة الوسائل + Pitch | PR | 8 وسائل A |
+  L406    LATword:PR , LATword:Rehearsal | 3 نوفمبر | Rehearsal 1 + تصوير تجريبي | PR + DEMO | فيديو 90 ث تجريبي |
+  L407    LATword:PR                     | 7 نوفمبر | اعتماد حقيبة الصحفيين | PR | Press Kit v1 |
+  L408    LATword:PR                     | 7 نوفمبر | جمع الموافقات (100%) | PR | قائمة الأسماء |
+  L409    LATword:PR                     | 8 نوفمبر | تصوير الصفحات بالداخل (لا طلاب بلا موافقة) | PR | 20 صورة خام |
+  L410    LATword:PR , LAT|AR:Pitch      | 10 نوفمبر | إرسال البيان + الـPitch فرديًا لـ 8 وسائل | PR | سجل إرسال |
+  L414    LATword:PR                     | 17 نوفمبر | بيان النتائج + صور + فيديو 90 ث | PR | 3 مواد |
+  L416    LATword:PR                     | 20 نوفمبر | فيديو 3–5 د + 6 مقاطع | PR | 7 مواد |
+  L417    LATword:PR                     | 24 نوفمبر | مقال الرأي | CT + PR | مقال |
+  L419    LATword:EVT- , LATword:PR      | 14 ديسمبر | تقرير التغطية (فصل التحريري/الرقمي/المدفوع) | PR | EVT-07 |
+  L420    LATword:Advertising            | 14 ديسمبر | مراجعة Advertising الاستثمارية | PM | قرار |
+  L431    LATword:spokesperson           | اعتماد spokesperson | [ ] | |
+==============================================================================================================
+Green_Grow_Bot_Protocol_and_Invitations.md
+  L12     LATword:RSK-                   > **لا شعار بلا إذن.** لا يُستخدم شعار جهة حكومية ولا عبارة «تحت رعاية» ولا «بالتعاون مع» دون موافقة مكتوبة وموثّقة (المخاطرة RSK-09).
+  L25     LATword:cc , LAT|AR:runner     | تشغيل مسابقات أو تدريب أو بنية تحتية | جهات تنمية المهارات (TIEC، وزارة الشباب والرياضة، جهاتrunner.cc) | PM |
+  L29     LATword:PR                     | تغطية مبنية على قيمة | صحفيون متخصصون في التعليم | PR |
+  L32     LATword:Escalation             ### 1.2 قاعدة الترقية (Escalation) عند عدم الاستجابة
+  L38     LATword:Introduction           | 4 | وسيط (جهة Introduction أو عضو مجلس إدارة) | +3 أيام | **إيقاف** — لا إصرار |
+  L39     CJK[插,槽] , LAT|AR:SPIRIT       | 5 | تحويل الفئة من «ضيف» إلى «مشارك فيSPIRIT» | فوري | يُعرض插槽 في جلسة حوار / ورشة |
+  L53     LATword:Ecoliers               | **4** | وسائط التواصل الشخصية أو Ecoliers العامة | **يُستخدم فقط للوصول، لا لتوثيق الصفة** |
+  L77     CJK[了,话,说]                     **الاسم غير المُتحقق لا يُذكر في الدعوة المطبوعة ولا في سجل الدعوات ولا على الميكروفون.** يُوضع في خانة `[ ]` في النص المطبوع، ويُملأ فقط عند التحقق. هذا ينطبق على说话了 في قسم «الفئات المستهدف
+  L85     LATword:cooperation , LAT|AR:Logged | **الغرض** | دعوة للحضور فقط | طلب دعم مالي/مادي أوLogged رسمي | طلب تنفيذ/cooperation فعلي |
+  L86     LATword:visibilit              | **ما يطلبه** | الحضور + التأكيد | رعاية + visibilité + تعديل المواد | دور أو التزام محدد |
+  L92     LATword:RSVP                   | **الإجراء المرتبط** | RSVP | موافقة خطية + عقد/اتفاقية | نطاق عمل + مالك + مؤشر |
+  L95     LAT|AR:upgrade                 1. **الدعوة ≠ الرعاية.** لا يُupgrade طلب الدعوة إلى طلب رعاية تلقائيًا. أي طلب رعاية **خطاب منفصل** يُرسل بعد موافقة PM.
+  L96     LATword:RSK-                   2. **الرعاية تُمنح فقط كتابةً.** لا يُنشر شعار أي جهة ولا تُذكر كلمة «راعي» ولا «بالتعاون مع» قبل خطاب موافقة موقّع (RSK-09).
+  L97     CJK[一,实,届,物,第]                 3. **المشاركة تُطلب بخطوة أولى واضحة.** لا يُطلب «شراكة» مبهمة؛ يُطلب: جلسة تعريف، أو زيارة مختبر، أو إ实物 عيّنة، أو لوحة مشتركة في第一届.
+  L106    LATword:RSVP                   | **1** | 3–8 نوفمبر | الفئة A + الب | دعوة شخصية + نسخة PDF + رابط RSVP | بريد رسمي + متابعة هاتفية | PRO |
+  L111    CJK[子,踏,電] , LATword:RSVP , LATword:actionable الرسالة電子踏 ترقيمها (لا خط ثابت): **①** سطر الموضوع، **②** فقرة القيمة (لماذا أنت)، **③** ما الذي سيحدث بالضبط، **④** الطلب actionable واحد، **⑤** وسيلة التأكيد، **⑥** رابط RSVP.
+  L121    LATword:RSVP , LAT|AR:Repositor 1. يُحوَّل التأكيد إلى **بيانات RSVP كاملة**: الاسم كما سيُنطق + الصفة + الجهة + الهاتف + البريد + **احتياجات خاصة** (إتاحة، حساسية غذائية، بُعدRepository، مرافق).
+  L127    LATword:tricotores             - **لا يُحذف** من قائمة الدعوات: يُنقل إلى قائمة «متابعة بعد الحدث» وتُرسل له حزمة tricotores (ملخص المناسبة + رابط المشروع + دعوة الاستقبال).
+  L132    LATword:Hold                   - يُوضع في **حجز مبدئي** (Hold) على المقاعد، ويُحرَّر تلقائيًا بعد المهلة.
+  L144    CJK[現,金]                       | **B** | نواب/شيوخ + مستثمرون + جهات現金 | الصف الثاني–الثالث |
+  L146    CJK[线,视]                       | **C** | أولياء أمور | خلفية جانبية بعيدة عن الصوت العالي مع视线 للمسرح |
+  L152    LATword:apreciate , LAT|AR:BishopLibre - **قرب المسرح** لل(apreciate) الحوار المفتوح → تُترك مقاعد قريبة للمBishopLibre للأعضاء.
+  L156    LATword:RSVP                   **لا يُدرج اسم ضيف في خطة الجلوس إلا بعد اعتماد قائمة RSVP المغلقة (13 نوفمبر) ومطابقتها مع قائمة الفندق.**
+  L167    LATword:Question-led , LATword:dialogue | **متحدث اعتذر في اليوم** | المذيع يقدّم الشكر لحضوره فقط دون.title؛ يُختصر الحوار بـ 10 د | فوري | CT | تفعيل Question-led dialogue |
+  L173    CJK[的,车,辆]                     | **طلب مبيت /车辆的** | خارج النطاق تمامًا → يُحوَّل لعلاقات الضيوف | — | LOG | — |
+  L201    CJK[不,看] , LATword:embler      ### 8.3 قاعدة «الولا不看embler صوته»
+  L215    LATword:TRANSMISSION           ☐ أوافق على التصوير مع TRANSMISSION مباشر
+  L223    LATword:PR , LATword:spokesperson 2. **من يحق له التصريح:** spokesperson واحد فقط (عادةً الداعي أو مدير المدرسة) + PR. أي تلميح أو تصريح يُنسب لمن قاله فقط.
+  L224    LATword:media , LATword:zone   3. **اللافتة:** تُعرض عند المدخل/media zone: «هذا الحدث مُوثَّق بتصوير — يُرجى إبلاغ فريق الاستقبال إن رغبت في عدم الظهور».
+  L226    LATword:PR                     5. **الأرشيف:** تُحفظ كل الملفات الخام 12 شهرًا؛ الاستخدام внешعي يتطلّب موافقة PR + PM.
+  L278    LATword:Concerned              القادمة وفرص التعاون المتاحة للجهات Concerned.
+  L287    CJK[意,见] , LATword:distanceJAVA وتطوير.distanceJAVA التعليمي؛ ف意见كم يصنع الفارق في هذا المشروع.
+  L317    LATword:KG                     KG حتى مشروع تخرج متكامل في الصف الثاني عشر، مع ربط كل مرحلة بمفاهيم
+  L349    CJK[会,机,的]                     الموضوع: دعوة لحضور إطلاق مبادرة Green Grow Bot —的机会 шага أولى للشراكة
+  L362    CJK[工,有,的,目,程,限,项]             طلاب حقيقيين عبر ملف إنجاز موثّق، وظهور مختصر في مادة工程项目有限的.
+  L364    LAT|AR:mountable               الأmountable: [يُذكر إن كان مؤكدًا — وإلا يُحذف البند بالكامل ولا يُلمّح إليه]
+  L366    CJK[当,晚]                       العرض سيُقدَّم حيًا في当晚، ويستغرق 12 دقيقة فقط، ثم يُتبع بحوار مفتوح.
+  L380    LATword:Media , LATword:Pitch  ## (د) خطاب / بريد صحفي (Media Pitch)
+  L386    CJK[料,新,材] , LATword:KG        الموضوع:新材料 صحفية — نموذج أولي حيّ لتعليم تطبيقي من KG حتى الصف الثاني عشر
+  L404    LATword:media                  • حصرية التصوير خلال العرض الحي (تصوير مستقل في منطقة media)
+  L406    LAT|AR:Scenario                • مقابلات مع [معلم/طالب — الشروط] وخلفScenario الكواليس
+  L411    CJK[们,我] , LATword:occurring   ستُنشر بعد [الشهر]. لا 我们 نعد بنتائج لم occurring بعد — وما سنقوله اليوم هو
+  L430    LATword:session                الموضوع: دعوة لحضور حفل إطلاق «Green Grow Bot» — ودعوة ل session تعريف لأولياء الأمور
+  L489    LATword:RSVP , LATword:capture | **مؤكد** | ردّ بتأكيد |.capture RSVP + قائمة الجلوس |
+  L499    LATword:RSVP                   | 13:00 | مراجعة RSVP وتحديث قائمة الدخول | CRM | قائمة محدّثة |
+  L520    LATword:KG                     من KG حتى الصف الثاني عشر) يوم 15 نوفمبر بفندق JW Marriott Hotel Cairo.
+  L527    LATword:sixty                  JW Marriott Hotel Cairo. sixty: [ ] والتأكيد: [رقم] | [بريد].
+  L538    CJK[《,》,）]                     آخر تذكير:）《حفل》 Green Grow Bot غدًا الأحد 15 نوفمبر — فندق JW Marriott
+  L549    LAT|AR:uai                     | مراجعة الدuai: مسؤول البروتوكول (PRO) | | |
+==============================================================================================================
+Green_Grow_Bot_Speaker_Script.md
+  L13     LATword:heap                   > 4. **الصدق قبل الانطباع.** إذا سُئل سؤال لا تملك إجابته → «سأجيبكم ببيانات بعد_heap».
+  L21     LAT|AR:Moments                 - **النظر:** للضيوف فيMoments الـ60% من الوقت، للشاشة في 20%، للمذيع في 20%.
+  L22     CJK[指]                         - **اليدان:** مفتوحتان على الطاولة أو على الميكروفون — لا指وس.
+  L34     CJK[の,夜]                       >夜の بسيط، ومبادرة كبيرة.
+  L38     LATword:adies                  >adies أسمّي أحمد جبر، وأقود مبادرة تربوية نُطلقها الليلة من مدارس جرين إنترناشونال بالعبور الجديدة. és المشروع الذي رأيتُه في عيون طلابنا قبل أسابيع، **أنظروا إلى الشاشة** — هذا ما سنراه بع
+  L50     CJK[六,第] , LAT|AR:law          > طالب في الصف第六، يدرس السرعة. ويعرف أن السرعة هي المسافة مقسومة على الزمن. ويحفظlaws، ويحلّ مسألة في الكتاب، ويجيب في الامتحان إجابة صحيحة. **ممتاز.**
+  L52     LAT|AR:living                  > ثم يُعطى آلة. آلة تتحرك. فيسأل: «كم سرعةً هذه؟» — فلا يجد في ذهنه الجواب. لأن الجواب الذي حفظه كانliving في ورقة، وهذه الآلة لا تعرف الورق.
+  L54     LATword:lugar , LATword:paced  > هذه هي المشكلة الحقيقية في التعليم اليوم — وليست مشكلة في-paced الطلاب أو في المناهج أو في الجهد. المشكلة أن **المعرفة تُدرَّس في lugar معزول، ثم يُطلب من الطالب أن يستخدمها في مكان آخر.**
+  L56     LATword:apparatus , LAT|AR:Require > والمفارقة أن هذه المشكلة لها حلّ عملي بسيط جدًا،Require apparatus لا يحتاج ميزانية ضخمة ولا تغييرًا في المنهج: أن يُعطى الطالب **شيئًا واحدًا حقيقيًا يبنيه بنفسه**، فيستخدم فيه ما تعلّمه، 
+  L64     LATword:Grade , LATword:KG     > *[الشريحة 3: خريطة KG → Grade 12 — 9 مراحل]*
+  L68     CJK[子,孩,的]                     > يبدأ الأمر في مرحلة الروضة. عربة بعجلة واحدة.的孩子 يدفعها بيده. وهذا ليس «لعبة» — في هذه اللحظة يكتشف الطفل أن القوة تصنع حركة، وأن الحركة يمكن أن تكون محكومة.
+  L70     CJK[。,待] , LATword:if          > ثم يكبر. في الصف الثالث يُضاف مؤشر ضوئي:if أضاف دارة بسيطة. وفي الصف السادس يضيف حسّاس مسافة. في。待 الصف الثامن يقود محركًا. في الصف العاشر يصمّم هندسيًا ويحاكي قبل أن يبني. في الصف الحادي 
+  L87     CJK[解,误]                       > وأريد أن أقول بوضوح تام، لأن هذا أهم误解 ممكن:
+  L93     LATword:promises               > ولهذا لن promises — ولن نقولها الليلة ولن نقولها بعد سنة — **لن نَعِد بوظيفة، ولن نَعِد بقبول جامعي.** لا أحد يستطيع أن يعِد بذلك بصدق. ما نلتزم به هو شيء آخر، وهو قابل للقياس: **أن يُبنى 
+  L106    LATword:certain                > في الصف الثالث يضيف مصباحًا صغيرًا يضيء عند أمر certain — فيحسب، ويتعلم المعنى الشرطي للبرنامج.
+  L110    LATword:microcontroller        > في الصف الحادي عشر يربط microcontroller بالإنترنت فيرسل مستوى الماء في الخزان إلى لوحة على الشاشة.
+  L113    LATword:fact , LAT|AR:ctorial  > الآن قارنوا بين طالبٍ حفظ fact **السرعة = مسافة ÷ زمن**، وطالبٍ حسب السرعة لروبوت **самو** يctorial يقطع مسافة حقيقية في وقت حقيقي.
+  L114    LATword:enormous               > **المعلومة واحدة. الفرق enormous.** الفرق أن الأول نسيها بعد الامتحان، والثاني ما زال يستطيع أن يفعلها، ويشرحها، ويطوّرها.
+  L124    LAT|AR:Splendor                > ونحن في مصر اليوم أمام تحدٍّ حقيقي: خريج ممتاز في المناهج، وسوق عمل يطلب مهارات تطبيقية. المسافة بينهما هي المسافة التي يسدّها التعليم التطبيقي. ومهمتنا أن نبدأ سدّها — لا فيSplendor العرض
+  L126    CJK[这,项] , LATword:laporan , LAT|AR:COMPARE , LAT|AR:ustainability > والمسؤولية أمامنا لا خفيفة: أن نأخذ这项 مسؤولية في **الطريقustainability** — أن نضعCOMPARE لكل طالب، وأن نترك أثرًا لا نراه نحن فقط، بل يراه أولياء الأمور، في ملف إنجاز حقيقي، وفي laporan تق
+  L128    CJK[和,目,项] , LATword:Streambadges > وهذه المساء،项目和 많은 Streambadges — **نحن نبدأ بوعد واحد: من التعليم إلى الابتكار، مشروع واحد يتطور مع الطالب.**
+  L138    LATword:expanded               > **أولًا —-expanded التشغيل التجريبي.** نبدأ بعدد محدود من الفصول، لا بكل المدرسة في مرة. نقيس، ونعدل، ثم نوسّع. لن أُعلن عن عدد الفصول الليلة — القرار بعد تجهيز المعلمين.
+  L140    LATword:therefore              > **ثانيًا — تدريب المعلمين.** لا يمكن أن تصمد مبادرة معلم لا يجيد تنفيذها. therefore نبدأ بتدريب معلمي الصفوف الأولى، ثم نترجم التجربة إلى منهج تدريب معتمد.
+  L142    CJK[器,材] , LATword:reclamaci   > **ثالثًا — شراكات.** نطلب اليوم ثلاث أشياء محددة: من الجامعات — حدِّد معنا معايير تقييم للمشروع؛ ومن القطاع الخاص — خطوة أولى في器材 ودعم تطبيقي؛ ومن reclamación медارس — تبادل الخبرة.
+  L146    LAT|AR:rubric                  > - **نسبة إتقان المهارات المستهدفة** — بrubric من مئة نقطة، لا بانطباع.
+  L167    LATword:Ministry               > أشكر Ministry أن كنتم هنا. أشكر كل من صبر على هذه الدقيقة الأخيرة، وكل من سيبني نسخته الخاصة من هذا الروبوت.
+  L180    LATword:Mongo                  > **قواعد:** تُقال من STANDING، بنبرة أهدأ، وتُصوَّر بـ 3 إعدادات (Mongo 8). لا تبدأ بجملة تحية طويلة. ابدأ بالجملة الأقوى. **لا تقل أي رقم غير موجود في حقيبة الصحفيين.**
+  L191    LATword:pushes                 > «مثال واحد: مشروع روبوت يرشيد المياه. في الصف الأول: عربة pushes. في الصف السادس: حسّاس مسافة وقياس سرعة. في الصف الثاني عشر: نظام متكامل موثّق. نفس المشروع، لكنه ينمو — فيعرف الطالب لماذا
+  L197    LATword:Independent            > «ما أطلبه اليوم: أن ترونا في مختبر المدرسة. تجربته، ثم تحدّثوا إلينا.Independent نفتح أبوابنا لثلاث شراكات هذا العام: مع الجامعات في معايير التقييم، ومع القطاع الخاص في دعم تطبيقي، ومع الم
+  L207    LATword:guarantee , LATword:job | **«هل تضمن وظائف أو قبولًا جامعيًا؟»** | «لا. لا نعد بما لا نقدر على ضمانه. نلتزم بمسار موثّق ومقاس.-job guarantee ليس في قدرتنا ولا في إرادتنا، ومن يقول غير ذلك يبيع.» |
+  L211    LATword:TOT , LATword:ourselves | **«من يدرّس ذلك؟ وكلفت؟»** | «معلمون من المدرسة بعد تدريب منظم (TOT)، وبمحتوى نкур ourselves نكتبه ونصقله. التكلفة تُحدَّد بعد أول مرحلة تجريبية ونعلنها صراحة — لن نُضخّم الأرقام قبل قياسه
+  L213    LATword:Several , LATword:logo | **«هل هناك شراكة مع جهة حكومية؟»** | «نتواصل مع جهات Several. أي شراكة أو_logo سيُعلن فقط بعد موافقة مكتوبة — لا نستخدم اسم جهة بلا إذن.» |
+  L214    LATword:covered                | **«ما تكلفة ذلك على رسوم المدرسة؟»** | «المبادرة جزء من النموذج التعليمي للمدرسة ولا تُحمَّل رسومًا إضافية على أولياء الأمور. التكلفة التشغيلية للاستخدام covered من موارد المدرسة، وننشر تو
+  L220    LATword:MC                     # 3. نص مقدم الحفل (MC) — النسخة الكاملة
+  L222    LATword:improvisent            > **قاعدة المذيع:** يقرأ **ما هو موقّع فقط**. اسم غير مؤكد = خانة `[ ]`. رقم غير موجود في الملف المرجعي = لا يُقال. **لا يُ improvisent اجتهادًا في الألقاب.**
+  L255    LATword:INITIATIVE             > **[خيار انتقالي 3]** «ولن يخبرنا بالفكرة فقط — بل سيخبرنا بما الذي لن يدّعيه_INITIATIVE.»
+  L256    LATword:Mr                     > Mr. أحمد جبر — [الصفة الرسمية المعتمدة].»
+  L262    LATword:Chargephemerality , LAT|AR:Measure > ولأن Chargephemerality لا تُبنى على الحماس بل على الأرقام، سأعرض عليكم الآن الأرقام التي بنينا عليها هذه المبادرة. ولاحظوا معي: **أرقام خط أساس وخطط، وليست نتائج بعد.** سنMeasure بعد ذلك ب
+  L286    CJK[块,模] , LATword:eville      ### 3.9 تقديم 模块eville الخبير/الجامعة (19:12 – 19:20)
+  L287    LATword:content                > «ولأن ما نقدّمه ليس ذوقًا شخصيًا بل(content) يحتاج تصحيحًا أكاديميًا، يسعدنا أن نسمع من جهة ستساعدنا في وضع معايير التقييم.
+  L293    LAT|AR:Kat                     > «الآن،Kataم часٌ من الوقت لنا. سآخذ ثلاثة أسئلة من الزملاء الذين لن يصل إليهم الميكروفون بسهولة، ثم أترك المجال مفتوحًا.
+  L303    LATword:Initiative             - **حول المنهج:** «المنهج لا يُلمس. Initiative تضيف طبقة تُختبر فيها، ولا تحل محل أي متطلب.»
+  L346    LATword:PR                     | مراجعة الدقة (ادعاءات/أرقام) | [ ] مسؤول الإعلام (PR) | |
+
+TOTAL FLAGGED LINES: 1065

@@ -1,0 +1,281 @@
+Green_Grow_Bot_90_Day_Roadmap.md L10  [continuidad]
+    > **مبدأ الحاكم لهذه الخطة:** الخطة تنتهي إلى **تجربة تعليمية قابلة للتقييم** — لا إلى continuidad النشر الإعلامي. النشر جزء من الأدوات، وليس الغاية.
+
+Green_Grow_Bot_90_Day_Roadmap.md L174  [Monkeypatched]
+    | تسرّب المنهج /Monkeypatched الصفوف | متوسط | مرتفع | مراجعة أسبوعية لخطط الحصص + مدير المدرسة | CT |
+
+Green_Grow_Bot_90_Day_Roadmap.md L378  [Gautierful,Gautier]
+    | 3 | تمثيل المبادرة أمام الشركاء | حسب الحاجة | Gautierful |
+
+Green_Grow_Bot_Canonical_Spec.md L31  [Pre-f]
+    - **Pre-function I / II / III**: 330 / 330 / 385 (استقبال) — تصلح للتسجيل والاستقبال.
+
+Green_Grow_Bot_Canonical_Spec.md L36  [Pre-f]
+    - **السيناريو A (اقتصادي) / B (متوسط):** قاعة **Cheops** (352 م²) + Pre-function I/II للتسجيل والاستقبال.
+
+Green_Grow_Bot_Canonical_Spec.md L37  [Pre-f]
+    - **السيناريو C (فاخر):** Tutankhamun Section I + Pre-function.
+
+Green_Grow_Bot_Canonical_Spec.md L179  [plenary]
+    - **القرار:** برنامج plenary مدته **85 دقيقة** (18:30–19:55) يجمع: افتتاح (8 د) + كلمة المؤسس (6 د) + عرض حي (12 د) + حوار (20 د) + إعلان الخطوات القادمة (6 د) + شكر (3 د) + فاصل استقبال (45 د).
+
+Green_Grow_Bot_Canonical_Spec.md L192  [provider]
+    | 5 | القطاع الخاص وتقنية/روبوتكس |.provider + مستثمر | «شريك تطبيقي بمخرجات واضحة» | شراكة | A | منسق البرنامج |
+
+Green_Grow_Bot_Canonical_Spec.md L211  [Pre-f]
+    | 1 | قاعة وخدمات الفندق (Cheops + Pre-function، 6 ساعات) | تقدير | 45,000 |
+
+Green_Grow_Bot_Canonical_Spec.md L229  [Pre-f]
+    | 1 | قاعة Tutankhamun Section II + Pre-function (8 ساعات) | تقدير | 95,000 |
+
+Green_Grow_Bot_Canonical_Spec.md L247  [Pre-f]
+    | 1 | قاعة Tutankhamun Section I + Pre-function + استقبال خاص | تقدير | 180,000 |
+
+Green_Grow_Bot_Canonical_Spec.md L278  [muitos]
+    إقامة الضيوف • بدلاتIEREN • Translations/التأجير المولدات • الترجمة Simultaneous • هدايا الضيوف تتجاوز التذاكر • أتعاب muitos الملحق • التأمين الإضافي • ضرائب/رسوم غير مذكورة.
+
+Green_Grow_Bot_Canonical_Spec.md L318  [who've]
+    | EDU-02 | إتقان المهارات المستهدفة | L2 | (الطلاب who've قوا المستوى ≥ 80%) ÷ الإجمالي × 100 | قائمة تقييم المشروع | المعلم + منسق البرنامج | نهاية كل مرحلة | — | ≥ 75% | Rubric موحّد |
+
+Green_Grow_Bot_Canonical_Spec.md L442  [kirkpatrickpartners,content]
+    | S16 | Kirkpatrick Partners — Four Levels | https://www.kirkpatrickpartners.com/wp-content/uploads/2021/09/111614_Kirkpatricks-Four-Levels-of-Training-Evaluation_Sample-Chapter.pdf | إطار القياس |
+
+Green_Grow_Bot_Educational_Model.md L32  [Initiative,Subsidiary,Subsidia]
+    **الرؤية:** يُبنى عبر Green Grow Bot طالبٌ يعرف كيف يسأل «كيف يعمل؟»، ويعرف كيف يجرّب بنفسه، ويعرف كيف يشرح ما وجده بلغة واضحة. Subsidiary three — لا لأن Initiative تستبدل المنهج، بل لأن المنهج وحده لا ينتج دائمًا هذا النوع من الفهم: المنهج يشرح «الميل» في الفصل، و Green Grow Bot يجعل الطالب يصنع عربة تنزلق على ميل حقيقي فيقيس الزاوية ويكتشف أن «الاحتكاك» ليس مفهومًا ورقيًا بل سلوكًا يوقف العربة. الرؤية إذن تربوية قبل أن تكون تقنية: **التحوّل من متلقٍّ سلبي إلى مهندس تعلّم**.
+
+Green_Grow_Bot_Educational_Model.md L184  [Etsy]
+    | 7 | G9–G10 (14–16) | دورة التصميم (تعريف–تخطيط–بناء–اختبار–تحسين)؛ النمذجة في محاكاة؛ CAD ثنائي/ثلاثي الأبعاد؛ قائمة المواد (BOM) والتكلفة؛ الجدول الزمني؛ إدارة المخاطر؛ معايير القبول | نموذج رقمي للمشروع في Tinkercad/Wokwi؛ مخطط هندسي (قياسات + سماحية)؛ خطة اختبار مكتوبة؛ جدول زمني وبنود تكلفة | يكتب معايير قبول رقمية قبل البناء؛ يوثّق فشلًا افتراضيًا ويعدّل التصميم بناءً عليه؛ يذكر خطرين وإجراءً لكل | الرياضيات: الهندسة والقياس والسماحية. العلوم: النموذج الفيزيائي. اللغة: التقرير التقني. المهارات الاجتماعية: التفاوض على الأدوار والميزانية | الانتقال من «بناء يعمل» إلى «قرار تصميم مُبرَّر»؛ G10: إضافة إدارة الجدول والميزانية | مراجعة تصميم شهرية أمام لجنة من معلمين؛ Rubric كامل + معايير القبول المكتوبة | Raspberry Pi Pico 550؛ Arduino Uno 239؛ NodeMCU 175؛ حسابات محاكاة وبرمجيات CAD [يحتاج تأكيد — نسخ تعليمية مجانية] | **اللحام يبدأ هنا (G9 فأعلى)**: نظارة و Etsy نهوية، شفط، لحام خالٍ من الرصاص، موصلات بيد المعلم؛ لا لحام بال لوحدهم؛ طاولات غير قابلة للاشتعال؛ مراجعة السلامة قبل كل جلسة لحام | معلم الفصل [اسم] + مشرف السلامة (SAFE) + منسق البرنامج (CT) |
+
+Green_Grow_Bot_Educational_Model.md L511  [selon]
+    | 9.5 | **مراجعة الأقران** | يراجع مشروع زميل selon المعايير ويكتب ملاحظتين | نقد بنّاء | ملاحظات الأقران |
+
+Green_Grow_Bot_Educational_Model.md L552  [descart]
+    | **تصميم (25)** | 0–9: المشكلة موصوفة 있지만 بلا معايير قبول واضحة | 10–19: معايير قبول موجودة (واحد على الأقل)، الحل منطقي مع تبرير جزئي | 20–25: معايير قبول رقمية مكتملة، بدائل مقارَنة، مبرر صريح يخاطب descart المبدأ |
+
+Green_Grow_Bot_Educational_Model.md L565  [reflectself]
+    | بطاقة «أستطيع أن…» | أسبوعيًا (المرحلتان 1–2) | الطالب ذاتيًا | reflectself الأولي |
+
+Green_Grow_Bot_Educational_Model.md L569  [perspectiva]
+    | تغذية راجعة من الأقران | مرة كل 6 أسابيع | الأقران | perspectiva خارجية |
+
+Green_Grow_Bot_Educational_Model.md L616  [selfiereflection]
+    | selfiereflection | «ما الذي أصبحت أفضل فيه؟» | نصي | 3 أسطر |
+
+Green_Grow_Bot_Educational_Model.md L625  [GGB]
+    | تسمية الملفات | `GGB_S{رقم_المرحلة}_{رقم_الفصل}_{اسم_مختصر}_{نوع_الدليل}_{التاريخ}` — مثال: `GGB_S05_2_OM_قياس_2027-02-14` |
+
+Green_Grow_Bot_Educational_Model.md L666  [asures]
+    | 5–6 (G6–G8) | 5V و12V DC (بطاريات ومشغّلات) | تيار الشبكة 220V؛ لحام بلا إشراف |asures التيار عبر ACS712 للمراقبة |
+
+Green_Grow_Bot_Educational_Model.md L690  [Nola,Nolayer]
+    | حواجز | م Nolayer على الأرحام الساقطة (الأدراج، الرفوف) |
+
+Green_Grow_Bot_Educational_Model.md L733  [Incident]
+    | 3 | توثيق Incident بلغة وصفية وقائية (لا يُحمَّل فيه أحد) | في نفس اليوم | المعلم + SAFE |
+
+Green_Grow_Bot_Educational_Model.md L735  [Root,cause]
+    | 5 | تحليل السبب (Root cause) وإضافة إجراء وقائي | خلال 5 أيام | SAFE |
+
+Green_Grow_Bot_Educational_Model.md L746  [consents]
+    | الموافقة | نموذج موافقة رقمي لكل أسرة + قائمة مرجعية (SPEC RSK-08)؛ لا يُعدّ consents الشفهي موافقة |
+
+Green_Grow_Bot_Educational_Model.md L779  [Mimi]
+    | ما هو **غير** مشمول | زمن المعلمين · مساحة المختبر وتجهيزاته · كتابة المنهج · التدريب والتأهيل · تراخيص البرمجيات · اشتراكات الاتصالات · البطاريات الاستهلاكية المتكررة · المستلزمات الورقية · Mimi Exhibition |
+
+Green_Grow_Bot_Educational_Model.md L807  [ADU-]
+    **توصية الطيار:** البدء بـ **طيار أ (G6)** لأنه: (1) يقيس أثر المنهج الأكاديمي بأوضح شكل (حساسات ورياضيات)، (2) تكلفته الأدنى، (3) يمكن إعادة استخدام معظم معداته لاحقًا في المراحل 6–9 (Arduino Uno و LM35 و MPU-6050 و ACS712 مستخدمة في أكثر من مرحلة)، (4) ينتج في 6 أسابيع أول «لوحة أدلة» تُستخدم في قياس أثر خ ADU-01/EDU-02.
+
+Green_Grow_Bot_Educational_Model.md L854  [errorMargins]
+    | **5 — G6** | المتوسط والمدى والرسم البياني؛ متناسب مباشر بين المسافة والزمن | القياس ودقة الأداة والمعايرة؛_errorMargins | الحساس كمدخل رقمي؛ ADC؛ تسجيل البيانات | قراءة الرسم البياني ووصفه لفظيًا | عرض البيانات بصريًا (لوحة/رسم) | تشارك القياس مع الزملاء والتحقق المتبادل |
+
+Green_Grow_Bot_Educational_Model.md L890  [None]
+    | مسار الدعم | الطالب الذي لم يبلغ العتبة يُنقل **بدون إ.None** إلى مسار دعم مكثّف (4 أسابيع) ويُعاد القياس؛ لا يُنقل تلقائيًا بلا خطة |
+
+Green_Grow_Bot_Educational_Model.md L934  [Initiative]
+    **النقطة الجوهرية:** المبادرة **لا تعد مهنة ولا تضمن مكانًا**. هي تبني طريقة تفكير قابلة للنقل إلى أي تخصص لاحق. 결과 Initiative يُقاس ويُنشر، ولا يُستخدم كوعد. يبقى الأثر على مؤشرات المدرسة (احتفاظ، تسجيلات، نتائج) **خارج نطاق إثبات هذه المبادرة**، ويُقاس ببيانات التشغيل وحدها (SPEC §8.2 — القاعدة الإلزامية: لا يُنسب أي تحسّن في قيمة المدرسة إلى الحفل أو إلى المبادرة).
+
+Green_Grow_Bot_Educational_Model.md L949  [pollutantsowns]
+    | اعتماد-cultural pollutantsowns spokesperson | `[ ]` | الأستاذ أحمد جبر — صاحب المبادرة | `[ ]` | `[ ]` |
+
+Green_Grow_Bot_Educational_Model.md L969  [kirkpatrickpartners]
+    | S16 | kirkpatrickpartners.com | إطار كيركباتريك الرباعي | 28 أكتوبر 2026 |
+
+Green_Grow_Bot_Event_Runbook.md L5  [Pre-f]
+    **القاعة المقترحة:** Cheops (352 م²) + Pre-function I/II للتسجيل والاستقبال — **حالة الحجز: `[يحتاج تأكيد]`**
+
+Green_Grow_Bot_Event_Runbook.md L32  [symbolized]
+    | الإطلاق المؤسسي | الفقرات 1–3 و9–10 | 18:30–18:47 و19:44–19:55 | إعلان رسمي موثّق والصورة symbolized |
+
+Green_Grow_Bot_Event_Runbook.md L51  [complement]
+    | **1. قيادات وزارة التربية والتعليم والجهات التعليمية** | اعتراف مؤسسي واحتواء المشروع داخل سياسة التطوير | «مساهمة تربوية تُقاس، complement المنهج لا تستبدله» | خطابي + لقاء وجهاً لوجه | زيارة أو مكالمة من PM | **A** | PRO |
+
+Green_Grow_Bot_Event_Runbook.md L52  [independentemente,pasefromGateway,pasefromGateway]
+    | **2. جهات تطوير المهارات والجهات الحكومية ذات الصلة** (TIEC، وزارة الشباب والرياضة، pasefromGateway independentemente) | شراكة تشغيلية: مسابقات، مدرّبون، بنية تحتية | «بنية تحتية ومسار تدريب ومخرَج قابل للتوسع» | لقاء + طلب مشاركة | خطاب رسمي + متابعة | **A** | PRO |
+
+Green_Grow_Bot_Event_Runbook.md L56  [olicited]
+    | **6. أصحاب المؤسسات التعليمية والمستثمرون في التعليم** | تكرار النموذج | «نموذج قابل للنسخ ببيانات تشغيل» | عرض |olicited follow-up | **B** | CT |
+
+Green_Grow_Bot_Event_Runbook.md L93  [USBPresenter]
+    | 16:00 | 30 د | اختبار الصوت والإضاءة والاتصال | ضبط | TEC | كابلات احتياطية، USBPresenter | ملف عرض على لابتوب + USB |
+
+Green_Grow_Bot_Event_Runbook.md L112  [ruined]
+    | **20:15** | **45 د** | **الاستقبال الختامي** | بناء العلاقات | PM + LOG | ضيافة + مناطق ruined | 6+ محادثات ثنائية مسجّلة |
+
+Green_Grow_Bot_Event_Runbook.md L142  [improvisent]
+    > **قاعدة المذيع:** يقرأ **ما هو موقّع فقط** في جدول القوائم. أي اسم أو صفة غير مؤكدة تُقرأ بصيغة **general** دونلقب، أو تُحذف الفقرة. لا ي improvisent اجتهادًا في الصفات.
+
+Green_Grow_Bot_Event_Runbook.md L184  [Mismatch]
+    > من ∂Mismatch يقرأ ما تعلّمه طالب — على بعد √من الواحد والستين — سيبدأ في مكان ما. **ف_team، نلتقي في الصف.**
+
+Green_Grow_Bot_Event_Runbook.md L201  [Beat]
+    ### هـ.2Beat sheet — 12 دقيقة
+
+Green_Grow_Bot_Event_Runbook.md L228  [sorry,problem]
+    **قاعدة المشغّل:** لا يُصرخ في الميكروفون، ولا يُقال «sorry for the technical problem». العبارة المعتمدة: **«شكرًا لصبركم — لدينا نسخة جاهزة، ولنتابع.»**
+
+Green_Grow_Bot_Event_Runbook.md L251  [Pre-f]
+    │ │ (Pre-f. I) │ │ + طاقة + ملا │ │
+
+Green_Grow_Bot_Event_Runbook.md L278  [Pre-f]
+    │ │ الاستقبال الختامي │ (Pre-function II) │ ضيافة / مشروبات │ │
+
+Green_Grow_Bot_Event_Runbook.md L288  [Pre-f]
+    | المدخل والتسجيل | Pre-function I — طاولتان، قائمتا أسماء، كروت دخول، إشارة واي فاي مخصصة |
+
+Green_Grow_Bot_Event_Runbook.md L289  [Pre-f]
+    | الاستقبال | Pre-function II — ضيافة استقبال خفيفة، منطقة وقوف |
+
+Green_Grow_Bot_Event_Runbook.md L295  [Pre-f]
+    | الاستقبال الختامي | Pre-function II + كولارد خفيف |
+
+Green_Grow_Bot_Master_Strategy.md L161  [map]
+    > تُدار عبر خطة المحتوى والمكانة المهنية (90 يومًا) في `Green_Grow_Bot_90_Day_Roadmap.md`، وتُوثَّق عبر `Green_Grow_Bot_PR_and_Media.md`. الشرط الحاكم: المحتوى مبني على الإنجاز الفعلي لا على الظهور، وأي مادة تُنشر قبل وجود دليل على مُخرَجها تبقى مسودة غير منشورة.
+
+Green_Grow_Bot_Master_Strategy.md L246  [Pre-f]
+    | 1 | قاعة وخدمات الفندق | Cheops + Pre-function، 6 ساعات — 45,000 (تقدير) | Tutankhamun Section II + Pre-function، 8 ساعات — 95,000 (تقدير) | Tutankhamun Section I + Pre-function + استقبال خاص — 180,000 (تقدير) |
+
+Green_Grow_Bot_Master_Strategy.md L293  [Pre-f]
+    1. اسم القاعة وسعتها ومدة الجلسة (A: Cheops 6 ساعات · B: Tutankhamun Section II 8 ساعات · C: Tutankhamun Section I) مع تأكيد Pre-function للتسجيل والاستقبال.
+
+Green_Grow_Bot_Master_Strategy.md L495  [sertifikat,osculate]
+    | 9. الموافقات على التصوير والنشر (معلمون/أولياء أمور/طلاب) | أ) نموذج موافقة موقّع ≥ 60% · ب) موافقات ناقصة · ج) لا موافقات | أ) يسمح بالتصوير والنشر · ب) يمنع تصوير-osculate sertifikat · ج) يمنع التصوير كليًا مع لافتة «بدون تصوير» | 12 نوفمبر (إنذار: 10 نوفمبر) | تُمنع التغطية المصوّرة للطلاب ولا يُنشر أي اسم طالب أو وليّ أمر | PR |
+
+Green_Grow_Bot_Master_Strategy.md L501  [vinculados]
+    **اعتماد:** تُقرَّر البنود أعلاه من قِبل الأستاذ أحمد جبر (الاعتماد النهائي) عبر PM في كل الحالات، وتُسجَّل القرارات في الملف المرجعي على أن يمنع التسليم النهائي حتى بت vinculados ها.
+
+Green_Grow_Bot_Master_Strategy.md L518  [map]
+    | 10 | `Green_Grow_Bot_90_Day_Roadmap.md` | خطة ما بعد الإطلاق في أربع مراحل (1–7، 8–30، 31–60، 61–90) ومؤشرات الانتقال بينها. |
+
+Green_Grow_Bot_PR_and_Media.md L171  [ussi]
+    | المخرجات |① فيديو 90 ثانية (احتياطي العرض +ussi في التواصل) ② فيديو 3–5 دقائق (المادة الرئيسية) ③ 6 مقاطع 15–30 ثانية (للنشر) ④ لقطة عمودية (Reels/TikTok) ⑤ 3 صور ثابتة عالية الدقة |
+
+Green_Grow_Bot_PR_and_Media.md L254  [possibile,Upsound,Upsound]
+    | متابعة كل possibile Upsound مقال | خلال 24 س | PR | رد تصحيحي إن لزم |
+
+Green_Grow_Bot_PR_and_Media.md L272  [map]
+    ### 6.1 القمع وم	map التحول
+
+Green_Grow_Bot_PR_and_Media.md L275  [reach]
+    | **1. وعي** | الضيف/المشاهد يعرف المبادرة |-PR + محتوى | reach | PR |
+
+Green_Grow_Bot_PR_and_Media.md L277  [haqqiq,haqqiq]
+    | **3. تواصل** | يترك بيانات | **نموذج اهتمام** (اسم + صلة + الصف/haqqiq) | COM-01 | CRM |
+
+Green_Grow_Bot_PR_and_Media.md L282  [EGC]
+    ### 6.2 نموذج الاهتمام (EGC) —.capture fields
+
+Green_Grow_Bot_PR_and_Media.md L301  [GGB,NOV-A,GGB-]
+    - **رمز المصدر:** كل استفسار يحمل رمزًا (مثال: `GGB-15NOV-A1`) — يلتصق بكل اتصال لاحق.
+
+Green_Grow_Bot_PR_and_Media.md L357  [GGB]
+    | 15 | **تقرير مختصر** | «15 دقيقة في فصل الـ GGB» | مدونة + موقع | إثبات |
+
+Green_Grow_Bot_PR_and_Media.md L382  [rota]
+    | مظاهرة/مشاركة في ملتقى | حسب rota | [ ] | حضور |
+
+Green_Grow_Bot_Protocol_and_Invitations.md L86  [visibilit,visibilit]
+    | **ما يطلبه** | الحضور + التأكيد | رعاية + visibilité + تعديل المواد | دور أو التزام محدد |
+
+Green_Grow_Bot_Protocol_and_Invitations.md L127  [tricotores,tricotores]
+    - **لا يُحذف** من قائمة الدعوات: يُنقل إلى قائمة «متابعة بعد الحدث» وتُرسل له حزمة tricotores (ملخص المناسبة + رابط المشروع + دعوة الاستقبال).
+
+Green_Grow_Bot_Protocol_and_Invitations.md L215  [TRANSMISSION]
+    ☐ أوافق على التصوير مع TRANSMISSION مباشر
+
+Green_Grow_Bot_Protocol_and_Invitations.md L276  [abatic]
+    ولن تكون الأمسية مناسبة فقط، بل abatic ية: سيُعرض نموذج أولي حيّ، وتُشرح
+
+Green_Grow_Bot_Protocol_and_Invitations.md L278  [Concerned]
+    القادمة وفرص التعاون المتاحة للجهات Concerned.
+
+Green_Grow_Bot_Protocol_and_Invitations.md L411  [occurring]
+    ستُنشر بعد [الشهر]. لا نعد بنتائج لم occurring بعد — وما سنقوله اليوم هو
+
+Green_Grow_Bot_Protocol_and_Invitations.md L527  [sixty]
+    JW Marriott Hotel Cairo. sixty: [ ] والتأكيد: [رقم] | [بريد].
+
+Green_Grow_Bot_Speaker_Script.md L13  [heap,heap]
+    > 4. **الصدق قبل الانطباع.** إذا سُئل سؤال لا تملك إجابته → «سأجيبكم ببيانات بعد_heap».
+
+Green_Grow_Bot_Speaker_Script.md L38  [adies,adies]
+    >adies أسمّي أحمد جبر، وأقود مبادرة تربوية نُطلقها الليلة من مدارس جرين إنترناشونال بالعبور الجديدة. és المشروع الذي رأيتُه في عيون طلابنا قبل أسابيع، **أنظروا إلى الشاشة** — هذا ما سنراه بعد قليل.
+
+Green_Grow_Bot_Speaker_Script.md L54  [paced,lugar,paced,lugar]
+    > هذه هي المشكلة الحقيقية في التعليم اليوم — وليست مشكلة في-paced الطلاب أو في المناهج أو في الجهد. المشكلة أن **المعرفة تُدرَّس في lugar معزول، ثم يُطلب من الطالب أن يستخدمها في مكان آخر.**
+
+Green_Grow_Bot_Speaker_Script.md L93  [promises]
+    > ولهذا لن promises — ولن نقولها الليلة ولن نقولها بعد سنة — **لن نَعِد بوظيفة، ولن نَعِد بقبول جامعي.** لا أحد يستطيع أن يعِد بذلك بصدق. ما نلتزم به هو شيء آخر، وهو قابل للقياس: **أن يُبنى كل طالب على مسار موثّق، وأن نعرف — بأرقام لا بانطباعات — مدى تقدّمه.**
+
+Green_Grow_Bot_Speaker_Script.md L106  [certain]
+    > في الصف الثالث يضيف مصباحًا صغيرًا يضيء عند أمر certain — فيحسب، ويتعلم المعنى الشرطي للبرنامج.
+
+Green_Grow_Bot_Speaker_Script.md L128  [Streambadges]
+    > وهذه المساء، 많은 Streambadges — **نحن نبدأ بوعد واحد: من التعليم إلى الابتكار، مشروع واحد يتطور مع الطالب.**
+
+Green_Grow_Bot_Speaker_Script.md L138  [expanded]
+    > **أولًا —-expanded التشغيل التجريبي.** نبدأ بعدد محدود من الفصول، لا بكل المدرسة في مرة. نقيس، ونعدل، ثم نوسّع. لن أُعلن عن عدد الفصول الليلة — القرار بعد تجهيز المعلمين.
+
+Green_Grow_Bot_Speaker_Script.md L140  [therefore]
+    > **ثانيًا — تدريب المعلمين.** لا يمكن أن تصمد مبادرة معلم لا يجيد تنفيذها. therefore نبدأ بتدريب معلمي الصفوف الأولى، ثم نترجم التجربة إلى منهج تدريب معتمد.
+
+Green_Grow_Bot_Speaker_Script.md L142  [reclamaci]
+    > **ثالثًا — شراكات.** نطلب اليوم ثلاث أشياء محددة: من الجامعات — حدِّد معنا معايير تقييم للمشروع؛ ومن القطاع الخاص — خطوة أولى في ودعم تطبيقي؛ ومن reclamación ارس — تبادل الخبرة.
+
+Green_Grow_Bot_Speaker_Script.md L167  [Ministry]
+    > أشكر Ministry أن كنتم هنا. أشكر كل من صبر على هذه الدقيقة الأخيرة، وكل من سيبني نسخته الخاصة من هذا الروبوت.
+
+Green_Grow_Bot_Speaker_Script.md L180  [Mongo]
+    > **قواعد:** تُقال من STANDING، بنبرة أهدأ، وتُصوَّر بـ 3 إعدادات (Mongo 8). لا تبدأ بجملة تحية طويلة. ابدأ بالجملة الأقوى. **لا تقل أي رقم غير موجود في حقيبة الصحفيين.**
+
+Green_Grow_Bot_Speaker_Script.md L191  [pushes]
+    > «مثال واحد: مشروع روبوت يرشيد المياه. في الصف الأول: عربة pushes. في الصف السادس: حسّاس مسافة وقياس سرعة. في الصف الثاني عشر: نظام متكامل موثّق. نفس المشروع، لكنه ينمو — فيعرف الطالب لماذا كل قطعة موجودة.»
+
+Green_Grow_Bot_Speaker_Script.md L197  [Independent]
+    > «ما أطلبه اليوم: أن ترونا في مختبر المدرسة. تجربته، ثم تحدّثوا إلينا.Independent نفتح أبوابنا لثلاث شراكات هذا العام: مع الجامعات في معايير التقييم، ومع القطاع الخاص في دعم تطبيقي، ومع المدارس في تبادل الخبرة.»
+
+Green_Grow_Bot_Speaker_Script.md L207  [guarantee]
+    | **«هل تضمن وظائف أو قبولًا جامعيًا؟»** | «لا. لا نعد بما لا نقدر على ضمانه. نلتزم بمسار موثّق ومقاس.-job guarantee ليس في قدرتنا ولا في إرادتنا، ومن يقول غير ذلك يبيع.» |
+
+Green_Grow_Bot_Speaker_Script.md L211  [ourselves]
+    | **«من يدرّس ذلك؟ وكلفت؟»** | «معلمون من المدرسة بعد تدريب منظم (TOT)، وبمحتوى ن ourselves نكتبه ونصقله. التكلفة تُحدَّد بعد أول مرحلة تجريبية ونعلنها صراحة — لن نُضخّم الأرقام قبل قياسها.» |
+
+Green_Grow_Bot_Speaker_Script.md L213  [Several]
+    | **«هل هناك شراكة مع جهة حكومية؟»** | «نتواصل مع جهات Several. أي شراكة أو_logo سيُعلن فقط بعد موافقة مكتوبة — لا نستخدم اسم جهة بلا إذن.» |
+
+Green_Grow_Bot_Speaker_Script.md L214  [covered]
+    | **«ما تكلفة ذلك على رسوم المدرسة؟»** | «المبادرة جزء من النموذج التعليمي للمدرسة ولا تُحمَّل رسومًا إضافية على أولياء الأمور. التكلفة التشغيلية للاستخدام covered من موارد المدرسة، وننشر توثيقها المالي عند اكتمال أول مرحلة.» |
+
+Green_Grow_Bot_Speaker_Script.md L215  [five-star]
+    | **«لماذا في فندق five-star ؟»** | «لأننا نستضيف ضيوفًا من جهات تعليمية وجامعات وقطاع خاص، ولأن المساحة تسمح بعرض حيّ حقيقي ومنطقة حوار واستقبال — وهو ما لا تتسع له قاعة مدرسية. لكن الفارق الحقيقي ليس المكان: الفارق هو جودة العمل التعليمي الذي سنعرضه عليكم.» |
+
+Green_Grow_Bot_Speaker_Script.md L222  [improvisent]
+    > **قاعدة المذيع:** يقرأ **ما هو موقّع فقط**. اسم غير مؤكد = خانة `[ ]`. رقم غير موجود في الملف المرجعي = لا يُقال. **لا يُ improvisent اجتهادًا في الألقاب.**
+
+Green_Grow_Bot_Speaker_Script.md L255  [INITIATIVE]
+    > **[خيار انتقالي 3]** «ولن يخبرنا بالفكرة فقط — بل سيخبرنا بما الذي لن يدّعيه_INITIATIVE.»
+
+Green_Grow_Bot_Speaker_Script.md L287  [content]
+    > «ولأن ما نقدّمه ليس ذوقًا شخصيًا بل(content) يحتاج تصحيحًا أكاديميًا، يسعدنا أن نسمع من جهة ستساعدنا في وضع معايير التقييم.
+
+Green_Grow_Bot_Speaker_Script.md L303  [Initiative]
+    - **حول المنهج:** «المنهج لا يُلمس. Initiative تضيف طبقة تُختبر فيها، ولا تحل محل أي متطلب.»
